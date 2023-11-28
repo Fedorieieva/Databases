@@ -1,0 +1,1501 @@
+type_of_loan_id,name,interest_rate,payment_term
+1,Home equity,3.9,345
+2,Personal,3.89,356
+3,Student,8.06,748
+4,Payday,7.3,900
+5,Personal,8.76,251
+6,Mortgage,3.4,272
+7,Personal,9.2,667
+8,Student,6.53,150
+9,Payday,8.73,541
+10,Credit-builder,9.6,215
+11,Home equity,8.25,739
+12,Credit-builder,7.41,475
+13,Student,5.57,883
+14,Mortgage,4.36,487
+15,Payday,5.13,711
+16,Debt consolidation,4.53,424
+17,Student,8.72,467
+18,Mortgage,4.64,172
+19,Debt consolidation,7.15,791
+20,Business,8.8,632
+21,Debt consolidation,5.36,595
+22,Student,5.59,582
+23,Personal,4.36,644
+24,Personal,9.42,203
+25,Auto,5.59,76
+26,Mortgage,7.46,137
+27,Home equity,6.98,357
+28,Student,4.72,365
+29,Mortgage,9.62,646
+30,Debt consolidation,8.59,693
+31,Home equity,9.08,264
+32,Mortgage,4.81,200
+33,Payday,6.47,326
+34,Debt consolidation,3.65,524
+35,Credit-builder,7.24,71
+36,Mortgage,4.41,975
+37,Mortgage,9.62,563
+38,Payday,9.48,962
+39,Debt consolidation,6.53,1021
+40,Home equity,9.4,977
+41,Debt consolidation,5.19,133
+42,Business,6.43,17
+43,Debt consolidation,9.17,258
+44,Mortgage,7.64,972
+45,Home equity,6.1,620
+46,Personal,4.92,1083
+47,Auto,5.2,1043
+48,Personal,7.1,410
+49,Home equity,6.71,743
+50,Business,8.56,665
+51,Mortgage,7.78,587
+52,Credit-builder,8.02,891
+53,Payday,6.26,756
+54,Credit-builder,4.55,469
+55,Mortgage,4.62,1040
+56,Personal,6.52,351
+57,Home equity,7.96,124
+58,Mortgage,6.36,901
+59,Payday,6.03,740
+60,Home equity,6.22,902
+61,Student,9.54,142
+62,Personal,7.8,226
+63,Mortgage,5.72,1040
+64,Payday,3.77,500
+65,Auto,4.33,915
+66,Business,9.53,402
+67,Credit-builder,9.24,457
+68,Home equity,5.27,493
+69,Debt consolidation,8.34,540
+70,Personal,8.98,459
+71,Auto,4.18,822
+72,Student,5.16,769
+73,Auto,6.58,914
+74,Auto,9.05,938
+75,Payday,6.48,764
+76,Home equity,6.49,327
+77,Debt consolidation,7.36,1053
+78,Student,8.97,717
+79,Student,5.01,191
+80,Payday,6.68,72
+81,Debt consolidation,5.83,338
+82,Debt consolidation,8.34,590
+83,Payday,7.49,168
+84,Personal,5.86,66
+85,Credit-builder,5.21,693
+86,Student,6.38,316
+87,Debt consolidation,4.67,560
+88,Business,3.56,897
+89,Mortgage,5.38,250
+90,Mortgage,4.48,105
+91,Home equity,5.91,382
+92,Student,4.24,952
+93,Debt consolidation,8.82,769
+94,Mortgage,6.72,456
+95,Mortgage,8.54,343
+96,Personal,4.89,905
+97,Debt consolidation,8.16,60
+98,Credit-builder,5.49,77
+99,Debt consolidation,7.16,339
+100,Payday,4.38,302
+101,Auto,4.7,617
+102,Student,7.54,774
+103,Auto,7.75,21
+104,Home equity,5.68,835
+105,Business,3.46,664
+106,Personal,7.29,938
+107,Payday,3.96,724
+108,Auto,4.36,824
+109,Credit-builder,6.35,905
+110,Student,7.32,1038
+111,Home equity,9.55,1038
+112,Home equity,5.59,563
+113,Mortgage,6.83,507
+114,Business,8.22,32
+115,Student,8.33,779
+116,Home equity,6.38,325
+117,Business,4.18,921
+118,Debt consolidation,7.73,493
+119,Debt consolidation,8.61,978
+120,Payday,4.37,818
+121,Payday,4.12,484
+122,Student,4.83,565
+123,Personal,4.07,377
+124,Mortgage,6.74,581
+125,Home equity,4.7,940
+126,Mortgage,9.35,79
+127,Student,8.35,542
+128,Mortgage,9.96,60
+129,Payday,9.07,221
+130,Business,6.7,557
+131,Home equity,9.83,476
+132,Personal,9.28,421
+133,Credit-builder,3.46,566
+134,Business,7.84,1007
+135,Business,6.74,326
+136,Mortgage,7.95,566
+137,Home equity,9.46,1073
+138,Mortgage,6.46,999
+139,Student,6.51,224
+140,Payday,4.16,900
+141,Home equity,5.68,27
+142,Debt consolidation,8.23,303
+143,Mortgage,7.76,487
+144,Credit-builder,8.3,1046
+145,Personal,4.65,512
+146,Credit-builder,8.79,503
+147,Business,9.72,366
+148,Payday,5.69,941
+149,Mortgage,8.47,994
+150,Student,5.24,12
+151,Debt consolidation,6.81,588
+152,Credit-builder,8.08,580
+153,Payday,5.62,560
+154,Personal,3.76,614
+155,Payday,8.76,373
+156,Business,4.58,228
+157,Payday,5.0,209
+158,Auto,5.81,328
+159,Auto,8.88,337
+160,Debt consolidation,4.64,192
+161,Payday,5.74,954
+162,Student,3.9,418
+163,Auto,7.11,1018
+164,Personal,6.83,852
+165,Payday,6.93,198
+166,Mortgage,3.55,393
+167,Debt consolidation,6.7,1045
+168,Debt consolidation,8.71,1095
+169,Home equity,4.39,501
+170,Student,7.59,454
+171,Auto,7.32,636
+172,Mortgage,5.09,1014
+173,Debt consolidation,4.6,944
+174,Personal,6.75,1059
+175,Payday,9.24,436
+176,Auto,7.45,322
+177,Mortgage,4.36,1085
+178,Mortgage,5.8,813
+179,Credit-builder,4.97,390
+180,Payday,8.24,501
+181,Payday,5.23,129
+182,Auto,4.37,703
+183,Auto,4.59,918
+184,Mortgage,9.38,357
+185,Student,4.09,1002
+186,Mortgage,4.57,673
+187,Personal,8.63,205
+188,Credit-builder,9.72,101
+189,Student,9.32,628
+190,Payday,7.17,1022
+191,Business,3.9,702
+192,Payday,8.2,679
+193,Credit-builder,7.87,919
+194,Payday,9.21,40
+195,Auto,4.59,770
+196,Payday,6.55,866
+197,Auto,9.07,896
+198,Credit-builder,8.77,710
+199,Business,7.99,255
+200,Auto,3.6,530
+201,Personal,9.3,127
+202,Payday,8.38,740
+203,Payday,5.06,984
+204,Payday,4.48,312
+205,Personal,7.83,1059
+206,Student,9.47,624
+207,Debt consolidation,4.88,853
+208,Business,4.39,80
+209,Credit-builder,5.58,96
+210,Personal,9.1,1018
+211,Credit-builder,9.37,15
+212,Student,4.61,603
+213,Business,5.23,328
+214,Student,9.01,597
+215,Credit-builder,3.72,717
+216,Auto,7.93,898
+217,Debt consolidation,5.75,443
+218,Business,8.3,493
+219,Student,3.71,228
+220,Auto,5.31,888
+221,Debt consolidation,9.84,426
+222,Debt consolidation,5.27,923
+223,Payday,3.2,462
+224,Student,9.94,876
+225,Mortgage,6.53,417
+226,Credit-builder,8.34,884
+227,Personal,9.39,43
+228,Business,4.66,321
+229,Auto,8.68,694
+230,Auto,5.66,490
+231,Business,3.74,888
+232,Home equity,9.13,121
+233,Mortgage,7.79,635
+234,Mortgage,4.67,223
+235,Credit-builder,9.36,508
+236,Auto,9.13,911
+237,Home equity,9.0,60
+238,Payday,5.97,767
+239,Business,6.2,707
+240,Debt consolidation,6.3,169
+241,Debt consolidation,7.82,261
+242,Mortgage,4.66,61
+243,Business,9.48,25
+244,Personal,6.19,1036
+245,Auto,5.44,459
+246,Credit-builder,6.94,568
+247,Business,5.99,135
+248,Auto,4.81,380
+249,Auto,3.58,706
+250,Personal,6.52,409
+251,Personal,8.2,274
+252,Debt consolidation,7.97,911
+253,Auto,7.65,532
+254,Mortgage,6.33,920
+255,Home equity,3.65,602
+256,Mortgage,6.98,351
+257,Personal,7.12,721
+258,Payday,8.37,83
+259,Business,6.95,338
+260,Debt consolidation,4.17,1053
+261,Payday,8.42,261
+262,Mortgage,3.83,767
+263,Payday,5.78,454
+264,Auto,9.26,146
+265,Auto,3.27,726
+266,Business,9.72,1015
+267,Personal,3.03,885
+268,Credit-builder,6.24,1066
+269,Business,3.49,658
+270,Business,4.83,926
+271,Mortgage,6.89,880
+272,Payday,8.52,639
+273,Payday,6.97,345
+274,Credit-builder,8.71,999
+275,Mortgage,6.74,291
+276,Payday,4.19,149
+277,Personal,4.57,203
+278,Home equity,6.45,355
+279,Payday,9.49,397
+280,Student,4.87,385
+281,Credit-builder,6.54,749
+282,Mortgage,4.51,447
+283,Home equity,8.28,104
+284,Auto,8.86,805
+285,Personal,8.13,1040
+286,Payday,4.27,742
+287,Home equity,7.02,494
+288,Debt consolidation,4.44,1090
+289,Auto,7.03,449
+290,Mortgage,6.18,479
+291,Auto,7.82,470
+292,Credit-builder,6.61,610
+293,Auto,8.93,103
+294,Student,7.96,268
+295,Student,9.38,480
+296,Business,7.63,556
+297,Home equity,9.04,23
+298,Payday,7.87,223
+299,Credit-builder,9.2,185
+300,Mortgage,3.13,566
+301,Payday,3.43,642
+302,Payday,7.18,114
+303,Student,4.98,595
+304,Payday,5.04,460
+305,Payday,6.5,805
+306,Personal,7.06,605
+307,Payday,4.68,192
+308,Auto,3.41,264
+309,Home equity,8.21,528
+310,Auto,9.65,184
+311,Payday,4.69,1006
+312,Business,6.99,34
+313,Home equity,8.42,782
+314,Debt consolidation,6.72,673
+315,Auto,9.27,855
+316,Auto,7.63,683
+317,Debt consolidation,9.04,487
+318,Payday,9.98,70
+319,Business,3.82,1004
+320,Credit-builder,5.33,311
+321,Auto,9.48,927
+322,Auto,9.82,628
+323,Business,9.56,361
+324,Payday,9.09,339
+325,Payday,5.99,456
+326,Auto,4.59,55
+327,Mortgage,7.9,508
+328,Auto,7.03,113
+329,Debt consolidation,3.49,361
+330,Student,6.46,451
+331,Auto,5.1,896
+332,Student,6.78,734
+333,Payday,7.38,589
+334,Payday,4.32,436
+335,Payday,4.56,79
+336,Student,5.15,705
+337,Home equity,6.7,580
+338,Debt consolidation,5.02,1021
+339,Student,6.04,433
+340,Payday,6.73,428
+341,Mortgage,5.79,518
+342,Credit-builder,3.83,406
+343,Mortgage,3.24,675
+344,Payday,6.74,331
+345,Debt consolidation,9.68,890
+346,Business,3.43,553
+347,Mortgage,5.69,237
+348,Business,5.23,566
+349,Mortgage,9.64,887
+350,Personal,8.03,640
+351,Mortgage,7.82,624
+352,Auto,5.47,1028
+353,Student,3.29,80
+354,Auto,9.28,1049
+355,Personal,6.97,463
+356,Payday,4.11,1085
+357,Payday,6.9,951
+358,Debt consolidation,3.87,982
+359,Business,3.95,419
+360,Student,8.07,692
+361,Payday,4.78,242
+362,Debt consolidation,9.58,905
+363,Business,6.51,384
+364,Personal,5.05,737
+365,Credit-builder,7.27,575
+366,Credit-builder,3.06,732
+367,Debt consolidation,4.25,113
+368,Auto,6.82,464
+369,Personal,7.59,561
+370,Personal,5.36,822
+371,Student,4.3,368
+372,Student,9.97,30
+373,Student,4.33,277
+374,Business,9.49,548
+375,Credit-builder,4.13,187
+376,Home equity,5.18,442
+377,Business,6.97,698
+378,Student,5.38,651
+379,Personal,6.68,641
+380,Mortgage,9.29,708
+381,Personal,4.63,657
+382,Auto,7.16,614
+383,Personal,5.36,77
+384,Credit-builder,7.74,493
+385,Student,3.39,270
+386,Payday,6.35,144
+387,Student,7.61,947
+388,Student,5.39,723
+389,Student,7.52,215
+390,Credit-builder,5.98,995
+391,Student,3.25,72
+392,Personal,4.29,365
+393,Debt consolidation,7.16,676
+394,Debt consolidation,3.22,134
+395,Debt consolidation,8.32,1015
+396,Business,6.2,58
+397,Auto,4.09,746
+398,Student,9.33,758
+399,Credit-builder,9.97,839
+400,Debt consolidation,4.36,348
+401,Credit-builder,8.57,28
+402,Debt consolidation,3.27,529
+403,Debt consolidation,3.79,145
+404,Credit-builder,3.99,98
+405,Payday,9.87,123
+406,Credit-builder,8.81,119
+407,Payday,8.51,521
+408,Payday,8.66,455
+409,Student,8.93,42
+410,Business,4.47,442
+411,Personal,4.16,675
+412,Mortgage,8.38,790
+413,Debt consolidation,7.84,801
+414,Mortgage,7.35,888
+415,Student,8.4,603
+416,Credit-builder,8.81,150
+417,Payday,9.51,387
+418,Payday,8.25,1032
+419,Debt consolidation,5.33,495
+420,Personal,4.7,1086
+421,Credit-builder,7.71,346
+422,Auto,6.09,573
+423,Credit-builder,8.09,54
+424,Debt consolidation,4.97,512
+425,Personal,8.4,1040
+426,Personal,8.68,84
+427,Mortgage,8.08,328
+428,Mortgage,3.11,255
+429,Auto,9.7,45
+430,Payday,8.78,1036
+431,Personal,4.34,433
+432,Business,4.38,311
+433,Mortgage,4.88,970
+434,Business,6.59,637
+435,Credit-builder,8.05,536
+436,Student,4.98,319
+437,Debt consolidation,5.59,211
+438,Home equity,9.87,429
+439,Payday,6.61,665
+440,Auto,4.45,983
+441,Payday,8.16,888
+442,Credit-builder,9.97,571
+443,Auto,9.58,48
+444,Business,7.94,347
+445,Mortgage,7.98,848
+446,Credit-builder,4.32,751
+447,Credit-builder,3.95,871
+448,Credit-builder,5.71,350
+449,Student,3.99,280
+450,Personal,8.33,333
+451,Credit-builder,4.7,480
+452,Credit-builder,3.47,274
+453,Payday,9.9,458
+454,Mortgage,9.38,282
+455,Credit-builder,4.04,129
+456,Business,7.09,957
+457,Auto,5.03,749
+458,Payday,3.2,953
+459,Payday,5.34,399
+460,Debt consolidation,9.56,923
+461,Home equity,7.52,969
+462,Credit-builder,4.84,13
+463,Debt consolidation,9.78,604
+464,Mortgage,5.37,882
+465,Auto,4.6,578
+466,Credit-builder,4.02,707
+467,Payday,5.44,784
+468,Mortgage,8.13,936
+469,Payday,3.72,237
+470,Home equity,4.58,77
+471,Debt consolidation,7.72,787
+472,Business,7.68,811
+473,Business,6.59,1058
+474,Payday,3.4,1018
+475,Debt consolidation,5.85,310
+476,Auto,8.8,38
+477,Auto,9.45,499
+478,Student,6.51,607
+479,Home equity,9.51,24
+480,Personal,5.36,570
+481,Mortgage,7.9,1049
+482,Debt consolidation,3.21,657
+483,Personal,9.99,108
+484,Auto,6.12,356
+485,Home equity,5.28,1073
+486,Personal,3.34,831
+487,Student,8.88,790
+488,Credit-builder,8.21,99
+489,Business,5.17,575
+490,Personal,3.04,542
+491,Debt consolidation,5.53,503
+492,Debt consolidation,7.27,406
+493,Auto,8.33,978
+494,Home equity,5.29,558
+495,Business,4.67,404
+496,Debt consolidation,9.9,170
+497,Business,9.39,365
+498,Payday,5.88,403
+499,Student,4.71,969
+500,Auto,5.84,976
+501,Home equity,8.52,184
+502,Mortgage,4.08,1072
+503,Debt consolidation,8.82,388
+504,Business,3.09,1060
+505,Auto,6.19,610
+506,Student,6.82,874
+507,Debt consolidation,7.16,511
+508,Mortgage,4.4,193
+509,Student,5.78,226
+510,Mortgage,6.44,271
+511,Personal,3.43,723
+512,Payday,7.94,48
+513,Home equity,8.26,891
+514,Mortgage,4.65,183
+515,Payday,9.01,494
+516,Payday,8.51,652
+517,Debt consolidation,8.47,621
+518,Credit-builder,3.14,100
+519,Mortgage,6.14,533
+520,Business,8.82,711
+521,Home equity,5.12,377
+522,Personal,6.36,716
+523,Home equity,3.36,504
+524,Student,6.73,257
+525,Debt consolidation,3.5,186
+526,Credit-builder,6.88,392
+527,Debt consolidation,5.26,224
+528,Business,7.93,517
+529,Mortgage,9.55,949
+530,Personal,9.03,975
+531,Mortgage,6.36,871
+532,Student,8.77,169
+533,Auto,3.51,1045
+534,Business,6.08,1003
+535,Business,3.12,619
+536,Mortgage,4.14,746
+537,Home equity,3.26,603
+538,Business,5.03,381
+539,Credit-builder,4.25,890
+540,Home equity,7.84,353
+541,Home equity,5.66,1054
+542,Personal,8.02,878
+543,Credit-builder,7.98,52
+544,Home equity,3.09,271
+545,Personal,4.63,372
+546,Auto,4.8,87
+547,Auto,9.8,952
+548,Mortgage,3.49,728
+549,Personal,8.23,800
+550,Personal,4.58,763
+551,Debt consolidation,4.65,183
+552,Auto,5.4,179
+553,Mortgage,3.53,1088
+554,Auto,9.01,255
+555,Auto,9.35,654
+556,Auto,6.39,956
+557,Debt consolidation,9.99,637
+558,Auto,5.14,92
+559,Home equity,8.76,772
+560,Business,9.34,789
+561,Credit-builder,3.94,1077
+562,Debt consolidation,9.76,359
+563,Mortgage,7.82,744
+564,Business,6.64,847
+565,Student,4.54,454
+566,Auto,4.17,891
+567,Credit-builder,6.98,576
+568,Student,7.03,401
+569,Payday,6.11,263
+570,Student,5.36,836
+571,Credit-builder,5.06,901
+572,Credit-builder,3.75,597
+573,Business,8.33,24
+574,Debt consolidation,5.77,865
+575,Home equity,6.32,512
+576,Mortgage,8.88,809
+577,Debt consolidation,3.29,120
+578,Debt consolidation,8.99,836
+579,Credit-builder,5.18,1047
+580,Personal,8.83,418
+581,Personal,9.8,624
+582,Payday,5.71,1041
+583,Business,4.27,872
+584,Home equity,4.35,25
+585,Auto,3.19,479
+586,Credit-builder,6.36,45
+587,Credit-builder,7.1,129
+588,Credit-builder,8.6,997
+589,Mortgage,7.0,501
+590,Debt consolidation,9.47,872
+591,Personal,7.31,627
+592,Home equity,6.88,724
+593,Home equity,6.6,892
+594,Debt consolidation,4.95,1062
+595,Home equity,9.3,719
+596,Payday,4.97,1008
+597,Business,7.24,182
+598,Payday,4.01,564
+599,Home equity,4.68,217
+600,Home equity,3.49,557
+601,Credit-builder,3.87,260
+602,Auto,6.84,31
+603,Student,7.24,1044
+604,Personal,8.64,260
+605,Debt consolidation,5.88,73
+606,Mortgage,4.75,257
+607,Personal,7.54,863
+608,Business,6.74,1091
+609,Mortgage,5.18,416
+610,Student,6.87,180
+611,Personal,3.43,1049
+612,Personal,8.15,252
+613,Student,6.42,906
+614,Auto,8.42,529
+615,Business,5.02,698
+616,Personal,7.43,327
+617,Home equity,6.35,521
+618,Mortgage,8.64,819
+619,Personal,7.35,304
+620,Student,9.89,990
+621,Home equity,3.52,947
+622,Home equity,9.36,320
+623,Auto,3.72,89
+624,Mortgage,9.7,56
+625,Payday,4.69,784
+626,Debt consolidation,5.37,552
+627,Payday,7.76,311
+628,Mortgage,5.23,383
+629,Personal,6.0,86
+630,Debt consolidation,3.84,801
+631,Mortgage,7.01,65
+632,Home equity,8.3,416
+633,Debt consolidation,9.77,254
+634,Debt consolidation,3.32,180
+635,Credit-builder,5.4,760
+636,Credit-builder,7.36,417
+637,Home equity,9.61,1077
+638,Home equity,4.66,195
+639,Business,5.91,641
+640,Credit-builder,9.65,185
+641,Student,4.75,331
+642,Business,9.84,725
+643,Home equity,7.92,1088
+644,Payday,8.82,316
+645,Mortgage,7.97,480
+646,Credit-builder,8.36,55
+647,Credit-builder,4.17,261
+648,Debt consolidation,5.4,907
+649,Personal,5.23,997
+650,Mortgage,3.71,482
+651,Credit-builder,8.05,325
+652,Student,7.04,268
+653,Payday,9.8,362
+654,Payday,6.95,127
+655,Debt consolidation,6.9,864
+656,Business,9.07,1093
+657,Personal,3.96,983
+658,Debt consolidation,7.01,889
+659,Payday,7.35,653
+660,Personal,9.63,898
+661,Payday,6.64,775
+662,Home equity,6.18,556
+663,Debt consolidation,3.53,439
+664,Mortgage,8.13,977
+665,Debt consolidation,3.99,219
+666,Debt consolidation,6.81,39
+667,Personal,7.36,292
+668,Personal,6.43,758
+669,Debt consolidation,3.03,520
+670,Mortgage,5.24,79
+671,Debt consolidation,9.49,261
+672,Auto,8.43,185
+673,Personal,8.85,347
+674,Student,5.99,818
+675,Personal,5.02,370
+676,Auto,9.01,951
+677,Auto,3.85,242
+678,Credit-builder,5.12,85
+679,Auto,6.03,480
+680,Auto,3.23,178
+681,Business,3.93,142
+682,Auto,7.02,27
+683,Auto,4.01,439
+684,Credit-builder,5.69,469
+685,Business,8.74,672
+686,Credit-builder,6.99,348
+687,Home equity,5.49,393
+688,Debt consolidation,6.53,377
+689,Student,9.8,351
+690,Personal,3.3,604
+691,Business,6.77,977
+692,Mortgage,9.09,1028
+693,Personal,3.98,851
+694,Payday,4.67,1041
+695,Student,5.34,932
+696,Credit-builder,7.54,779
+697,Home equity,4.44,195
+698,Debt consolidation,8.56,789
+699,Mortgage,5.47,622
+700,Debt consolidation,3.85,813
+701,Credit-builder,4.12,770
+702,Debt consolidation,5.2,149
+703,Auto,6.1,322
+704,Payday,7.01,1059
+705,Personal,3.01,646
+706,Credit-builder,9.64,263
+707,Home equity,3.69,83
+708,Debt consolidation,6.14,414
+709,Home equity,9.24,1055
+710,Auto,5.33,911
+711,Mortgage,3.71,303
+712,Debt consolidation,9.12,816
+713,Personal,3.09,452
+714,Auto,6.09,489
+715,Student,7.59,843
+716,Mortgage,3.75,447
+717,Credit-builder,6.18,281
+718,Home equity,6.57,829
+719,Personal,4.13,754
+720,Mortgage,4.69,436
+721,Business,6.94,1036
+722,Student,4.51,338
+723,Auto,6.23,45
+724,Payday,6.74,753
+725,Credit-builder,8.23,400
+726,Auto,9.42,762
+727,Payday,3.08,412
+728,Payday,9.88,978
+729,Mortgage,6.84,628
+730,Mortgage,8.88,305
+731,Personal,4.32,1087
+732,Personal,4.75,141
+733,Credit-builder,6.06,987
+734,Home equity,6.4,210
+735,Payday,3.73,480
+736,Personal,3.63,578
+737,Personal,4.42,1055
+738,Business,8.53,728
+739,Payday,6.13,1036
+740,Business,4.76,789
+741,Student,4.5,98
+742,Business,3.5,433
+743,Credit-builder,4.79,570
+744,Mortgage,5.63,768
+745,Home equity,4.85,102
+746,Mortgage,6.75,241
+747,Debt consolidation,8.17,1014
+748,Payday,7.94,531
+749,Credit-builder,7.25,883
+750,Credit-builder,3.49,1009
+751,Business,8.72,305
+752,Auto,8.49,626
+753,Payday,9.08,643
+754,Debt consolidation,8.6,236
+755,Debt consolidation,8.97,525
+756,Auto,5.18,1032
+757,Debt consolidation,4.02,440
+758,Personal,6.6,567
+759,Credit-builder,6.44,900
+760,Payday,5.85,865
+761,Mortgage,3.88,52
+762,Home equity,5.28,993
+763,Auto,4.82,776
+764,Credit-builder,5.33,166
+765,Business,7.09,163
+766,Mortgage,6.72,535
+767,Student,4.67,113
+768,Personal,9.22,222
+769,Mortgage,3.83,697
+770,Mortgage,9.77,803
+771,Business,5.22,209
+772,Payday,5.38,489
+773,Home equity,4.77,676
+774,Credit-builder,8.55,996
+775,Personal,4.65,570
+776,Auto,3.84,34
+777,Personal,7.27,685
+778,Personal,3.42,326
+779,Home equity,6.11,195
+780,Credit-builder,5.54,907
+781,Mortgage,5.96,430
+782,Auto,6.34,963
+783,Student,4.44,258
+784,Credit-builder,3.73,685
+785,Business,4.87,133
+786,Business,9.3,925
+787,Debt consolidation,6.93,628
+788,Payday,8.22,477
+789,Auto,5.39,243
+790,Student,4.71,929
+791,Payday,8.57,821
+792,Home equity,7.01,102
+793,Student,8.23,1044
+794,Payday,5.97,133
+795,Home equity,9.51,1079
+796,Payday,5.52,676
+797,Payday,4.9,857
+798,Personal,9.94,61
+799,Auto,3.49,313
+800,Personal,9.73,823
+801,Business,6.08,210
+802,Payday,6.93,1021
+803,Payday,7.68,497
+804,Personal,8.19,96
+805,Auto,5.49,110
+806,Business,5.63,413
+807,Student,8.84,730
+808,Mortgage,6.21,502
+809,Personal,6.01,519
+810,Debt consolidation,3.79,167
+811,Mortgage,4.56,779
+812,Debt consolidation,7.09,1095
+813,Personal,5.91,128
+814,Mortgage,3.67,529
+815,Personal,5.45,361
+816,Mortgage,6.09,653
+817,Payday,9.25,1057
+818,Student,4.66,47
+819,Student,7.09,576
+820,Credit-builder,5.65,577
+821,Debt consolidation,4.83,170
+822,Mortgage,3.01,1043
+823,Credit-builder,6.21,929
+824,Home equity,5.75,463
+825,Personal,6.0,360
+826,Home equity,6.26,576
+827,Personal,4.92,484
+828,Home equity,5.44,900
+829,Student,9.89,180
+830,Credit-builder,5.9,668
+831,Payday,5.89,60
+832,Credit-builder,8.71,274
+833,Student,9.68,269
+834,Home equity,9.59,500
+835,Payday,9.48,522
+836,Mortgage,4.08,676
+837,Home equity,7.69,322
+838,Student,8.58,878
+839,Credit-builder,4.1,388
+840,Auto,6.29,847
+841,Auto,5.37,633
+842,Payday,6.12,861
+843,Credit-builder,4.95,49
+844,Payday,9.29,364
+845,Personal,8.71,428
+846,Student,7.55,459
+847,Debt consolidation,4.2,974
+848,Payday,5.91,745
+849,Business,6.14,60
+850,Mortgage,9.71,512
+851,Home equity,9.14,510
+852,Mortgage,6.23,962
+853,Home equity,8.17,17
+854,Student,7.98,496
+855,Student,5.22,457
+856,Mortgage,3.64,840
+857,Student,9.07,317
+858,Business,7.33,827
+859,Payday,6.9,839
+860,Mortgage,3.21,744
+861,Home equity,8.43,460
+862,Business,4.5,702
+863,Mortgage,4.22,356
+864,Credit-builder,3.12,204
+865,Credit-builder,7.29,1067
+866,Business,3.89,175
+867,Personal,8.18,1023
+868,Student,7.48,712
+869,Auto,4.66,678
+870,Credit-builder,6.34,486
+871,Personal,9.54,954
+872,Payday,5.24,233
+873,Home equity,9.76,505
+874,Credit-builder,5.4,189
+875,Credit-builder,4.13,738
+876,Mortgage,4.68,930
+877,Personal,4.57,122
+878,Home equity,8.63,517
+879,Auto,7.55,142
+880,Payday,9.36,681
+881,Business,4.93,936
+882,Student,9.87,1004
+883,Credit-builder,6.08,915
+884,Auto,5.61,287
+885,Personal,6.83,161
+886,Payday,3.63,333
+887,Personal,7.82,14
+888,Auto,8.35,396
+889,Student,7.55,119
+890,Mortgage,3.84,577
+891,Auto,6.73,982
+892,Business,4.79,170
+893,Business,8.62,891
+894,Business,7.65,1027
+895,Mortgage,5.06,318
+896,Debt consolidation,7.22,543
+897,Auto,6.73,856
+898,Debt consolidation,9.31,1028
+899,Payday,5.75,225
+900,Personal,3.56,221
+901,Personal,5.57,911
+902,Mortgage,6.83,1002
+903,Credit-builder,9.43,431
+904,Business,4.72,329
+905,Credit-builder,7.04,213
+906,Payday,4.11,391
+907,Personal,4.01,977
+908,Credit-builder,7.24,707
+909,Business,7.1,820
+910,Credit-builder,8.74,185
+911,Payday,4.84,1084
+912,Auto,5.07,1005
+913,Credit-builder,9.71,726
+914,Credit-builder,3.1,1084
+915,Payday,3.37,273
+916,Business,8.07,680
+917,Student,9.71,1037
+918,Debt consolidation,9.39,492
+919,Payday,4.54,45
+920,Student,4.74,458
+921,Auto,6.13,15
+922,Auto,8.06,226
+923,Business,8.95,801
+924,Debt consolidation,5.1,555
+925,Personal,6.16,205
+926,Debt consolidation,5.93,777
+927,Auto,5.93,93
+928,Personal,6.59,132
+929,Personal,5.22,604
+930,Auto,3.63,851
+931,Student,6.0,794
+932,Auto,4.42,104
+933,Payday,4.42,598
+934,Payday,9.49,350
+935,Student,5.07,168
+936,Business,5.33,722
+937,Debt consolidation,8.1,808
+938,Home equity,5.36,162
+939,Home equity,8.35,377
+940,Debt consolidation,8.64,37
+941,Personal,3.53,308
+942,Payday,4.15,962
+943,Credit-builder,5.48,803
+944,Home equity,5.16,727
+945,Credit-builder,4.58,333
+946,Business,8.38,405
+947,Auto,4.81,635
+948,Auto,7.3,655
+949,Debt consolidation,8.26,1065
+950,Debt consolidation,7.31,811
+951,Business,6.76,865
+952,Auto,3.06,1028
+953,Personal,6.96,1086
+954,Mortgage,8.44,1000
+955,Auto,8.87,360
+956,Student,8.22,632
+957,Business,8.48,161
+958,Business,6.83,929
+959,Payday,7.49,450
+960,Auto,7.12,812
+961,Payday,8.79,292
+962,Home equity,3.66,847
+963,Student,6.34,615
+964,Mortgage,9.0,516
+965,Mortgage,5.2,281
+966,Business,3.72,922
+967,Student,5.02,223
+968,Credit-builder,3.69,915
+969,Student,8.45,974
+970,Student,6.52,240
+971,Student,3.43,335
+972,Business,7.75,271
+973,Mortgage,6.66,189
+974,Debt consolidation,7.48,733
+975,Business,9.99,58
+976,Payday,7.45,676
+977,Student,4.44,403
+978,Payday,4.76,301
+979,Debt consolidation,7.46,349
+980,Debt consolidation,8.79,337
+981,Auto,9.44,402
+982,Student,3.55,795
+983,Auto,9.74,961
+984,Student,9.73,654
+985,Home equity,6.1,260
+986,Student,6.72,194
+987,Personal,7.61,622
+988,Credit-builder,6.55,111
+989,Mortgage,8.78,873
+990,Home equity,6.98,341
+991,Personal,7.31,906
+992,Credit-builder,5.89,593
+993,Payday,3.38,507
+994,Home equity,9.53,357
+995,Credit-builder,3.86,385
+996,Personal,8.73,448
+997,Personal,5.81,821
+998,Debt consolidation,6.3,720
+999,Business,6.27,774
+1000,Personal,9.14,987
+1001,Personal,5.88,540
+1002,Business,9.48,293
+1003,Student,6.0,22
+1004,Business,5.78,65
+1005,Debt consolidation,4.43,815
+1006,Credit-builder,6.59,612
+1007,Personal,7.37,307
+1008,Credit-builder,5.16,1061
+1009,Payday,5.64,805
+1010,Mortgage,3.9,317
+1011,Debt consolidation,8.46,1066
+1012,Personal,6.8,503
+1013,Debt consolidation,9.79,940
+1014,Debt consolidation,4.07,85
+1015,Debt consolidation,7.7,741
+1016,Student,6.96,149
+1017,Debt consolidation,5.02,404
+1018,Personal,8.49,606
+1019,Home equity,9.3,732
+1020,Credit-builder,5.64,826
+1021,Personal,9.0,472
+1022,Payday,8.74,838
+1023,Personal,7.76,245
+1024,Auto,6.52,964
+1025,Mortgage,6.0,403
+1026,Credit-builder,8.86,1031
+1027,Home equity,8.57,665
+1028,Mortgage,5.93,576
+1029,Payday,9.79,856
+1030,Home equity,7.83,1037
+1031,Debt consolidation,7.89,248
+1032,Credit-builder,3.58,461
+1033,Personal,6.03,821
+1034,Home equity,7.4,732
+1035,Credit-builder,3.16,967
+1036,Payday,6.59,214
+1037,Business,8.06,422
+1038,Mortgage,6.1,118
+1039,Personal,6.31,84
+1040,Auto,3.37,477
+1041,Debt consolidation,7.63,626
+1042,Auto,5.53,384
+1043,Auto,8.62,274
+1044,Student,9.54,554
+1045,Payday,7.4,668
+1046,Payday,8.02,929
+1047,Business,6.87,643
+1048,Mortgage,8.19,647
+1049,Credit-builder,7.84,452
+1050,Student,3.19,112
+1051,Personal,3.12,573
+1052,Student,7.6,156
+1053,Payday,3.77,1072
+1054,Student,4.63,203
+1055,Business,3.48,355
+1056,Home equity,6.58,202
+1057,Debt consolidation,7.43,909
+1058,Personal,7.66,532
+1059,Auto,5.12,555
+1060,Personal,6.77,953
+1061,Home equity,5.83,322
+1062,Home equity,6.36,200
+1063,Personal,5.39,773
+1064,Debt consolidation,8.35,769
+1065,Home equity,9.15,970
+1066,Auto,9.09,1048
+1067,Home equity,5.21,971
+1068,Business,3.08,64
+1069,Debt consolidation,5.86,916
+1070,Home equity,8.83,516
+1071,Debt consolidation,5.49,694
+1072,Student,9.59,299
+1073,Personal,9.8,673
+1074,Mortgage,6.68,916
+1075,Credit-builder,7.24,641
+1076,Payday,8.03,647
+1077,Debt consolidation,8.34,484
+1078,Auto,3.71,842
+1079,Personal,9.44,208
+1080,Student,6.1,190
+1081,Debt consolidation,4.02,325
+1082,Business,3.74,293
+1083,Mortgage,7.47,826
+1084,Auto,8.87,649
+1085,Auto,6.29,535
+1086,Home equity,4.79,667
+1087,Auto,3.77,515
+1088,Business,7.97,357
+1089,Business,3.31,867
+1090,Credit-builder,4.33,189
+1091,Home equity,7.0,710
+1092,Business,7.89,418
+1093,Student,4.76,129
+1094,Debt consolidation,6.66,548
+1095,Debt consolidation,8.29,609
+1096,Payday,7.18,233
+1097,Auto,4.89,925
+1098,Credit-builder,3.95,838
+1099,Mortgage,9.98,420
+1100,Student,4.84,630
+1101,Home equity,8.33,1051
+1102,Personal,6.53,911
+1103,Business,3.48,491
+1104,Business,3.31,229
+1105,Business,4.55,119
+1106,Mortgage,5.11,49
+1107,Student,9.1,301
+1108,Personal,6.38,1009
+1109,Personal,6.31,364
+1110,Home equity,7.33,972
+1111,Auto,5.92,21
+1112,Credit-builder,7.57,14
+1113,Personal,3.95,509
+1114,Home equity,9.41,296
+1115,Mortgage,3.58,398
+1116,Home equity,8.81,616
+1117,Home equity,7.79,540
+1118,Debt consolidation,4.22,190
+1119,Auto,8.97,665
+1120,Payday,3.77,627
+1121,Mortgage,6.41,423
+1122,Home equity,3.66,142
+1123,Business,6.3,820
+1124,Debt consolidation,9.14,396
+1125,Personal,3.17,274
+1126,Mortgage,8.99,335
+1127,Mortgage,4.59,801
+1128,Debt consolidation,7.83,853
+1129,Home equity,4.73,681
+1130,Credit-builder,7.27,621
+1131,Student,5.98,908
+1132,Student,6.47,870
+1133,Auto,4.88,775
+1134,Debt consolidation,9.82,37
+1135,Personal,9.26,647
+1136,Credit-builder,6.75,68
+1137,Student,8.84,742
+1138,Debt consolidation,6.15,63
+1139,Credit-builder,6.53,308
+1140,Auto,4.28,946
+1141,Payday,8.21,375
+1142,Auto,7.3,235
+1143,Debt consolidation,6.82,726
+1144,Auto,8.23,716
+1145,Payday,3.69,591
+1146,Credit-builder,3.7,176
+1147,Mortgage,9.37,870
+1148,Payday,4.25,599
+1149,Credit-builder,4.77,702
+1150,Credit-builder,4.19,427
+1151,Business,7.2,501
+1152,Debt consolidation,3.64,224
+1153,Mortgage,4.35,390
+1154,Credit-builder,5.69,184
+1155,Home equity,9.35,391
+1156,Mortgage,3.02,1046
+1157,Home equity,8.24,224
+1158,Mortgage,6.46,611
+1159,Mortgage,5.84,691
+1160,Payday,3.96,595
+1161,Mortgage,9.99,494
+1162,Mortgage,7.59,470
+1163,Home equity,7.42,194
+1164,Mortgage,4.99,334
+1165,Home equity,4.77,317
+1166,Auto,8.15,758
+1167,Credit-builder,9.26,1009
+1168,Business,7.53,550
+1169,Home equity,9.02,482
+1170,Business,6.09,944
+1171,Business,3.1,720
+1172,Mortgage,5.29,792
+1173,Payday,4.71,1067
+1174,Personal,3.09,16
+1175,Home equity,9.85,358
+1176,Student,3.04,53
+1177,Student,7.47,689
+1178,Auto,3.5,827
+1179,Business,4.54,907
+1180,Debt consolidation,3.17,634
+1181,Mortgage,9.74,256
+1182,Debt consolidation,6.85,828
+1183,Home equity,5.05,484
+1184,Payday,3.47,803
+1185,Student,8.57,144
+1186,Credit-builder,3.38,997
+1187,Credit-builder,8.84,625
+1188,Debt consolidation,7.02,640
+1189,Debt consolidation,9.27,1017
+1190,Home equity,5.53,1063
+1191,Debt consolidation,6.95,966
+1192,Mortgage,4.85,789
+1193,Auto,9.24,898
+1194,Home equity,4.29,501
+1195,Personal,3.75,769
+1196,Mortgage,5.25,491
+1197,Payday,6.75,750
+1198,Auto,9.82,376
+1199,Auto,6.12,227
+1200,Auto,9.5,504
+1201,Student,5.41,826
+1202,Auto,7.41,475
+1203,Credit-builder,4.23,430
+1204,Mortgage,6.58,652
+1205,Payday,7.97,138
+1206,Home equity,4.85,632
+1207,Credit-builder,9.87,602
+1208,Business,8.35,864
+1209,Auto,8.48,585
+1210,Debt consolidation,6.67,730
+1211,Student,9.16,100
+1212,Auto,9.08,233
+1213,Payday,4.85,404
+1214,Auto,4.06,745
+1215,Payday,3.98,399
+1216,Mortgage,3.43,73
+1217,Home equity,3.15,462
+1218,Student,8.2,999
+1219,Mortgage,8.38,41
+1220,Credit-builder,4.37,345
+1221,Business,6.93,178
+1222,Business,5.06,285
+1223,Payday,3.79,852
+1224,Personal,5.45,607
+1225,Debt consolidation,4.72,490
+1226,Debt consolidation,3.48,366
+1227,Payday,3.23,940
+1228,Student,9.08,257
+1229,Business,3.29,623
+1230,Debt consolidation,6.67,581
+1231,Credit-builder,8.38,34
+1232,Debt consolidation,6.26,424
+1233,Mortgage,6.94,622
+1234,Student,5.28,51
+1235,Mortgage,4.35,708
+1236,Student,4.99,680
+1237,Home equity,6.36,130
+1238,Auto,3.6,74
+1239,Credit-builder,9.96,423
+1240,Mortgage,4.94,80
+1241,Home equity,5.46,1003
+1242,Business,8.67,684
+1243,Business,9.33,219
+1244,Business,5.63,1010
+1245,Home equity,4.93,854
+1246,Personal,4.38,1016
+1247,Debt consolidation,6.7,734
+1248,Home equity,9.96,199
+1249,Payday,3.13,723
+1250,Personal,4.22,812
+1251,Business,7.06,900
+1252,Auto,9.97,322
+1253,Debt consolidation,3.02,56
+1254,Student,6.69,97
+1255,Home equity,7.36,1017
+1256,Credit-builder,5.41,781
+1257,Debt consolidation,9.36,130
+1258,Mortgage,8.43,36
+1259,Personal,5.75,879
+1260,Credit-builder,4.04,584
+1261,Home equity,7.4,448
+1262,Personal,7.48,584
+1263,Mortgage,3.52,473
+1264,Business,8.32,342
+1265,Personal,9.54,343
+1266,Debt consolidation,4.6,750
+1267,Auto,5.84,699
+1268,Auto,7.66,651
+1269,Payday,5.12,308
+1270,Payday,7.02,444
+1271,Auto,8.74,396
+1272,Business,3.95,146
+1273,Business,6.3,323
+1274,Mortgage,5.92,1069
+1275,Home equity,5.88,384
+1276,Mortgage,5.1,424
+1277,Business,4.87,340
+1278,Auto,3.93,13
+1279,Auto,5.73,582
+1280,Debt consolidation,4.71,31
+1281,Student,6.34,971
+1282,Debt consolidation,3.15,283
+1283,Auto,5.73,73
+1284,Personal,9.18,63
+1285,Home equity,9.11,992
+1286,Payday,6.13,394
+1287,Student,3.83,595
+1288,Student,5.05,43
+1289,Auto,7.05,871
+1290,Debt consolidation,9.81,257
+1291,Business,9.46,848
+1292,Auto,5.42,750
+1293,Business,4.02,279
+1294,Auto,4.28,199
+1295,Debt consolidation,7.61,934
+1296,Student,4.46,716
+1297,Home equity,4.09,222
+1298,Home equity,4.07,214
+1299,Credit-builder,3.84,400
+1300,Student,5.69,846
+1301,Credit-builder,3.07,830
+1302,Payday,8.74,304
+1303,Student,6.65,164
+1304,Home equity,7.27,30
+1305,Student,8.34,372
+1306,Personal,6.84,264
+1307,Mortgage,8.67,177
+1308,Student,9.49,313
+1309,Personal,4.43,244
+1310,Credit-builder,4.81,756
+1311,Auto,3.47,800
+1312,Home equity,3.49,617
+1313,Student,6.15,240
+1314,Home equity,6.9,307
+1315,Credit-builder,5.63,818
+1316,Credit-builder,4.93,732
+1317,Personal,8.15,108
+1318,Student,8.41,378
+1319,Student,3.85,628
+1320,Personal,5.93,436
+1321,Auto,9.83,886
+1322,Personal,6.29,1002
+1323,Business,6.78,1032
+1324,Auto,8.36,1065
+1325,Payday,8.05,445
+1326,Debt consolidation,5.36,412
+1327,Debt consolidation,3.84,879
+1328,Personal,5.2,820
+1329,Payday,5.19,539
+1330,Student,8.54,482
+1331,Debt consolidation,8.39,833
+1332,Auto,4.26,793
+1333,Payday,3.83,850
+1334,Mortgage,3.09,892
+1335,Home equity,8.48,605
+1336,Business,6.89,546
+1337,Debt consolidation,8.96,688
+1338,Credit-builder,8.45,103
+1339,Mortgage,6.97,435
+1340,Business,9.49,397
+1341,Payday,3.25,196
+1342,Business,7.12,802
+1343,Business,5.52,109
+1344,Auto,4.2,470
+1345,Home equity,9.77,614
+1346,Payday,4.59,187
+1347,Payday,8.38,932
+1348,Home equity,6.45,916
+1349,Payday,9.64,1024
+1350,Debt consolidation,4.74,146
+1351,Home equity,8.6,383
+1352,Mortgage,4.8,867
+1353,Business,8.08,898
+1354,Home equity,3.99,80
+1355,Personal,5.29,451
+1356,Credit-builder,3.71,352
+1357,Mortgage,8.77,428
+1358,Auto,9.39,224
+1359,Mortgage,8.4,520
+1360,Home equity,7.12,616
+1361,Home equity,4.65,159
+1362,Student,5.14,771
+1363,Personal,9.28,582
+1364,Home equity,8.88,676
+1365,Home equity,4.93,99
+1366,Debt consolidation,6.31,1074
+1367,Business,4.0,541
+1368,Student,7.88,558
+1369,Home equity,5.55,906
+1370,Auto,5.33,620
+1371,Business,7.88,809
+1372,Personal,7.94,1029
+1373,Mortgage,7.33,605
+1374,Personal,3.34,55
+1375,Business,4.01,401
+1376,Student,5.18,929
+1377,Payday,7.62,1024
+1378,Student,4.45,295
+1379,Credit-builder,7.87,254
+1380,Auto,7.92,613
+1381,Student,7.4,45
+1382,Personal,4.64,208
+1383,Business,3.47,330
+1384,Mortgage,5.05,803
+1385,Auto,7.26,610
+1386,Business,7.95,548
+1387,Home equity,8.96,1028
+1388,Payday,9.82,728
+1389,Mortgage,5.44,611
+1390,Mortgage,9.35,650
+1391,Home equity,9.19,969
+1392,Mortgage,3.47,516
+1393,Debt consolidation,5.38,959
+1394,Business,4.37,159
+1395,Credit-builder,4.17,229
+1396,Home equity,7.75,358
+1397,Payday,9.04,932
+1398,Personal,8.15,514
+1399,Home equity,5.65,193
+1400,Mortgage,5.93,186
+1401,Student,4.87,301
+1402,Auto,5.58,576
+1403,Business,7.73,137
+1404,Payday,3.93,977
+1405,Personal,5.8,152
+1406,Mortgage,8.8,143
+1407,Student,9.13,1025
+1408,Home equity,6.31,431
+1409,Home equity,8.1,137
+1410,Credit-builder,4.95,889
+1411,Credit-builder,6.61,527
+1412,Payday,5.43,213
+1413,Business,3.96,990
+1414,Debt consolidation,8.82,664
+1415,Payday,3.7,443
+1416,Business,3.7,322
+1417,Debt consolidation,3.18,516
+1418,Personal,8.19,332
+1419,Payday,3.26,396
+1420,Home equity,8.78,943
+1421,Personal,6.13,511
+1422,Debt consolidation,7.46,1054
+1423,Auto,5.5,602
+1424,Business,5.54,728
+1425,Home equity,8.32,717
+1426,Credit-builder,4.35,482
+1427,Credit-builder,4.89,291
+1428,Home equity,3.69,278
+1429,Mortgage,6.69,1049
+1430,Mortgage,9.68,277
+1431,Payday,5.49,774
+1432,Debt consolidation,5.56,1074
+1433,Auto,7.74,729
+1434,Student,4.26,739
+1435,Business,6.6,69
+1436,Student,8.35,951
+1437,Business,6.48,38
+1438,Home equity,9.38,397
+1439,Student,7.68,1089
+1440,Auto,6.0,846
+1441,Auto,9.66,848
+1442,Home equity,3.93,685
+1443,Student,5.45,564
+1444,Personal,9.62,878
+1445,Payday,8.42,389
+1446,Home equity,3.39,1088
+1447,Debt consolidation,3.22,892
+1448,Mortgage,4.86,316
+1449,Business,8.75,960
+1450,Student,7.69,89
+1451,Credit-builder,5.07,481
+1452,Payday,4.16,588
+1453,Student,6.13,618
+1454,Business,7.58,326
+1455,Home equity,7.24,807
+1456,Mortgage,8.25,215
+1457,Home equity,7.25,536
+1458,Auto,5.21,852
+1459,Mortgage,4.44,172
+1460,Auto,7.07,229
+1461,Auto,6.13,483
+1462,Payday,3.03,1088
+1463,Home equity,6.23,880
+1464,Mortgage,9.9,906
+1465,Business,7.59,691
+1466,Personal,8.1,288
+1467,Credit-builder,9.68,137
+1468,Auto,6.81,591
+1469,Business,3.02,203
+1470,Personal,5.87,383
+1471,Payday,5.37,1065
+1472,Business,8.09,978
+1473,Business,8.32,356
+1474,Debt consolidation,4.81,922
+1475,Business,4.59,125
+1476,Business,9.94,351
+1477,Auto,4.86,757
+1478,Student,7.95,512
+1479,Mortgage,9.78,343
+1480,Credit-builder,5.85,368
+1481,Home equity,7.47,423
+1482,Debt consolidation,3.73,1040
+1483,Mortgage,5.98,823
+1484,Auto,9.9,843
+1485,Credit-builder,4.28,776
+1486,Mortgage,7.28,1000
+1487,Student,9.25,716
+1488,Auto,9.79,1000
+1489,Personal,5.69,203
+1490,Business,7.27,776
+1491,Personal,9.45,261
+1492,Personal,6.01,697
+1493,Debt consolidation,8.22,678
+1494,Mortgage,6.8,92
+1495,Home equity,6.84,1034
+1496,Debt consolidation,3.42,1038
+1497,Credit-builder,3.48,664
+1498,Mortgage,6.23,1069
+1499,Credit-builder,5.87,183
+1500,Personal,6.9,1045

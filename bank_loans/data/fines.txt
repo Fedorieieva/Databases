@@ -1,0 +1,466 @@
+fine_id,fine_amount,fine_reason,fine_date,loan_agreement_id
+1,160,Non-compliance fee,2019-08-03,4
+2,67,Late payment fee,2019-09-26,6
+3,77,Non-compliance fee,2023-04-14,7
+4,199,Late payment fee,2018-08-10,8
+5,164,Non-compliance fee,2023-10-30,13
+6,174,Late payment fee,2023-12-07,23
+7,214,Late payment fee,2022-03-04,27
+8,180,Non-compliance fee,2023-07-23,29
+9,151,Non-compliance fee,2022-06-09,40
+10,145,Late payment fee,2023-08-24,42
+11,224,Late payment fee,2019-12-09,55
+12,172,Late payment fee,2018-12-18,62
+13,93,Late payment fee,2023-11-17,69
+14,173,Late payment fee,2020-02-01,72
+15,154,Late payment fee,2019-01-11,78
+16,153,Non-compliance fee,2021-01-02,80
+17,95,Non-compliance fee,2022-08-16,83
+18,117,Non-compliance fee,2023-03-31,85
+19,132,Late payment fee,2019-07-29,86
+20,248,Late payment fee,2020-06-29,95
+21,95,Non-compliance fee,2022-08-14,96
+22,174,Non-compliance fee,2023-05-02,101
+23,109,Non-compliance fee,2022-10-02,102
+24,75,Late payment fee,2023-04-17,105
+25,41,Non-compliance fee,2021-10-08,106
+26,131,Non-compliance fee,2018-11-07,112
+27,191,Late payment fee,2022-05-27,117
+28,170,Non-compliance fee,2022-12-14,118
+29,84,Late payment fee,2020-05-09,121
+30,58,Non-compliance fee,2020-07-29,124
+31,110,Non-compliance fee,2020-10-07,125
+32,131,Non-compliance fee,2022-08-15,130
+33,220,Late payment fee,2019-11-29,131
+34,100,Non-compliance fee,2017-06-29,133
+35,142,Non-compliance fee,2023-08-31,135
+36,229,Late payment fee,2023-11-06,141
+37,39,Non-compliance fee,2021-12-18,144
+38,224,Late payment fee,2023-09-27,150
+39,37,Non-compliance fee,2023-03-30,151
+40,115,Non-compliance fee,2022-07-13,156
+41,167,Late payment fee,2017-08-02,159
+42,115,Non-compliance fee,2023-06-19,164
+43,115,Non-compliance fee,2023-01-09,165
+44,146,Non-compliance fee,2023-07-25,168
+45,110,Non-compliance fee,2018-06-10,172
+46,40,Non-compliance fee,2018-08-19,176
+47,184,Late payment fee,2019-06-29,178
+48,111,Late payment fee,2023-07-28,179
+49,87,Late payment fee,2022-09-08,180
+50,70,Non-compliance fee,2018-12-14,184
+51,213,Late payment fee,2021-03-25,185
+52,72,Non-compliance fee,2020-10-30,195
+53,52,Late payment fee,2023-10-17,197
+54,229,Late payment fee,2022-11-25,200
+55,110,Non-compliance fee,2019-08-07,204
+56,69,Late payment fee,2019-10-02,213
+57,82,Non-compliance fee,2020-08-01,214
+58,134,Non-compliance fee,2022-08-23,215
+59,149,Late payment fee,2023-11-28,218
+60,109,Non-compliance fee,2023-11-25,221
+61,31,Non-compliance fee,2023-01-21,224
+62,42,Non-compliance fee,2022-01-20,226
+63,77,Late payment fee,2022-08-09,227
+64,101,Non-compliance fee,2021-05-08,228
+65,82,Non-compliance fee,2020-09-19,233
+66,34,Non-compliance fee,2017-07-11,234
+67,121,Late payment fee,2023-05-27,238
+68,234,Late payment fee,2022-12-31,242
+69,75,Non-compliance fee,2023-11-05,243
+70,133,Non-compliance fee,2022-12-07,245
+71,126,Late payment fee,2020-12-24,246
+72,63,Non-compliance fee,2021-07-04,248
+73,119,Late payment fee,2021-04-25,249
+74,137,Late payment fee,2021-06-21,251
+75,42,Non-compliance fee,2023-09-11,252
+76,87,Late payment fee,2017-01-07,253
+77,77,Non-compliance fee,2016-12-25,255
+78,234,Late payment fee,2023-01-31,257
+79,78,Non-compliance fee,2019-10-31,261
+80,56,Non-compliance fee,2023-12-11,269
+81,45,Non-compliance fee,2019-12-12,270
+82,113,Late payment fee,2023-04-04,271
+83,234,Late payment fee,2023-02-08,275
+84,48,Non-compliance fee,2022-10-26,277
+85,39,Non-compliance fee,2020-04-28,281
+86,71,Late payment fee,2023-11-30,283
+87,147,Non-compliance fee,2023-05-12,286
+88,61,Non-compliance fee,2023-03-03,288
+89,229,Late payment fee,2020-01-18,292
+90,92,Non-compliance fee,2018-05-04,295
+91,205,Late payment fee,2022-04-18,298
+92,215,Late payment fee,2022-03-27,299
+93,88,Non-compliance fee,2019-09-12,300
+94,89,Non-compliance fee,2020-01-05,306
+95,201,Late payment fee,2020-12-05,308
+96,197,Late payment fee,2019-09-28,309
+97,129,Late payment fee,2020-02-13,314
+98,61,Late payment fee,2016-12-14,315
+99,51,Late payment fee,2021-01-01,317
+100,148,Non-compliance fee,2019-12-28,318
+101,94,Non-compliance fee,2019-01-26,322
+102,120,Late payment fee,2022-12-20,325
+103,244,Late payment fee,2019-02-10,326
+104,94,Late payment fee,2019-11-21,327
+105,235,Late payment fee,2022-08-17,330
+106,148,Non-compliance fee,2023-01-26,332
+107,131,Non-compliance fee,2022-10-26,339
+108,118,Non-compliance fee,2022-03-02,347
+109,124,Non-compliance fee,2019-04-14,352
+110,132,Late payment fee,2022-10-01,355
+111,71,Late payment fee,2022-10-30,356
+112,215,Late payment fee,2023-10-05,360
+113,149,Non-compliance fee,2022-01-29,361
+114,72,Non-compliance fee,2019-07-17,368
+115,69,Late payment fee,2021-04-24,373
+116,69,Non-compliance fee,2020-12-21,378
+117,139,Late payment fee,2023-05-06,382
+118,52,Late payment fee,2021-12-08,384
+119,114,Non-compliance fee,2017-04-28,387
+120,104,Late payment fee,2016-12-03,394
+121,87,Late payment fee,2022-02-09,395
+122,33,Non-compliance fee,2022-02-16,396
+123,214,Late payment fee,2022-08-12,398
+124,108,Late payment fee,2020-10-02,404
+125,237,Late payment fee,2020-10-12,405
+126,217,Late payment fee,2018-03-20,407
+127,56,Non-compliance fee,2021-07-05,410
+128,187,Late payment fee,2022-06-15,411
+129,147,Non-compliance fee,2022-05-24,413
+130,178,Non-compliance fee,2020-08-03,416
+131,55,Non-compliance fee,2022-07-10,417
+132,143,Non-compliance fee,2020-01-09,420
+133,120,Late payment fee,2023-05-27,422
+134,33,Non-compliance fee,2018-10-23,423
+135,116,Non-compliance fee,2021-11-07,424
+136,222,Late payment fee,2023-03-06,431
+137,197,Late payment fee,2018-09-06,433
+138,75,Non-compliance fee,2023-08-30,439
+139,56,Non-compliance fee,2017-09-20,454
+140,144,Non-compliance fee,2022-04-30,459
+141,94,Non-compliance fee,2020-04-21,463
+142,55,Non-compliance fee,2019-02-08,469
+143,150,Late payment fee,2022-06-27,477
+144,111,Late payment fee,2021-03-14,480
+145,43,Non-compliance fee,2020-03-18,484
+146,132,Late payment fee,2018-01-22,493
+147,169,Non-compliance fee,2019-09-17,495
+148,47,Non-compliance fee,2020-07-31,497
+149,159,Non-compliance fee,2023-11-06,506
+150,30,Non-compliance fee,2023-11-19,507
+151,36,Non-compliance fee,2019-03-18,508
+152,103,Late payment fee,2022-06-13,510
+153,121,Late payment fee,2023-08-19,511
+154,152,Late payment fee,2023-05-02,512
+155,47,Non-compliance fee,2018-12-17,513
+156,90,Non-compliance fee,2022-12-28,519
+157,128,Late payment fee,2021-08-03,520
+158,89,Late payment fee,2022-05-17,522
+159,159,Non-compliance fee,2022-12-05,527
+160,146,Non-compliance fee,2023-06-15,528
+161,127,Non-compliance fee,2023-02-27,531
+162,37,Non-compliance fee,2021-02-12,536
+163,96,Non-compliance fee,2023-06-18,538
+164,156,Non-compliance fee,2018-12-23,541
+165,147,Late payment fee,2020-01-16,544
+166,150,Non-compliance fee,2022-07-12,546
+167,78,Non-compliance fee,2018-01-06,551
+168,68,Non-compliance fee,2020-04-08,552
+169,42,Non-compliance fee,2023-10-05,555
+170,151,Non-compliance fee,2021-04-30,558
+171,169,Non-compliance fee,2022-08-03,562
+172,144,Late payment fee,2022-06-23,566
+173,123,Late payment fee,2023-10-10,568
+174,76,Late payment fee,2022-09-13,570
+175,100,Non-compliance fee,2021-09-30,577
+176,230,Late payment fee,2019-04-21,578
+177,55,Late payment fee,2019-12-02,579
+178,129,Late payment fee,2023-04-24,583
+179,94,Late payment fee,2023-04-01,587
+180,93,Non-compliance fee,2021-12-16,592
+181,132,Non-compliance fee,2022-02-09,596
+182,145,Non-compliance fee,2023-04-09,597
+183,179,Late payment fee,2023-09-02,601
+184,47,Non-compliance fee,2023-02-05,602
+185,149,Non-compliance fee,2021-06-04,603
+186,229,Late payment fee,2023-05-28,606
+187,138,Non-compliance fee,2019-05-31,616
+188,53,Late payment fee,2021-04-02,627
+189,184,Late payment fee,2022-07-09,628
+190,105,Non-compliance fee,2021-11-15,629
+191,54,Non-compliance fee,2023-03-23,633
+192,61,Late payment fee,2020-09-09,634
+193,154,Non-compliance fee,2021-11-23,636
+194,195,Late payment fee,2021-11-14,646
+195,52,Non-compliance fee,2022-08-23,651
+196,68,Non-compliance fee,2019-08-15,654
+197,110,Late payment fee,2022-02-24,662
+198,161,Late payment fee,2019-08-05,666
+199,101,Late payment fee,2021-08-24,669
+200,42,Non-compliance fee,2018-05-29,670
+201,211,Late payment fee,2022-06-06,672
+202,249,Late payment fee,2023-06-15,678
+203,101,Late payment fee,2021-12-08,680
+204,139,Non-compliance fee,2023-10-23,682
+205,64,Non-compliance fee,2023-11-21,687
+206,174,Non-compliance fee,2021-05-19,688
+207,100,Non-compliance fee,2023-03-23,693
+208,41,Non-compliance fee,2020-01-27,700
+209,84,Non-compliance fee,2022-09-10,703
+210,135,Late payment fee,2019-02-11,709
+211,141,Non-compliance fee,2022-06-14,710
+212,175,Non-compliance fee,2023-05-10,712
+213,80,Late payment fee,2020-12-20,714
+214,72,Late payment fee,2023-05-15,715
+215,150,Late payment fee,2023-02-24,725
+216,64,Non-compliance fee,2020-09-11,728
+217,57,Late payment fee,2019-01-12,729
+218,56,Non-compliance fee,2023-01-29,732
+219,112,Late payment fee,2017-08-03,733
+220,68,Late payment fee,2021-04-29,736
+221,85,Late payment fee,2021-08-17,738
+222,250,Late payment fee,2023-09-26,739
+223,40,Non-compliance fee,2023-04-06,742
+224,188,Late payment fee,2020-06-22,745
+225,121,Late payment fee,2020-08-06,748
+226,55,Late payment fee,2019-10-24,750
+227,103,Non-compliance fee,2023-03-01,753
+228,152,Late payment fee,2022-03-06,768
+229,79,Non-compliance fee,2022-11-09,771
+230,154,Non-compliance fee,2021-10-18,774
+231,170,Non-compliance fee,2022-01-03,776
+232,84,Non-compliance fee,2019-12-25,781
+233,169,Late payment fee,2022-01-18,792
+234,33,Non-compliance fee,2022-09-16,794
+235,123,Late payment fee,2020-03-01,800
+236,178,Late payment fee,2022-04-07,801
+237,187,Late payment fee,2020-05-01,802
+238,158,Late payment fee,2021-11-25,805
+239,73,Late payment fee,2018-10-14,806
+240,136,Non-compliance fee,2023-11-11,811
+241,107,Non-compliance fee,2022-05-03,812
+242,176,Late payment fee,2022-04-29,816
+243,151,Non-compliance fee,2022-08-09,817
+244,120,Non-compliance fee,2018-10-22,825
+245,79,Non-compliance fee,2020-05-05,827
+246,160,Late payment fee,2020-09-17,832
+247,77,Late payment fee,2019-06-30,835
+248,125,Non-compliance fee,2023-04-14,838
+249,185,Late payment fee,2023-10-16,839
+250,31,Non-compliance fee,2023-04-08,840
+251,52,Non-compliance fee,2023-11-18,845
+252,165,Non-compliance fee,2020-02-09,847
+253,69,Non-compliance fee,2021-12-11,848
+254,152,Non-compliance fee,2023-08-24,856
+255,134,Late payment fee,2023-07-20,857
+256,172,Late payment fee,2019-03-04,861
+257,82,Late payment fee,2022-10-31,864
+258,131,Late payment fee,2023-02-16,866
+259,172,Non-compliance fee,2021-10-11,867
+260,134,Late payment fee,2021-11-10,869
+261,109,Non-compliance fee,2023-04-09,871
+262,53,Late payment fee,2020-09-24,873
+263,163,Non-compliance fee,2022-05-02,874
+264,80,Non-compliance fee,2023-09-23,877
+265,74,Non-compliance fee,2022-02-21,883
+266,110,Late payment fee,2021-10-25,886
+267,139,Non-compliance fee,2023-10-13,890
+268,197,Late payment fee,2023-05-04,894
+269,65,Non-compliance fee,2021-11-10,895
+270,160,Non-compliance fee,2022-02-16,896
+271,151,Non-compliance fee,2023-11-15,899
+272,134,Non-compliance fee,2019-10-07,900
+273,177,Non-compliance fee,2019-08-23,902
+274,210,Late payment fee,2020-12-15,907
+275,76,Non-compliance fee,2022-06-22,910
+276,179,Non-compliance fee,2021-12-07,917
+277,77,Non-compliance fee,2017-04-27,927
+278,80,Non-compliance fee,2023-02-17,932
+279,118,Late payment fee,2022-10-12,934
+280,228,Late payment fee,2022-05-11,936
+281,42,Non-compliance fee,2020-09-10,939
+282,135,Late payment fee,2022-11-29,940
+283,163,Late payment fee,2022-10-01,944
+284,160,Non-compliance fee,2021-07-12,946
+285,192,Late payment fee,2017-04-27,950
+286,170,Non-compliance fee,2021-07-24,953
+287,172,Non-compliance fee,2023-05-08,955
+288,172,Non-compliance fee,2021-07-28,958
+289,102,Non-compliance fee,2021-05-26,962
+290,94,Non-compliance fee,2023-07-03,973
+291,39,Non-compliance fee,2023-10-29,975
+292,63,Non-compliance fee,2021-09-24,980
+293,42,Non-compliance fee,2022-05-12,983
+294,48,Non-compliance fee,2023-03-19,985
+295,60,Late payment fee,2023-09-19,986
+296,137,Non-compliance fee,2018-04-04,987
+297,232,Late payment fee,2023-03-15,993
+298,70,Non-compliance fee,2021-11-03,996
+299,154,Late payment fee,2021-01-23,1006
+300,87,Non-compliance fee,2020-04-12,1009
+301,104,Non-compliance fee,2023-01-24,1012
+302,66,Non-compliance fee,2022-11-07,1013
+303,72,Non-compliance fee,2023-03-30,1015
+304,149,Late payment fee,2019-02-11,1019
+305,229,Late payment fee,2023-03-06,1029
+306,155,Late payment fee,2022-01-13,1033
+307,202,Late payment fee,2019-06-24,1035
+308,37,Non-compliance fee,2020-08-29,1036
+309,94,Non-compliance fee,2023-11-20,1041
+310,146,Non-compliance fee,2023-09-15,1044
+311,152,Late payment fee,2017-08-26,1045
+312,219,Late payment fee,2022-02-13,1048
+313,239,Late payment fee,2019-03-04,1050
+314,76,Non-compliance fee,2022-09-24,1051
+315,95,Non-compliance fee,2023-05-29,1052
+316,163,Non-compliance fee,2018-11-25,1060
+317,161,Late payment fee,2021-02-10,1062
+318,250,Late payment fee,2020-02-12,1064
+319,144,Non-compliance fee,2022-12-24,1070
+320,173,Non-compliance fee,2023-11-30,1073
+321,129,Late payment fee,2018-08-18,1078
+322,107,Late payment fee,2022-10-26,1081
+323,59,Non-compliance fee,2019-12-15,1083
+324,81,Non-compliance fee,2020-08-26,1087
+325,161,Non-compliance fee,2016-10-08,1088
+326,73,Late payment fee,2021-10-29,1089
+327,214,Late payment fee,2022-04-24,1090
+328,119,Non-compliance fee,2020-09-03,1092
+329,109,Non-compliance fee,2020-04-23,1093
+330,180,Late payment fee,2023-01-27,1095
+331,170,Non-compliance fee,2017-06-20,1100
+332,192,Late payment fee,2019-03-28,1103
+333,118,Late payment fee,2023-01-08,1105
+334,120,Non-compliance fee,2022-05-01,1106
+335,150,Non-compliance fee,2021-06-30,1112
+336,151,Non-compliance fee,2023-11-28,1124
+337,75,Late payment fee,2021-03-09,1125
+338,150,Non-compliance fee,2022-04-29,1126
+339,167,Non-compliance fee,2023-02-03,1134
+340,105,Non-compliance fee,2023-01-06,1139
+341,249,Late payment fee,2023-03-29,1141
+342,214,Late payment fee,2022-06-24,1147
+343,41,Non-compliance fee,2022-04-06,1149
+344,142,Late payment fee,2022-08-04,1150
+345,155,Non-compliance fee,2021-08-13,1154
+346,96,Non-compliance fee,2019-09-10,1159
+347,74,Late payment fee,2021-05-15,1164
+348,237,Late payment fee,2022-11-03,1165
+349,149,Non-compliance fee,2022-04-12,1166
+350,143,Late payment fee,2023-04-03,1170
+351,57,Late payment fee,2023-06-09,1173
+352,51,Non-compliance fee,2019-09-17,1179
+353,71,Non-compliance fee,2019-08-09,1181
+354,113,Non-compliance fee,2023-12-07,1183
+355,135,Late payment fee,2021-08-16,1193
+356,91,Late payment fee,2021-05-06,1195
+357,105,Late payment fee,2021-01-02,1199
+358,56,Non-compliance fee,2023-04-04,1200
+359,147,Late payment fee,2023-09-19,1202
+360,65,Late payment fee,2018-11-15,1207
+361,102,Non-compliance fee,2021-08-14,1209
+362,70,Late payment fee,2021-12-25,1210
+363,57,Late payment fee,2022-01-20,1212
+364,34,Non-compliance fee,2023-08-28,1214
+365,146,Non-compliance fee,2023-03-24,1218
+366,50,Late payment fee,2023-06-05,1222
+367,84,Non-compliance fee,2020-05-09,1225
+368,118,Non-compliance fee,2022-11-27,1228
+369,56,Late payment fee,2019-09-22,1230
+370,80,Late payment fee,2022-04-17,1233
+371,118,Non-compliance fee,2020-09-13,1235
+372,213,Late payment fee,2022-10-06,1237
+373,131,Late payment fee,2023-03-22,1241
+374,140,Non-compliance fee,2021-11-18,1245
+375,57,Non-compliance fee,2022-02-02,1246
+376,107,Non-compliance fee,2021-10-24,1247
+377,57,Non-compliance fee,2020-07-14,1251
+378,47,Non-compliance fee,2022-01-30,1252
+379,219,Late payment fee,2023-08-04,1254
+380,176,Late payment fee,2017-09-20,1259
+381,89,Non-compliance fee,2023-11-14,1260
+382,140,Non-compliance fee,2020-08-16,1262
+383,209,Late payment fee,2021-04-20,1263
+384,106,Non-compliance fee,2019-12-30,1264
+385,164,Late payment fee,2020-04-07,1272
+386,227,Late payment fee,2023-10-11,1274
+387,135,Late payment fee,2022-08-16,1275
+388,144,Late payment fee,2023-05-20,1279
+389,121,Non-compliance fee,2023-09-26,1280
+390,97,Non-compliance fee,2019-08-25,1281
+391,112,Non-compliance fee,2023-08-17,1283
+392,59,Late payment fee,2019-09-30,1290
+393,246,Late payment fee,2023-01-01,1292
+394,102,Late payment fee,2022-03-14,1300
+395,223,Late payment fee,2023-01-06,1306
+396,75,Non-compliance fee,2023-10-03,1309
+397,122,Non-compliance fee,2023-08-31,1311
+398,137,Late payment fee,2019-03-28,1314
+399,79,Non-compliance fee,2023-08-02,1316
+400,178,Non-compliance fee,2019-08-17,1317
+401,69,Non-compliance fee,2023-09-01,1318
+402,185,Late payment fee,2022-05-17,1320
+403,89,Late payment fee,2023-12-13,1322
+404,141,Late payment fee,2021-09-05,1323
+405,162,Non-compliance fee,2021-04-09,1324
+406,203,Late payment fee,2022-03-30,1327
+407,196,Late payment fee,2023-08-30,1328
+408,115,Non-compliance fee,2022-03-31,1330
+409,198,Late payment fee,2022-03-29,1333
+410,94,Non-compliance fee,2023-11-15,1334
+411,221,Late payment fee,2023-08-24,1340
+412,71,Non-compliance fee,2023-05-10,1343
+413,88,Late payment fee,2020-09-15,1344
+414,227,Late payment fee,2023-12-02,1349
+415,162,Non-compliance fee,2023-06-01,1353
+416,148,Late payment fee,2023-08-13,1356
+417,171,Late payment fee,2021-07-09,1360
+418,189,Late payment fee,2022-07-10,1362
+419,94,Non-compliance fee,2022-12-14,1364
+420,123,Non-compliance fee,2021-08-11,1371
+421,81,Non-compliance fee,2022-04-16,1378
+422,194,Late payment fee,2023-02-24,1379
+423,230,Late payment fee,2019-07-10,1382
+424,120,Non-compliance fee,2021-04-19,1388
+425,43,Non-compliance fee,2022-08-08,1390
+426,223,Late payment fee,2022-02-02,1391
+427,212,Late payment fee,2019-11-22,1392
+428,84,Non-compliance fee,2020-05-08,1394
+429,206,Late payment fee,2022-08-11,1395
+430,196,Late payment fee,2022-09-01,1397
+431,62,Non-compliance fee,2020-10-10,1398
+432,97,Non-compliance fee,2020-02-25,1402
+433,30,Non-compliance fee,2021-12-28,1403
+434,243,Late payment fee,2022-11-15,1404
+435,62,Non-compliance fee,2018-09-26,1408
+436,244,Late payment fee,2021-05-18,1412
+437,91,Late payment fee,2020-05-25,1416
+438,179,Non-compliance fee,2022-01-21,1424
+439,70,Non-compliance fee,2021-07-04,1425
+440,79,Late payment fee,2023-07-08,1434
+441,198,Late payment fee,2023-03-20,1436
+442,113,Non-compliance fee,2021-09-02,1438
+443,67,Non-compliance fee,2022-09-10,1443
+444,79,Non-compliance fee,2018-11-29,1445
+445,157,Non-compliance fee,2020-05-09,1446
+446,182,Late payment fee,2022-10-08,1449
+447,30,Non-compliance fee,2018-08-14,1450
+448,212,Late payment fee,2022-08-11,1451
+449,122,Late payment fee,2022-06-13,1458
+450,116,Late payment fee,2017-02-14,1460
+451,55,Non-compliance fee,2022-04-06,1467
+452,49,Non-compliance fee,2023-11-09,1468
+453,176,Late payment fee,2020-10-29,1472
+454,115,Non-compliance fee,2023-04-16,1473
+455,208,Late payment fee,2021-11-18,1474
+456,56,Late payment fee,2021-01-30,1479
+457,229,Late payment fee,2023-09-05,1482
+458,182,Late payment fee,2022-09-26,1483
+459,142,Non-compliance fee,2023-06-29,1484
+460,169,Late payment fee,2023-02-17,1485
+461,170,Non-compliance fee,2021-11-04,1486
+462,50,Non-compliance fee,2023-08-29,1487
+463,239,Late payment fee,2023-01-17,1489
+464,148,Non-compliance fee,2022-11-05,1492
+465,193,Late payment fee,2020-11-26,1500
