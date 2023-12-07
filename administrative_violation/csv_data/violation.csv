@@ -1,0 +1,1001 @@
+violation_id,violation_type,date_time,status,violation_category_id,drivers_licence
+1,Illegal parking,2020-08-10,registered,1,NM-720679-18-46-57-KO
+2,Illegal parking,2022-07-17,closed,2,IX-702005-22-87-45-JN
+3,Speeding,2018-07-10,registered,3,TV-335783-19-84-14-RO
+4,Reckless driving,2020-07-11,closed,4,GQ-928995-44-46-58-VF
+5,Speeding,2019-05-01,closed,5,KN-372650-41-75-36-SV
+6,Illegal parking,2022-12-30,registered,6,FV-513584-98-11-07-JI
+7,Reckless driving,2023-09-25,registered,7,OY-099760-01-89-25-OC
+8,Failure to yield,2016-12-21,closed,8,TT-661361-54-52-62-CO
+9,Reckless driving,2019-05-11,registered,9,EN-319566-23-68-21-NJ
+10,Driving under the influence,2023-04-09,registered,10,UQ-278972-15-41-92-PQ
+11,Driving under the influence,2014-06-12,registered,4,NP-931999-76-69-95-XP
+12,Running a red light,2017-03-18,closed,4,QO-912890-05-98-48-KY
+13,Failure to yield,2016-01-10,registered,4,PD-796662-93-86-38-UL
+14,Driving under the influence,2018-08-14,registered,4,PY-159181-67-58-71-RW
+15,Failure to yield,2019-10-18,registered,4,IZ-878234-51-82-24-IC
+16,Reckless driving,2020-11-21,closed,4,IX-012690-24-89-52-AG
+17,Running a red light,2023-03-29,registered,4,SU-358698-43-29-46-VY
+18,Speeding,2014-10-07,closed,4,WC-278663-26-33-41-HU
+19,Running a red light,2014-09-15,registered,4,HT-904788-50-89-20-BI
+20,Illegal parking,2017-12-10,registered,4,ZB-662710-37-20-28-JS
+21,Speeding,2020-01-03,registered,4,OH-309875-77-83-47-HA
+22,Illegal parking,2014-12-27,registered,4,UJ-558493-22-53-30-KW
+23,Driving under the influence,2014-09-06,registered,4,TH-333287-57-87-62-BV
+24,Speeding,2015-03-28,registered,4,DE-196459-86-75-80-DC
+25,Illegal parking,2016-12-13,registered,4,RP-101220-63-42-24-ED
+26,Running a red light,2021-09-10,registered,4,JJ-014768-00-55-23-BP
+27,Illegal parking,2023-04-08,registered,4,XN-292890-09-68-39-KZ
+28,Failure to yield,2022-06-09,closed,4,MW-830939-95-17-22-EL
+29,Driving under the influence,2015-02-18,closed,4,UL-377974-31-59-47-YP
+30,Driving under the influence,2022-09-03,closed,4,MM-080919-42-39-87-QV
+31,Failure to yield,2021-11-29,registered,4,SX-840697-18-28-95-UU
+32,Driving under the influence,2017-08-14,closed,4,PZ-305384-79-70-34-JR
+33,Speeding,2022-01-15,registered,4,PC-620242-99-09-50-CJ
+34,Reckless driving,2021-12-31,registered,4,UN-778210-75-23-35-RF
+35,Driving under the influence,2023-06-12,closed,4,EA-085679-45-40-46-HJ
+36,Reckless driving,2022-09-29,registered,4,YI-614639-36-76-37-FK
+37,Illegal parking,2019-01-15,registered,4,DA-333581-27-45-68-WR
+38,Speeding,2017-02-06,registered,4,KA-557383-84-77-75-GS
+39,Failure to yield,2022-03-03,registered,4,MD-553403-63-54-85-TG
+40,Failure to yield,2019-07-11,registered,4,BA-538743-15-26-44-VC
+41,Speeding,2015-10-25,registered,4,CR-830018-38-53-57-EU
+42,Failure to yield,2019-03-09,closed,4,SV-637352-67-20-96-IO
+43,Illegal parking,2021-09-07,registered,4,QJ-211844-26-20-81-TY
+44,Reckless driving,2017-05-17,closed,4,AR-497702-53-35-15-UV
+45,Illegal parking,2019-03-09,registered,4,DH-140443-23-80-91-XJ
+46,Speeding,2015-09-30,closed,4,IB-175326-20-72-16-ZL
+47,Driving under the influence,2023-11-14,registered,4,DL-953363-05-82-88-JY
+48,Speeding,2022-12-11,closed,4,SV-119979-72-90-77-LB
+49,Reckless driving,2021-04-04,closed,4,ZE-110645-44-15-82-HS
+50,Illegal parking,2023-01-10,registered,4,TH-308304-51-00-92-QE
+51,Reckless driving,2021-03-02,registered,4,NM-069329-27-37-34-GD
+52,Speeding,2016-12-30,registered,4,VQ-704937-04-88-56-XE
+53,Reckless driving,2017-06-08,registered,4,TY-022953-14-48-32-UJ
+54,Illegal parking,2023-09-25,closed,4,XC-929173-18-32-07-ZU
+55,Driving under the influence,2018-01-22,registered,4,GY-192357-33-46-30-TE
+56,Driving under the influence,2021-08-24,registered,4,XP-908790-00-23-79-TL
+57,Illegal parking,2020-01-20,registered,4,NU-113400-61-25-09-GQ
+58,Speeding,2023-10-26,registered,4,ET-721991-11-50-81-WH
+59,Illegal parking,2023-03-13,registered,4,FN-934658-96-79-38-TK
+60,Speeding,2017-04-01,registered,4,TD-086240-93-02-48-GD
+61,Speeding,2018-04-05,registered,4,DA-332858-20-30-14-ND
+62,Illegal parking,2019-10-13,registered,4,VG-549038-06-50-78-IP
+63,Running a red light,2020-11-22,registered,4,EF-667185-66-42-65-ML
+64,Illegal parking,2016-06-06,registered,4,YM-172893-11-70-76-JV
+65,Reckless driving,2020-11-27,registered,4,CQ-576406-72-51-59-ZM
+66,Illegal parking,2019-07-16,closed,4,WD-937373-06-18-53-FR
+67,Driving under the influence,2020-11-09,closed,4,BY-453353-37-12-24-PS
+68,Speeding,2022-10-05,closed,4,HC-542048-53-09-91-FP
+69,Failure to yield,2017-05-24,closed,4,RH-626409-83-50-30-QE
+70,Failure to yield,2022-07-19,closed,4,OG-970021-62-75-69-AC
+71,Speeding,2020-06-12,registered,4,DV-783600-72-33-00-HJ
+72,Reckless driving,2016-08-01,closed,4,EF-280940-27-98-42-DK
+73,Failure to yield,2016-05-09,registered,4,FA-321116-91-22-93-NK
+74,Speeding,2022-12-28,registered,4,RD-275451-77-68-79-HD
+75,Running a red light,2021-03-16,closed,4,OI-653135-65-18-88-RO
+76,Speeding,2016-07-08,registered,4,GB-991743-68-07-40-IY
+77,Speeding,2016-02-02,registered,4,ON-833726-27-55-65-PE
+78,Illegal parking,2021-07-17,registered,4,YD-160863-37-59-49-IY
+79,Driving under the influence,2018-03-01,closed,4,PH-369529-16-43-95-NI
+80,Illegal parking,2020-09-28,registered,4,FV-615270-09-90-53-SH
+81,Running a red light,2022-10-11,closed,4,UO-818676-73-07-25-LO
+82,Driving under the influence,2020-04-20,registered,4,XX-160204-85-28-97-OX
+83,Failure to yield,2019-08-15,closed,4,KI-172513-61-93-42-AA
+84,Illegal parking,2018-05-25,registered,4,NZ-173399-98-23-61-CF
+85,Reckless driving,2023-10-18,registered,4,SQ-085014-94-09-17-RV
+86,Reckless driving,2021-06-15,closed,4,IN-491026-89-32-65-RT
+87,Illegal parking,2014-11-01,registered,4,BK-381610-20-17-41-YC
+88,Running a red light,2014-06-09,registered,4,VB-364395-67-13-60-IE
+89,Driving under the influence,2015-03-23,registered,4,IB-169918-30-06-08-ET
+90,Speeding,2019-04-24,registered,4,HC-035989-10-27-47-HM
+91,Speeding,2021-03-24,closed,4,JR-818380-85-62-39-QQ
+92,Running a red light,2017-02-01,registered,4,MD-035919-78-04-51-CQ
+93,Reckless driving,2023-01-08,closed,4,DO-819485-62-94-22-QT
+94,Illegal parking,2017-02-04,closed,4,HX-294832-51-30-97-SD
+95,Running a red light,2019-09-26,closed,4,QO-930486-72-10-06-ME
+96,Driving under the influence,2022-04-08,registered,4,LU-418688-34-80-63-HF
+97,Failure to yield,2015-07-17,registered,4,SM-739095-71-81-51-UA
+98,Speeding,2020-05-05,closed,4,PY-723371-87-39-14-HL
+99,Illegal parking,2022-05-08,registered,4,KZ-770603-03-51-55-GB
+100,Speeding,2017-07-24,closed,4,XA-289473-80-24-67-RC
+101,Driving under the influence,2022-04-20,closed,4,VW-341053-02-63-68-DZ
+102,Illegal parking,2019-08-16,closed,4,EV-970805-18-95-00-UM
+103,Running a red light,2021-08-16,registered,4,RZ-048801-17-73-83-IT
+104,Reckless driving,2022-08-14,closed,4,QG-534639-84-93-35-HS
+105,Illegal parking,2016-02-16,registered,4,BT-332852-53-10-90-JX
+106,Reckless driving,2014-11-17,closed,4,ZP-001790-05-20-85-ZP
+107,Reckless driving,2023-05-16,registered,4,SO-597735-70-40-05-LE
+108,Running a red light,2020-03-29,closed,4,PU-614247-64-63-16-XA
+109,Failure to yield,2021-02-28,registered,4,LC-734011-58-65-39-RS
+110,Reckless driving,2015-01-19,registered,4,FW-799209-05-44-66-FD
+111,Failure to yield,2022-11-27,registered,4,TG-370357-43-68-74-DB
+112,Reckless driving,2022-04-26,closed,4,QR-798401-23-52-50-LZ
+113,Speeding,2019-06-10,closed,4,IX-663698-05-84-08-OE
+114,Driving under the influence,2022-02-01,registered,4,QZ-426821-41-00-18-RM
+115,Running a red light,2017-08-09,closed,4,XX-068551-96-59-53-SF
+116,Driving under the influence,2018-11-04,registered,4,ES-826069-90-14-75-ZG
+117,Failure to yield,2021-01-31,closed,4,JR-905184-75-06-15-QZ
+118,Driving under the influence,2016-07-12,closed,4,YB-605144-31-80-62-ZV
+119,Speeding,2017-10-31,registered,4,HC-995617-84-41-54-KL
+120,Driving under the influence,2017-08-19,registered,4,ZL-869837-58-11-63-RE
+121,Illegal parking,2014-10-14,registered,4,ZI-899534-29-08-93-OY
+122,Driving under the influence,2017-01-30,closed,4,IS-569558-14-01-93-TA
+123,Running a red light,2020-11-18,registered,4,MK-138516-69-61-64-KT
+124,Running a red light,2022-10-27,registered,4,IQ-281186-76-36-58-JE
+125,Running a red light,2023-09-04,registered,4,JT-245193-99-41-94-FH
+126,Reckless driving,2014-11-07,registered,4,IE-848851-65-60-38-MD
+127,Reckless driving,2020-07-25,registered,4,RY-952670-12-31-47-AP
+128,Speeding,2014-08-23,registered,4,SC-266876-83-47-53-XF
+129,Running a red light,2015-10-27,registered,4,QP-877610-78-76-19-SF
+130,Speeding,2017-04-10,closed,4,EI-787730-79-02-11-DX
+131,Failure to yield,2015-11-01,registered,4,BA-976530-61-73-83-YR
+132,Running a red light,2016-04-03,closed,4,CC-001924-87-09-40-PE
+133,Failure to yield,2022-05-08,registered,4,VH-235072-63-65-51-CA
+134,Illegal parking,2023-04-05,closed,4,DC-732927-11-66-32-YQ
+135,Driving under the influence,2019-02-22,closed,4,QQ-776246-11-62-16-ZF
+136,Reckless driving,2022-10-31,registered,4,DL-884952-33-29-61-RW
+137,Running a red light,2021-07-14,registered,4,BY-597207-53-65-51-YL
+138,Running a red light,2014-09-17,closed,4,UR-082463-62-46-17-TO
+139,Running a red light,2023-08-07,registered,4,GE-202375-36-43-19-QP
+140,Reckless driving,2021-05-01,registered,4,ZO-048144-02-06-07-GN
+141,Reckless driving,2019-08-31,closed,4,UZ-888322-57-28-17-FI
+142,Running a red light,2014-06-16,registered,4,BC-452933-03-30-04-KE
+143,Running a red light,2018-02-17,registered,4,OW-142588-04-67-85-OB
+144,Running a red light,2018-08-25,registered,4,LV-544549-10-10-16-VP
+145,Failure to yield,2019-09-29,closed,4,NA-498114-88-50-65-SB
+146,Running a red light,2023-11-08,registered,4,TT-757209-03-81-21-BL
+147,Driving under the influence,2022-03-13,registered,4,JP-750486-88-81-03-WD
+148,Driving under the influence,2018-12-18,registered,4,RR-912676-77-96-69-NL
+149,Failure to yield,2021-03-17,registered,4,KG-354877-18-14-84-TJ
+150,Reckless driving,2015-05-31,registered,4,KS-244871-66-99-94-MH
+151,Illegal parking,2019-04-29,registered,4,MZ-300880-00-14-82-VG
+152,Failure to yield,2020-01-31,closed,4,JI-135354-32-58-84-EA
+153,Driving under the influence,2017-01-13,closed,4,NM-161812-32-40-04-XM
+154,Illegal parking,2016-05-22,registered,4,OC-042098-84-79-27-OR
+155,Running a red light,2018-01-10,registered,4,AI-108515-42-44-92-DZ
+156,Illegal parking,2019-08-20,registered,4,NS-304310-75-94-77-GC
+157,Reckless driving,2022-11-27,registered,4,PF-870689-68-54-18-QV
+158,Illegal parking,2023-02-08,registered,4,DK-078792-01-79-92-SK
+159,Running a red light,2022-05-14,closed,4,WB-368141-85-28-46-XK
+160,Driving under the influence,2016-05-17,registered,4,YP-133320-02-29-83-EJ
+161,Running a red light,2016-08-05,closed,4,WN-974941-89-08-36-HT
+162,Speeding,2023-09-18,registered,4,BH-500633-14-46-84-VZ
+163,Failure to yield,2022-04-21,registered,4,GN-585745-15-13-45-CW
+164,Speeding,2018-08-27,registered,4,MF-280772-12-53-01-NW
+165,Driving under the influence,2018-09-01,closed,4,BP-347832-58-52-70-YL
+166,Reckless driving,2022-05-29,closed,4,VM-003328-99-58-94-BG
+167,Speeding,2017-11-21,closed,4,JW-910456-53-77-03-IV
+168,Reckless driving,2017-06-16,closed,4,MY-115471-07-06-33-ID
+169,Failure to yield,2018-07-01,closed,4,FN-410161-55-19-96-JP
+170,Speeding,2016-06-15,closed,4,FO-967663-82-66-50-XX
+171,Speeding,2019-07-15,registered,4,LG-365357-48-79-06-TX
+172,Driving under the influence,2018-01-27,registered,4,PE-072158-18-70-13-LP
+173,Failure to yield,2023-07-28,registered,4,BT-850940-08-91-21-IS
+174,Running a red light,2020-05-18,registered,4,KX-956139-53-28-38-UN
+175,Reckless driving,2018-07-24,registered,4,OK-510473-49-86-45-UD
+176,Illegal parking,2020-02-17,registered,4,TU-962200-50-15-38-IJ
+177,Reckless driving,2014-10-25,closed,4,DD-883130-10-02-11-FP
+178,Running a red light,2016-07-04,closed,4,QE-732291-93-16-94-JM
+179,Illegal parking,2016-02-09,registered,4,IH-280594-79-11-34-IW
+180,Driving under the influence,2016-05-04,closed,4,QC-644704-86-06-40-GI
+181,Reckless driving,2022-01-13,registered,4,MU-389346-16-07-03-GU
+182,Reckless driving,2023-08-20,registered,4,DY-006853-15-71-97-WL
+183,Failure to yield,2015-08-26,closed,4,JS-419251-39-33-29-AI
+184,Speeding,2014-11-16,closed,4,PU-878589-34-49-08-MJ
+185,Reckless driving,2015-12-27,registered,4,SS-197074-12-94-30-RG
+186,Running a red light,2019-07-12,registered,4,NB-118510-79-25-14-TF
+187,Failure to yield,2015-11-25,registered,4,JA-447743-39-43-50-IA
+188,Reckless driving,2023-04-20,closed,4,DT-483176-81-95-68-AO
+189,Driving under the influence,2020-06-15,registered,4,TE-030048-04-15-09-SL
+190,Reckless driving,2015-04-27,registered,4,AF-537243-72-70-85-DX
+191,Reckless driving,2016-11-21,closed,4,KS-691025-36-99-83-DZ
+192,Illegal parking,2015-10-27,closed,4,GW-447852-46-81-91-XD
+193,Driving under the influence,2022-10-07,closed,4,BK-551713-08-12-19-KP
+194,Speeding,2015-12-17,closed,4,ZG-985979-76-83-14-EY
+195,Reckless driving,2018-04-23,closed,4,ZB-346669-69-87-41-OI
+196,Illegal parking,2015-10-17,registered,4,KO-673111-98-01-97-PM
+197,Speeding,2015-09-07,registered,4,EX-955181-88-07-49-EW
+198,Failure to yield,2022-06-08,registered,4,IA-441525-18-89-11-FD
+199,Illegal parking,2017-05-17,closed,4,VY-881033-98-80-75-LZ
+200,Speeding,2020-10-28,registered,4,XZ-786275-62-74-13-WO
+201,Reckless driving,2016-01-12,registered,4,ZL-943893-66-34-24-UG
+202,Speeding,2017-06-24,closed,4,MV-644566-81-58-46-XE
+203,Driving under the influence,2016-01-18,closed,4,MT-927736-25-24-17-QD
+204,Failure to yield,2020-10-05,registered,4,EO-845959-60-80-20-WF
+205,Failure to yield,2014-12-26,registered,4,RE-213954-75-42-46-VQ
+206,Running a red light,2020-09-06,closed,4,KR-905244-27-14-39-SK
+207,Speeding,2015-02-06,registered,4,IW-302241-74-16-92-GC
+208,Illegal parking,2016-05-31,closed,4,KF-053732-46-21-40-WK
+209,Speeding,2022-04-18,registered,4,ND-978558-54-69-78-ZE
+210,Failure to yield,2019-09-20,closed,4,KH-309245-35-19-90-KP
+211,Reckless driving,2018-08-16,registered,4,JL-486229-96-57-59-XW
+212,Running a red light,2018-09-24,registered,4,RO-048220-79-65-04-AK
+213,Failure to yield,2017-09-01,registered,4,CL-250011-59-51-06-QB
+214,Speeding,2018-07-06,registered,4,OB-005027-03-76-40-CL
+215,Reckless driving,2014-11-05,registered,4,TH-876587-15-54-74-JL
+216,Failure to yield,2018-07-15,registered,4,IM-543195-48-33-61-HE
+217,Failure to yield,2016-04-23,registered,4,GD-991701-56-70-65-ZZ
+218,Illegal parking,2015-10-05,registered,4,CE-309123-75-22-04-NY
+219,Illegal parking,2022-01-16,registered,4,GI-295936-90-17-60-IE
+220,Failure to yield,2019-09-24,registered,4,QB-168402-41-32-67-LV
+221,Failure to yield,2020-10-25,registered,4,XN-992976-61-69-96-TL
+222,Running a red light,2016-06-25,closed,4,CR-126707-56-51-94-TI
+223,Speeding,2016-09-14,closed,4,JU-334160-05-72-80-RR
+224,Failure to yield,2021-06-13,closed,4,WK-347821-82-68-15-YL
+225,Driving under the influence,2017-12-30,registered,4,AB-949139-90-27-13-UC
+226,Illegal parking,2021-05-08,closed,4,LF-857377-31-75-13-HK
+227,Reckless driving,2015-01-08,registered,4,WM-101784-92-24-03-GT
+228,Failure to yield,2022-06-19,closed,4,SQ-890293-12-32-01-XY
+229,Driving under the influence,2018-10-13,registered,4,MI-353155-76-63-83-BF
+230,Reckless driving,2022-10-28,closed,4,TG-278219-80-04-15-ZE
+231,Reckless driving,2015-05-17,closed,4,WE-322397-18-62-95-TV
+232,Driving under the influence,2019-09-12,registered,4,IB-256728-35-75-66-IG
+233,Failure to yield,2022-11-09,registered,4,FS-103294-32-37-54-WL
+234,Reckless driving,2021-08-12,registered,4,DB-153804-36-45-68-AN
+235,Illegal parking,2022-03-29,closed,4,UC-335149-10-95-73-TY
+236,Speeding,2017-06-17,registered,4,DQ-394409-75-35-14-WA
+237,Running a red light,2020-03-27,closed,4,IE-688404-16-72-22-HJ
+238,Reckless driving,2016-02-05,closed,4,GJ-866427-99-28-34-HE
+239,Failure to yield,2016-07-25,registered,4,XF-264167-98-31-13-DN
+240,Illegal parking,2019-07-20,closed,4,IR-509428-00-15-20-DQ
+241,Reckless driving,2022-10-25,registered,4,ID-512427-44-24-49-FX
+242,Illegal parking,2015-05-10,registered,4,BM-032206-63-77-13-NN
+243,Running a red light,2020-01-18,registered,4,HU-781464-45-71-18-CZ
+244,Driving under the influence,2019-03-27,registered,4,GF-238553-31-83-74-QJ
+245,Illegal parking,2017-10-22,registered,4,NI-400061-43-36-72-AY
+246,Speeding,2019-11-17,registered,4,KO-392486-49-89-05-RP
+247,Running a red light,2016-07-08,registered,4,GG-350637-12-40-84-XC
+248,Speeding,2022-12-03,registered,4,NQ-606071-38-30-98-OM
+249,Running a red light,2021-01-17,closed,4,RY-498650-98-94-63-ES
+250,Driving under the influence,2017-09-30,registered,4,VD-999167-06-74-79-AN
+251,Running a red light,2020-04-21,registered,4,FV-944640-52-78-10-YJ
+252,Illegal parking,2021-05-02,registered,4,BI-727285-18-60-72-QT
+253,Failure to yield,2015-06-08,registered,4,XF-296523-81-21-70-MN
+254,Failure to yield,2017-07-04,registered,4,HZ-783950-57-08-44-JK
+255,Reckless driving,2019-02-24,registered,4,JG-842951-51-11-54-JQ
+256,Driving under the influence,2018-05-01,registered,4,PA-507231-96-69-76-VO
+257,Failure to yield,2015-02-06,registered,4,KE-827939-62-16-41-BK
+258,Driving under the influence,2020-06-05,closed,4,NZ-820227-43-77-86-UR
+259,Speeding,2015-09-27,registered,4,WJ-635641-40-55-09-FS
+260,Speeding,2018-11-19,registered,4,WD-215814-11-17-78-BH
+261,Illegal parking,2018-10-15,registered,4,MO-194665-12-11-17-XQ
+262,Running a red light,2014-09-29,registered,4,OI-042157-96-63-43-SU
+263,Running a red light,2019-03-07,registered,4,ME-747612-19-94-15-JA
+264,Reckless driving,2021-02-18,closed,4,SK-266733-24-62-79-UM
+265,Illegal parking,2020-08-04,registered,4,QX-182939-70-64-97-MF
+266,Illegal parking,2016-10-14,registered,4,BM-378865-86-67-94-DL
+267,Speeding,2020-05-30,closed,4,OK-327791-82-84-91-RM
+268,Driving under the influence,2016-06-02,closed,4,NE-097013-62-89-09-RO
+269,Running a red light,2015-08-07,registered,4,DH-217380-40-76-07-LU
+270,Illegal parking,2016-12-16,registered,4,AX-958552-00-65-87-JQ
+271,Running a red light,2016-03-19,registered,4,WI-580644-74-52-69-OG
+272,Failure to yield,2019-09-29,registered,4,MO-525395-33-16-50-JX
+273,Reckless driving,2020-08-03,closed,4,OF-599300-96-41-40-JO
+274,Speeding,2015-09-18,registered,4,YK-777204-59-58-41-KO
+275,Reckless driving,2018-03-06,registered,4,SF-109451-97-43-35-TI
+276,Running a red light,2015-11-22,registered,4,GB-560948-44-87-48-UQ
+277,Driving under the influence,2021-02-08,registered,4,AW-251767-65-93-60-NR
+278,Running a red light,2015-12-24,registered,4,BQ-047266-30-58-53-BQ
+279,Running a red light,2015-04-04,closed,4,NM-186085-89-59-05-LP
+280,Running a red light,2016-12-12,closed,4,OC-082259-01-57-09-CE
+281,Failure to yield,2022-01-20,closed,4,AO-083715-27-21-59-JM
+282,Running a red light,2021-05-30,registered,4,ID-040934-00-94-96-UW
+283,Illegal parking,2023-02-10,registered,4,PO-483474-92-93-85-WB
+284,Reckless driving,2017-07-17,registered,4,TZ-350725-10-39-44-AA
+285,Reckless driving,2020-06-07,closed,4,EB-200913-96-32-01-KM
+286,Reckless driving,2019-12-05,registered,4,HI-240686-69-64-07-EZ
+287,Speeding,2023-04-21,closed,4,XO-485952-54-15-25-MK
+288,Illegal parking,2018-07-27,closed,4,CO-583168-24-45-18-DB
+289,Reckless driving,2015-01-23,registered,4,EK-855328-98-93-33-TS
+290,Failure to yield,2023-10-26,registered,4,EQ-219457-01-32-63-PB
+291,Running a red light,2018-11-13,closed,4,UJ-730026-00-86-67-SN
+292,Failure to yield,2019-02-21,registered,4,XI-162251-33-80-42-LO
+293,Driving under the influence,2020-01-05,registered,4,YW-634083-85-09-41-EJ
+294,Speeding,2022-11-05,registered,4,PE-188046-54-77-10-XZ
+295,Reckless driving,2021-01-01,registered,4,EA-433702-52-21-07-CZ
+296,Speeding,2017-12-05,registered,4,TB-454992-13-21-31-YE
+297,Failure to yield,2022-04-19,registered,4,VS-722925-54-53-56-XJ
+298,Illegal parking,2018-11-27,registered,4,BD-605580-50-53-05-UZ
+299,Failure to yield,2020-05-23,registered,4,OO-895177-91-40-15-ON
+300,Illegal parking,2023-04-01,closed,4,ZW-659366-23-99-14-KK
+301,Failure to yield,2021-08-11,registered,4,OJ-474961-33-38-05-WY
+302,Running a red light,2022-05-09,closed,4,SQ-367859-71-84-19-TA
+303,Reckless driving,2016-07-24,registered,4,MK-189199-94-71-38-BL
+304,Running a red light,2020-12-13,registered,4,PD-527767-27-00-68-IV
+305,Speeding,2019-12-01,registered,4,GQ-610904-64-58-24-IW
+306,Illegal parking,2017-03-14,registered,4,ZS-628934-23-09-85-GK
+307,Illegal parking,2016-01-03,closed,4,MQ-060948-28-82-86-MZ
+308,Speeding,2016-02-12,registered,4,HR-035470-69-83-76-RY
+309,Failure to yield,2014-12-30,closed,4,UK-037238-45-78-17-NL
+310,Illegal parking,2015-09-19,registered,4,WG-995364-54-11-78-KS
+311,Failure to yield,2017-05-02,registered,4,JO-505245-07-56-49-AQ
+312,Reckless driving,2022-10-23,registered,4,OR-220068-77-67-46-AX
+313,Failure to yield,2016-09-18,registered,4,HI-725182-10-81-01-IA
+314,Reckless driving,2022-01-07,registered,4,TM-010880-44-66-55-VU
+315,Speeding,2017-03-23,registered,4,OB-361761-32-57-59-RL
+316,Speeding,2018-12-19,closed,4,PT-586232-41-42-79-IY
+317,Speeding,2023-07-11,registered,4,EN-063560-86-54-33-YA
+318,Reckless driving,2016-05-16,registered,4,JG-305223-52-13-76-FS
+319,Speeding,2017-02-06,registered,4,UV-396145-22-90-78-SO
+320,Running a red light,2017-11-25,registered,4,SV-045203-92-97-97-ZO
+321,Speeding,2022-08-16,registered,4,ST-495595-95-44-30-OX
+322,Reckless driving,2019-11-10,closed,4,RB-326988-11-71-40-DU
+323,Driving under the influence,2021-06-06,registered,4,LI-776643-78-58-31-YZ
+324,Reckless driving,2014-06-27,registered,4,MN-258943-29-49-54-FW
+325,Illegal parking,2015-09-19,closed,4,YX-168297-33-76-21-XS
+326,Illegal parking,2021-03-07,registered,4,GW-106980-44-64-20-AD
+327,Speeding,2023-05-24,registered,4,SD-563986-32-49-27-YG
+328,Illegal parking,2022-10-26,registered,4,TJ-697361-53-80-59-IH
+329,Driving under the influence,2014-08-16,closed,4,VR-648354-32-89-61-XN
+330,Reckless driving,2014-12-23,registered,4,LK-642736-33-41-61-AL
+331,Speeding,2015-04-09,registered,4,UK-722541-14-71-63-LY
+332,Reckless driving,2023-06-08,registered,4,RA-085323-95-36-53-PG
+333,Speeding,2020-09-28,registered,4,GG-574748-19-82-18-DH
+334,Reckless driving,2018-08-01,registered,4,ZC-626063-75-22-93-IF
+335,Driving under the influence,2023-07-27,registered,4,SM-666648-73-89-79-PC
+336,Speeding,2018-03-04,closed,4,ZG-643576-68-99-90-WP
+337,Reckless driving,2017-12-03,registered,4,PQ-151522-75-48-55-MV
+338,Illegal parking,2023-12-06,registered,4,FT-730604-41-68-33-AW
+339,Running a red light,2019-08-13,registered,4,LI-638958-16-90-69-LQ
+340,Reckless driving,2022-06-25,registered,4,HY-188158-42-51-18-BP
+341,Driving under the influence,2014-08-11,closed,4,ZQ-456820-84-46-70-IF
+342,Driving under the influence,2015-10-06,registered,4,VH-376689-76-16-95-DY
+343,Illegal parking,2018-06-03,registered,4,NK-656088-08-29-12-SR
+344,Driving under the influence,2020-10-16,closed,4,PG-743411-40-65-40-DA
+345,Illegal parking,2018-06-24,registered,4,GX-098880-85-85-20-XG
+346,Running a red light,2015-04-24,registered,4,VT-494773-70-61-98-EP
+347,Running a red light,2015-01-15,registered,4,KD-655285-86-14-14-RR
+348,Driving under the influence,2020-03-08,registered,4,GG-229631-94-45-44-PK
+349,Reckless driving,2015-08-10,registered,4,ES-836106-08-37-97-VM
+350,Driving under the influence,2015-05-06,registered,4,FC-984461-06-41-40-XW
+351,Failure to yield,2014-08-28,registered,4,VX-530240-02-73-15-ZG
+352,Driving under the influence,2016-10-14,registered,4,HZ-148011-32-22-92-FT
+353,Speeding,2014-10-29,closed,4,OQ-730327-38-97-67-NC
+354,Driving under the influence,2016-02-19,registered,4,RR-524720-72-45-23-GS
+355,Reckless driving,2021-02-27,closed,4,NS-689286-79-17-36-CU
+356,Illegal parking,2014-10-10,closed,4,UP-644268-26-19-32-LV
+357,Running a red light,2014-09-10,registered,4,QV-642575-39-95-93-DS
+358,Illegal parking,2018-06-02,registered,4,PQ-581481-14-04-71-ZX
+359,Failure to yield,2021-01-21,registered,4,FG-666118-89-71-77-DN
+360,Failure to yield,2016-04-22,closed,4,UW-232666-23-60-84-ST
+361,Running a red light,2021-05-21,closed,4,QT-326799-66-88-36-KT
+362,Illegal parking,2015-02-03,closed,4,UM-904072-89-54-31-EY
+363,Failure to yield,2017-08-25,closed,4,DC-817743-22-68-95-BE
+364,Running a red light,2016-04-10,closed,4,EC-420554-44-68-27-NU
+365,Driving under the influence,2020-05-13,closed,4,AM-132383-67-47-46-LH
+366,Running a red light,2023-06-29,registered,4,BD-060362-57-19-54-RU
+367,Running a red light,2018-01-03,registered,4,JO-242221-18-93-90-KQ
+368,Illegal parking,2017-10-31,registered,4,NX-532077-33-14-18-PN
+369,Failure to yield,2015-11-17,registered,4,TH-115126-47-97-22-UX
+370,Reckless driving,2021-09-18,registered,4,UD-662489-93-00-80-AH
+371,Running a red light,2016-12-17,registered,4,VI-708253-95-44-62-AZ
+372,Illegal parking,2019-10-16,registered,4,TB-778019-75-65-46-YY
+373,Failure to yield,2023-09-13,registered,4,DG-455215-03-73-91-CL
+374,Speeding,2017-04-09,closed,4,JY-385948-07-09-48-AN
+375,Speeding,2015-10-11,registered,4,FA-598564-42-59-42-FH
+376,Running a red light,2014-12-13,registered,4,MG-468131-37-89-81-XT
+377,Reckless driving,2020-10-12,registered,4,OF-210414-34-47-95-GT
+378,Reckless driving,2021-11-14,closed,4,YJ-678446-43-14-91-EB
+379,Running a red light,2023-01-29,closed,4,OL-132877-95-35-38-CQ
+380,Illegal parking,2015-04-24,closed,4,GE-152257-25-34-32-WX
+381,Reckless driving,2019-11-04,closed,4,YV-096244-84-22-79-AP
+382,Running a red light,2017-02-20,registered,4,TV-180286-64-84-48-BP
+383,Driving under the influence,2019-07-30,registered,4,PY-700921-95-79-64-AR
+384,Failure to yield,2022-07-23,registered,4,VI-062869-85-13-07-MZ
+385,Running a red light,2021-12-21,closed,4,SS-716452-96-59-35-JG
+386,Speeding,2022-06-21,registered,4,GV-902579-96-47-83-XZ
+387,Driving under the influence,2021-03-10,registered,4,ZN-941543-28-72-22-ZL
+388,Driving under the influence,2022-08-11,closed,4,KP-631403-14-28-31-JS
+389,Failure to yield,2019-08-12,registered,4,SE-357371-75-75-32-WV
+390,Driving under the influence,2023-06-19,registered,4,XL-215809-80-17-80-FB
+391,Driving under the influence,2018-06-16,closed,4,LG-700307-38-99-99-DA
+392,Reckless driving,2015-06-11,registered,4,AC-311225-77-78-41-PO
+393,Running a red light,2015-05-31,registered,4,JG-012437-87-44-92-JH
+394,Failure to yield,2018-01-21,registered,4,OS-711498-29-34-62-MU
+395,Speeding,2023-05-26,closed,4,HR-762382-01-95-67-QK
+396,Reckless driving,2018-05-10,closed,4,HP-710299-20-73-33-JO
+397,Driving under the influence,2020-10-08,registered,4,SR-727818-78-81-85-OR
+398,Failure to yield,2017-04-03,closed,4,SK-485589-70-07-20-SZ
+399,Reckless driving,2018-12-04,closed,4,ZL-684206-28-96-37-ZU
+400,Running a red light,2023-10-20,closed,4,VF-620690-49-14-90-TF
+401,Driving under the influence,2018-02-16,registered,4,HJ-697271-14-74-18-JZ
+402,Driving under the influence,2022-10-26,registered,4,OW-294902-29-00-23-QU
+403,Illegal parking,2023-07-24,closed,4,SC-749866-26-17-83-IE
+404,Speeding,2017-10-08,registered,4,CM-377712-88-72-25-RL
+405,Failure to yield,2020-12-20,closed,4,OD-667874-68-39-48-DF
+406,Running a red light,2022-12-20,registered,4,WP-478157-41-38-22-CA
+407,Failure to yield,2016-01-17,closed,4,RP-235168-80-96-18-IO
+408,Driving under the influence,2022-12-27,registered,4,QP-920924-98-02-01-MU
+409,Reckless driving,2015-03-26,registered,4,PV-908039-44-53-85-PL
+410,Speeding,2022-08-14,closed,4,YP-664831-05-92-38-AG
+411,Speeding,2019-03-23,registered,4,MC-744458-47-31-83-AU
+412,Failure to yield,2016-02-08,registered,4,GT-036002-98-43-66-XW
+413,Reckless driving,2023-08-09,registered,4,MV-521627-66-85-23-YV
+414,Reckless driving,2020-03-01,registered,4,RZ-600485-73-33-56-PR
+415,Reckless driving,2018-12-03,closed,4,KT-777439-79-89-27-ZX
+416,Running a red light,2022-10-07,closed,4,RW-003970-24-83-57-IE
+417,Running a red light,2021-03-12,registered,4,QC-459236-73-26-70-ZW
+418,Driving under the influence,2019-07-28,registered,4,NJ-623841-35-99-23-ZB
+419,Running a red light,2023-01-21,registered,4,CV-111148-15-35-67-PR
+420,Illegal parking,2015-10-21,registered,4,NX-553808-92-28-15-KW
+421,Driving under the influence,2022-10-01,registered,4,JB-075284-91-90-65-MM
+422,Failure to yield,2018-03-06,registered,4,DS-125703-16-48-95-EN
+423,Driving under the influence,2017-07-07,registered,4,AT-917325-52-49-70-KQ
+424,Running a red light,2018-10-04,registered,4,LU-489137-10-73-95-CC
+425,Illegal parking,2016-06-07,registered,4,RE-188506-14-00-67-NS
+426,Failure to yield,2014-08-19,registered,4,KA-336949-43-59-46-TL
+427,Speeding,2020-09-23,closed,4,YR-916426-84-29-70-CJ
+428,Driving under the influence,2017-07-20,registered,4,US-816240-73-09-90-MR
+429,Running a red light,2020-08-15,registered,4,VY-901874-69-36-82-TE
+430,Speeding,2019-05-17,registered,4,IQ-305544-06-46-52-WF
+431,Failure to yield,2022-03-15,registered,4,CV-670391-03-04-63-OZ
+432,Driving under the influence,2023-02-15,registered,4,HZ-063640-77-17-43-PI
+433,Reckless driving,2015-02-09,registered,4,QT-439878-57-43-12-NB
+434,Speeding,2022-03-11,registered,4,JH-824457-89-51-31-SH
+435,Running a red light,2016-10-05,closed,4,MB-046539-58-39-31-ZT
+436,Illegal parking,2020-06-09,closed,4,NL-108420-47-83-50-GD
+437,Speeding,2021-08-24,registered,4,NF-900437-09-72-63-JJ
+438,Failure to yield,2022-12-31,registered,4,HQ-499749-65-65-47-VB
+439,Reckless driving,2022-08-08,registered,4,UL-318652-87-96-06-WN
+440,Driving under the influence,2016-12-08,closed,4,SG-369546-95-77-30-WJ
+441,Failure to yield,2019-02-06,registered,4,LC-785883-85-41-48-IS
+442,Failure to yield,2019-09-14,registered,4,LC-775775-01-82-26-MS
+443,Driving under the influence,2022-01-30,registered,4,HD-128370-40-23-52-FW
+444,Failure to yield,2016-03-21,registered,4,SD-492017-47-53-90-WL
+445,Illegal parking,2020-11-30,registered,4,TE-483176-22-90-94-LJ
+446,Running a red light,2016-03-26,closed,4,AO-741260-93-93-91-PB
+447,Illegal parking,2021-07-05,closed,4,IF-108179-72-07-27-EC
+448,Reckless driving,2016-10-15,registered,4,GM-563327-20-07-08-SG
+449,Reckless driving,2017-11-13,closed,4,FR-697997-93-32-42-XT
+450,Illegal parking,2017-07-15,registered,4,TT-409414-11-76-45-YH
+451,Running a red light,2018-12-24,registered,4,JL-836815-64-71-87-XB
+452,Illegal parking,2016-09-08,registered,4,QH-846049-71-79-93-VD
+453,Illegal parking,2015-03-16,registered,4,BX-227421-66-64-61-AK
+454,Driving under the influence,2016-05-17,registered,4,MI-240357-97-77-91-TV
+455,Driving under the influence,2020-12-18,closed,4,RN-152737-40-34-50-CP
+456,Failure to yield,2022-10-19,closed,4,YJ-519038-44-37-42-HT
+457,Failure to yield,2018-10-07,registered,4,ZO-020758-63-70-78-DD
+458,Reckless driving,2016-09-29,closed,4,KM-863816-09-88-11-BQ
+459,Failure to yield,2019-03-03,registered,4,UQ-839595-77-29-76-CW
+460,Running a red light,2015-08-03,closed,4,VR-153071-60-28-30-UP
+461,Failure to yield,2023-02-28,registered,4,JY-632966-39-36-34-SL
+462,Speeding,2021-09-24,registered,4,TN-093964-13-70-77-KS
+463,Speeding,2022-10-23,closed,4,MH-028858-29-26-60-WV
+464,Failure to yield,2022-10-11,registered,4,EV-833248-99-56-04-RY
+465,Failure to yield,2018-01-23,closed,4,CE-531959-10-95-10-CV
+466,Illegal parking,2021-01-13,closed,4,RK-443582-82-93-49-VQ
+467,Illegal parking,2018-06-13,registered,4,GH-415038-26-13-56-LP
+468,Failure to yield,2021-02-22,closed,4,XJ-788655-27-72-21-GO
+469,Driving under the influence,2019-03-11,registered,4,ST-402992-59-76-99-ZR
+470,Illegal parking,2018-11-19,registered,4,OU-097982-52-82-20-HS
+471,Illegal parking,2019-04-26,registered,4,QH-102892-39-63-30-RI
+472,Illegal parking,2021-01-12,registered,4,TF-259101-25-94-64-KG
+473,Speeding,2015-06-13,registered,4,ZO-367844-51-17-13-UY
+474,Failure to yield,2021-02-26,registered,4,LE-803210-64-94-87-OH
+475,Illegal parking,2017-10-26,closed,4,QA-133666-44-80-49-XT
+476,Reckless driving,2021-11-14,closed,4,ZJ-476846-64-95-03-FH
+477,Illegal parking,2020-06-22,closed,4,AO-190661-23-43-96-IV
+478,Running a red light,2017-07-01,registered,4,QO-563329-57-51-61-IH
+479,Running a red light,2020-01-17,registered,4,TW-315266-44-84-49-CS
+480,Running a red light,2020-08-08,closed,4,KE-654191-69-87-37-PM
+481,Illegal parking,2016-03-05,registered,4,VG-241372-47-67-25-UM
+482,Speeding,2020-08-28,closed,4,KF-713075-48-06-87-SS
+483,Speeding,2015-12-07,registered,4,VJ-577946-10-49-13-OG
+484,Failure to yield,2021-06-22,closed,4,ZT-265470-51-77-01-MT
+485,Speeding,2014-08-24,closed,4,UG-221516-04-87-79-ES
+486,Failure to yield,2016-02-28,closed,4,IX-407521-65-62-15-VG
+487,Running a red light,2015-05-02,registered,4,ZF-374326-35-90-15-NX
+488,Speeding,2016-11-08,registered,4,PP-527589-37-75-25-JQ
+489,Speeding,2018-05-15,registered,4,EM-197001-04-80-16-ET
+490,Failure to yield,2021-10-04,registered,4,EI-417829-01-69-57-OT
+491,Driving under the influence,2022-11-14,closed,4,OY-146321-60-76-48-LN
+492,Speeding,2015-05-31,closed,4,FQ-314362-81-59-77-GW
+493,Failure to yield,2018-01-23,registered,4,FX-941709-94-03-11-QN
+494,Driving under the influence,2018-12-20,registered,4,SJ-081520-08-67-88-QR
+495,Driving under the influence,2021-01-08,registered,4,MT-135793-50-65-13-CD
+496,Driving under the influence,2015-02-17,closed,4,HY-016037-82-87-35-RJ
+497,Speeding,2019-11-16,registered,4,PL-812072-07-86-72-GA
+498,Reckless driving,2020-01-22,registered,4,JR-418824-77-28-77-TP
+499,Speeding,2014-11-19,registered,4,HM-090178-88-37-14-DR
+500,Running a red light,2014-09-08,registered,4,YW-759363-47-67-12-JP
+501,Failure to yield,2016-06-23,registered,4,IR-486793-85-02-16-YQ
+502,Driving under the influence,2014-06-10,registered,4,ZW-080265-96-88-88-VU
+503,Failure to yield,2020-09-07,closed,4,BC-348385-44-25-28-HC
+504,Illegal parking,2018-11-26,closed,4,CC-990352-55-16-98-SY
+505,Illegal parking,2015-09-26,registered,4,TR-220982-68-95-25-PZ
+506,Speeding,2021-05-23,registered,4,UP-650481-93-25-65-XY
+507,Running a red light,2017-11-07,closed,4,FL-483857-94-32-85-QS
+508,Failure to yield,2023-10-26,registered,4,ZJ-940569-89-84-03-ME
+509,Speeding,2020-11-04,registered,4,XL-488646-88-94-06-PX
+510,Driving under the influence,2018-10-22,closed,4,NZ-536542-77-95-40-OW
+511,Running a red light,2018-02-15,closed,4,YW-085835-08-65-07-AS
+512,Failure to yield,2021-04-25,registered,4,WC-127616-23-92-14-YG
+513,Driving under the influence,2016-01-03,registered,4,GQ-392192-89-79-99-FY
+514,Illegal parking,2016-04-21,closed,4,QD-917873-68-48-15-BN
+515,Failure to yield,2023-01-31,closed,4,HX-068647-43-55-72-QX
+516,Driving under the influence,2019-11-04,registered,4,SL-797942-23-90-08-RU
+517,Failure to yield,2018-02-23,registered,4,TZ-733609-83-45-31-RY
+518,Failure to yield,2023-03-31,registered,4,YL-021525-92-31-10-MS
+519,Failure to yield,2021-06-20,closed,4,OS-188252-50-95-24-GV
+520,Running a red light,2019-09-05,closed,4,UV-465078-74-86-77-DL
+521,Driving under the influence,2019-04-03,closed,4,RT-748267-72-20-08-FK
+522,Speeding,2015-07-04,closed,4,PA-054066-29-62-56-QY
+523,Illegal parking,2014-10-05,closed,4,ZH-420538-41-42-79-BL
+524,Failure to yield,2023-06-17,registered,4,ZY-438424-70-32-74-AO
+525,Running a red light,2019-03-02,registered,4,CG-025111-12-49-01-IG
+526,Reckless driving,2022-01-28,registered,4,ZI-830608-29-84-27-JN
+527,Illegal parking,2019-02-07,closed,4,HJ-187248-29-33-31-ZH
+528,Speeding,2015-03-24,closed,4,GA-011942-66-21-84-MV
+529,Running a red light,2022-10-05,registered,4,ZN-695745-29-28-22-GS
+530,Speeding,2015-01-09,registered,4,PL-862181-22-77-87-RC
+531,Reckless driving,2021-03-16,closed,4,IV-655062-11-62-95-XP
+532,Failure to yield,2020-11-04,registered,4,OB-417892-99-87-68-LD
+533,Speeding,2021-03-07,closed,4,SF-468790-66-30-97-ZW
+534,Reckless driving,2019-05-30,registered,4,BB-062572-13-40-68-PX
+535,Reckless driving,2019-05-01,registered,4,IG-409204-25-63-85-JK
+536,Failure to yield,2022-03-22,closed,4,JC-280965-83-09-31-RV
+537,Failure to yield,2021-11-03,closed,4,GB-324235-97-96-53-RZ
+538,Illegal parking,2019-09-25,registered,4,FN-545221-02-64-66-BZ
+539,Driving under the influence,2020-10-19,closed,4,GA-215000-79-08-85-QD
+540,Failure to yield,2022-09-16,closed,4,YT-132236-08-96-48-TE
+541,Failure to yield,2017-11-25,closed,4,HP-485687-80-69-04-XP
+542,Speeding,2015-03-20,closed,4,ZI-755652-65-85-66-BQ
+543,Running a red light,2023-02-15,closed,4,PR-953690-87-03-33-KF
+544,Illegal parking,2021-05-31,registered,4,AZ-613823-34-10-69-AS
+545,Speeding,2022-04-19,closed,4,TN-363686-17-68-78-NN
+546,Failure to yield,2017-12-21,registered,4,VI-473420-02-47-32-RZ
+547,Failure to yield,2016-12-22,registered,4,NI-685266-15-85-78-EG
+548,Driving under the influence,2020-11-24,registered,4,QQ-519137-64-45-00-XW
+549,Illegal parking,2017-10-30,registered,4,XF-496990-54-45-81-KB
+550,Speeding,2019-02-17,closed,4,DN-647745-39-37-76-RK
+551,Reckless driving,2021-05-20,closed,4,SB-742670-37-30-61-KQ
+552,Failure to yield,2018-04-25,registered,4,HU-341514-69-85-66-MO
+553,Speeding,2016-02-02,registered,4,DH-281699-15-41-89-PJ
+554,Driving under the influence,2019-12-12,registered,4,KM-659975-60-96-62-CQ
+555,Speeding,2020-11-18,registered,4,DT-351100-76-67-83-JT
+556,Running a red light,2023-03-27,registered,4,GQ-582103-68-32-94-IX
+557,Driving under the influence,2014-11-04,closed,4,FB-759918-38-69-52-UY
+558,Reckless driving,2014-06-10,registered,4,YQ-813342-00-30-20-QF
+559,Running a red light,2019-09-11,registered,4,UG-140192-98-79-07-QP
+560,Illegal parking,2016-12-19,registered,4,KZ-420844-27-69-55-FD
+561,Speeding,2021-06-17,registered,4,FR-055112-29-46-31-VT
+562,Driving under the influence,2014-12-18,registered,4,PV-956397-08-55-06-BM
+563,Reckless driving,2015-04-20,registered,4,CR-596512-14-99-43-BQ
+564,Failure to yield,2014-11-16,registered,4,VM-154842-26-07-87-VN
+565,Reckless driving,2018-10-07,registered,4,IG-392999-39-88-44-YW
+566,Running a red light,2016-03-13,registered,4,BC-758956-96-29-65-HF
+567,Illegal parking,2023-02-19,registered,4,YP-142179-00-49-57-EV
+568,Reckless driving,2014-09-10,closed,4,AN-484071-95-99-31-OK
+569,Running a red light,2023-02-09,closed,4,NT-576266-38-67-00-PE
+570,Failure to yield,2015-09-16,closed,4,EZ-685400-77-63-03-TT
+571,Reckless driving,2018-06-20,registered,4,SI-880835-45-08-88-WZ
+572,Speeding,2019-02-04,registered,4,XV-196102-85-74-32-KO
+573,Speeding,2014-12-15,closed,4,HX-259844-51-54-72-LY
+574,Driving under the influence,2022-08-18,closed,4,MY-313556-86-07-47-WH
+575,Speeding,2015-06-03,registered,4,XP-229360-72-31-93-VB
+576,Running a red light,2018-07-22,closed,4,VU-557256-91-60-54-GP
+577,Running a red light,2019-10-05,registered,4,LX-289919-44-54-26-UL
+578,Reckless driving,2019-01-03,registered,4,VB-534221-91-42-01-HJ
+579,Running a red light,2017-02-25,registered,4,SR-465975-36-22-74-DV
+580,Reckless driving,2014-12-03,registered,4,FP-204022-38-86-15-AB
+581,Illegal parking,2017-03-20,registered,4,FZ-686670-45-12-15-BR
+582,Reckless driving,2019-06-05,registered,4,WC-801446-98-65-18-YF
+583,Failure to yield,2022-06-20,closed,4,CZ-295945-83-35-06-SR
+584,Speeding,2019-07-11,registered,4,OL-832559-77-56-28-VM
+585,Failure to yield,2019-12-14,registered,4,LJ-241058-39-32-92-DB
+586,Failure to yield,2021-01-13,registered,4,OJ-336542-90-55-13-LN
+587,Running a red light,2019-11-14,registered,4,XD-361983-09-82-85-ZT
+588,Failure to yield,2021-09-23,registered,4,WL-297474-20-80-48-HK
+589,Running a red light,2021-12-17,registered,4,CM-387585-44-24-84-YT
+590,Running a red light,2019-12-29,closed,4,YK-449780-23-57-29-BS
+591,Speeding,2021-10-27,registered,4,NC-322130-99-90-61-AP
+592,Speeding,2016-12-20,registered,4,TG-370656-44-36-17-XR
+593,Reckless driving,2017-05-04,registered,4,ZZ-712110-47-66-70-NK
+594,Reckless driving,2019-02-12,registered,4,AS-601353-41-86-39-IG
+595,Speeding,2020-08-14,registered,4,GP-329460-23-38-09-WP
+596,Failure to yield,2023-01-03,registered,4,ZF-628654-91-05-10-WE
+597,Driving under the influence,2018-05-07,registered,4,DR-457174-40-63-55-MW
+598,Illegal parking,2021-05-08,registered,4,EC-849377-85-41-58-SE
+599,Running a red light,2016-07-19,registered,4,OT-404266-73-86-84-IO
+600,Illegal parking,2019-07-04,registered,4,XM-458919-07-14-75-OM
+601,Failure to yield,2014-12-08,registered,4,YV-096767-27-22-95-ZT
+602,Illegal parking,2023-06-30,closed,4,ER-367228-41-70-26-IV
+603,Reckless driving,2017-05-05,registered,4,BK-020107-47-63-21-XY
+604,Reckless driving,2014-10-18,registered,4,EZ-086722-88-95-04-OO
+605,Reckless driving,2016-02-13,registered,4,ZN-015465-12-64-09-AA
+606,Failure to yield,2015-01-10,registered,4,UX-175743-86-37-52-TD
+607,Illegal parking,2014-11-21,closed,4,RL-691383-94-96-27-JA
+608,Reckless driving,2019-09-27,registered,4,KX-504111-33-22-84-CX
+609,Speeding,2023-04-23,closed,4,JD-725244-17-50-20-LQ
+610,Failure to yield,2020-07-25,closed,4,MM-975106-38-41-26-HE
+611,Reckless driving,2014-07-13,closed,4,EL-054901-32-15-63-LR
+612,Speeding,2022-08-31,registered,4,PE-348974-46-51-56-AS
+613,Speeding,2022-07-13,registered,4,OP-328986-04-69-78-NN
+614,Driving under the influence,2020-03-28,closed,4,ZO-596860-04-71-17-EF
+615,Reckless driving,2019-05-07,registered,4,MH-799907-00-29-49-XM
+616,Reckless driving,2016-05-10,registered,4,OD-255239-24-17-91-MN
+617,Speeding,2014-11-24,registered,4,NT-330339-83-55-35-KB
+618,Illegal parking,2014-11-15,registered,4,CN-763718-07-47-07-KE
+619,Speeding,2022-07-06,registered,4,MG-695354-49-13-88-EX
+620,Failure to yield,2023-10-18,closed,4,JQ-529474-38-65-87-ON
+621,Reckless driving,2018-06-16,closed,4,ZA-050826-87-81-66-PD
+622,Illegal parking,2017-05-29,registered,4,UJ-856290-21-95-71-GP
+623,Illegal parking,2022-01-08,registered,4,RZ-505024-55-72-15-TQ
+624,Driving under the influence,2017-06-03,registered,4,FY-991980-72-99-90-MY
+625,Speeding,2016-02-26,closed,4,DZ-524459-33-94-38-WD
+626,Illegal parking,2017-01-05,registered,4,DL-850971-99-92-77-BM
+627,Speeding,2019-08-02,registered,4,EV-960491-31-05-87-HJ
+628,Illegal parking,2023-04-22,closed,4,RR-905475-62-25-45-OC
+629,Speeding,2014-06-25,closed,4,FT-338036-01-03-75-NS
+630,Speeding,2021-08-27,registered,4,FQ-345500-54-91-36-GP
+631,Illegal parking,2015-02-04,closed,4,MC-849241-15-59-41-XN
+632,Speeding,2018-10-23,closed,4,HW-288042-14-18-86-WT
+633,Reckless driving,2022-11-30,closed,4,SK-107837-06-15-54-LI
+634,Illegal parking,2018-08-26,registered,4,XB-383586-70-11-19-IU
+635,Driving under the influence,2021-11-02,registered,4,GN-213306-67-38-56-VI
+636,Running a red light,2022-07-11,registered,4,AM-923768-18-04-05-KZ
+637,Speeding,2018-10-22,registered,4,EW-048741-60-74-51-SB
+638,Illegal parking,2017-12-24,registered,4,NF-884543-05-36-49-NV
+639,Driving under the influence,2015-12-09,registered,4,FQ-714364-42-92-33-RW
+640,Reckless driving,2021-09-08,registered,4,SC-563984-77-25-45-RJ
+641,Running a red light,2023-05-29,closed,4,YZ-569049-17-33-58-AV
+642,Speeding,2021-05-25,registered,4,MY-320334-79-07-57-GR
+643,Reckless driving,2020-02-16,registered,4,MV-075533-01-99-91-UQ
+644,Running a red light,2022-05-20,registered,4,XX-658026-03-39-86-ZG
+645,Driving under the influence,2016-04-19,registered,4,LJ-479560-29-96-93-BJ
+646,Speeding,2017-07-11,registered,4,BW-469244-11-36-06-DH
+647,Failure to yield,2018-04-06,registered,4,KH-235289-64-78-49-RA
+648,Speeding,2014-07-15,registered,4,XE-645864-58-88-52-UR
+649,Reckless driving,2022-03-08,registered,4,ZX-891278-41-03-93-ZN
+650,Running a red light,2014-11-08,registered,4,HH-476117-75-13-19-SG
+651,Speeding,2021-12-19,closed,4,IJ-939553-67-07-89-VC
+652,Driving under the influence,2023-10-09,registered,4,VJ-367836-16-37-70-OO
+653,Failure to yield,2018-04-18,closed,4,VP-667488-01-93-56-RX
+654,Speeding,2022-10-14,registered,4,SM-638705-80-42-74-OF
+655,Illegal parking,2022-07-22,registered,4,AD-150732-82-33-47-YU
+656,Failure to yield,2021-04-23,registered,4,ZX-087372-34-68-20-NQ
+657,Speeding,2023-10-05,registered,4,SX-175678-92-58-84-SN
+658,Running a red light,2023-04-16,registered,4,LO-957692-76-65-09-HN
+659,Illegal parking,2021-05-02,registered,4,HR-310476-74-51-17-QG
+660,Reckless driving,2015-04-23,registered,4,FK-391326-87-83-00-WI
+661,Failure to yield,2015-08-20,closed,4,IW-572996-20-82-27-ML
+662,Driving under the influence,2016-04-27,registered,4,FY-373784-72-39-01-BT
+663,Failure to yield,2020-11-03,closed,4,QA-374494-93-50-69-GM
+664,Running a red light,2016-12-06,registered,4,ZJ-371443-73-92-88-OL
+665,Speeding,2018-11-20,closed,4,WN-377869-51-11-93-JL
+666,Failure to yield,2014-09-11,closed,4,NF-359666-52-65-91-VE
+667,Running a red light,2018-02-08,closed,4,OU-875339-93-57-28-OM
+668,Illegal parking,2015-07-11,registered,4,AK-992302-38-97-62-HF
+669,Speeding,2018-04-11,registered,4,NH-298930-94-23-49-AC
+670,Failure to yield,2016-07-22,registered,4,SC-886025-51-55-72-BC
+671,Driving under the influence,2021-03-07,closed,4,IK-454255-45-93-88-UL
+672,Illegal parking,2018-12-01,registered,4,SS-382410-31-95-00-YR
+673,Illegal parking,2020-01-08,registered,4,RV-964716-32-52-68-BG
+674,Speeding,2020-02-20,closed,4,GE-763619-11-94-04-RF
+675,Failure to yield,2023-06-01,registered,4,RD-754742-02-98-65-SD
+676,Failure to yield,2017-12-26,registered,4,CF-423346-25-97-85-NS
+677,Failure to yield,2014-09-14,registered,4,BA-534350-10-02-82-NQ
+678,Failure to yield,2016-11-02,closed,4,KT-417107-02-50-78-ID
+679,Running a red light,2019-06-25,registered,4,GA-344237-53-25-90-DZ
+680,Failure to yield,2022-02-12,registered,4,KU-562659-89-27-22-MI
+681,Driving under the influence,2015-11-18,closed,4,LA-204128-18-03-41-HG
+682,Driving under the influence,2014-11-02,registered,4,RV-428015-71-41-81-QM
+683,Illegal parking,2017-12-15,registered,4,LU-114579-64-12-42-ZU
+684,Illegal parking,2021-03-10,closed,4,CS-823815-65-98-42-HW
+685,Failure to yield,2015-03-16,registered,4,PA-686263-75-62-45-KU
+686,Failure to yield,2023-05-19,closed,4,XU-608797-88-36-27-JF
+687,Driving under the influence,2019-06-29,closed,4,ZP-716353-28-13-73-ZU
+688,Illegal parking,2020-07-13,registered,4,TP-543161-32-17-12-GY
+689,Reckless driving,2022-03-21,registered,4,PC-203348-08-60-66-PS
+690,Driving under the influence,2021-08-23,registered,4,GB-693751-87-53-51-LI
+691,Illegal parking,2020-02-27,registered,4,SC-251011-42-61-49-VX
+692,Driving under the influence,2021-11-02,closed,4,LJ-090745-86-21-03-OS
+693,Reckless driving,2015-03-28,closed,4,ZV-058426-51-00-02-SX
+694,Illegal parking,2017-03-23,registered,4,CU-633231-31-62-09-NX
+695,Reckless driving,2017-04-28,registered,4,OM-664438-43-16-20-RX
+696,Speeding,2021-08-30,registered,4,JV-314623-52-79-12-KO
+697,Illegal parking,2022-09-26,closed,4,WS-806455-30-60-71-NC
+698,Speeding,2020-06-22,registered,4,KI-556438-48-16-85-RI
+699,Failure to yield,2022-09-19,registered,4,OH-381383-54-25-27-GF
+700,Reckless driving,2018-06-11,registered,4,BK-744673-93-54-00-PY
+701,Failure to yield,2016-03-30,registered,4,MC-858645-03-86-96-IN
+702,Speeding,2017-05-10,closed,4,TS-509666-13-75-04-PN
+703,Reckless driving,2022-09-19,closed,4,GB-182854-80-92-96-HN
+704,Failure to yield,2021-03-13,registered,4,HG-400250-59-92-61-CB
+705,Driving under the influence,2019-01-25,registered,4,CT-752540-38-33-79-VW
+706,Speeding,2016-09-24,registered,4,YV-575355-52-23-44-NY
+707,Failure to yield,2017-11-22,registered,4,RG-905420-89-12-30-QR
+708,Illegal parking,2016-03-15,closed,4,NY-626414-01-12-83-OE
+709,Failure to yield,2015-10-22,closed,4,EQ-573668-67-14-46-BO
+710,Driving under the influence,2016-10-02,registered,4,PY-714170-73-86-76-TS
+711,Running a red light,2019-05-06,registered,4,TY-731634-39-87-59-MT
+712,Running a red light,2017-02-03,closed,4,YO-350396-08-52-40-QI
+713,Illegal parking,2020-05-05,registered,4,OT-791735-36-16-62-FN
+714,Failure to yield,2014-08-29,registered,4,NT-358205-09-31-34-YR
+715,Failure to yield,2019-06-30,registered,4,MY-490141-42-71-50-MX
+716,Illegal parking,2017-01-07,closed,4,MJ-089261-44-26-62-AC
+717,Speeding,2019-07-06,registered,4,KT-276124-68-59-44-QX
+718,Reckless driving,2023-10-25,registered,4,XA-319343-81-70-39-MB
+719,Reckless driving,2021-09-08,closed,4,NX-175148-77-03-99-EZ
+720,Running a red light,2018-02-12,registered,4,HY-624095-27-16-58-SI
+721,Running a red light,2018-11-04,registered,4,AX-167254-24-12-79-LV
+722,Running a red light,2014-07-17,registered,4,AZ-441448-80-38-29-BR
+723,Running a red light,2019-01-08,closed,4,SX-495927-36-90-49-NY
+724,Reckless driving,2017-04-30,registered,4,IY-247771-10-29-37-FL
+725,Failure to yield,2019-12-28,registered,4,FO-415167-17-76-85-DJ
+726,Driving under the influence,2015-05-16,closed,4,EI-860051-03-58-31-JC
+727,Illegal parking,2014-10-27,registered,4,PE-282357-05-46-89-UF
+728,Illegal parking,2021-09-29,registered,4,TS-544155-79-53-67-LK
+729,Driving under the influence,2017-05-25,closed,4,EY-342430-16-26-76-VV
+730,Reckless driving,2023-04-22,registered,4,KH-262787-59-78-66-WR
+731,Speeding,2019-10-28,closed,4,GH-201390-64-01-25-NJ
+732,Reckless driving,2019-03-07,closed,4,TI-258479-34-43-94-NL
+733,Speeding,2022-02-28,closed,4,BR-755929-69-74-31-MG
+734,Reckless driving,2022-04-25,registered,4,YJ-145205-48-83-74-HR
+735,Running a red light,2016-02-09,registered,4,JO-673594-63-03-41-OO
+736,Running a red light,2021-09-01,closed,4,KH-702704-00-09-36-QQ
+737,Running a red light,2019-07-20,registered,4,MH-787985-55-89-02-RK
+738,Driving under the influence,2022-02-12,closed,4,EB-061739-20-18-96-DQ
+739,Illegal parking,2014-06-29,registered,4,YR-392916-46-37-80-BS
+740,Failure to yield,2017-06-19,closed,4,SK-113343-18-55-71-QR
+741,Running a red light,2019-08-22,registered,4,FM-953460-22-91-11-PT
+742,Running a red light,2019-06-14,registered,4,CB-316527-06-60-06-II
+743,Driving under the influence,2019-10-26,registered,4,YJ-800542-07-91-30-TM
+744,Running a red light,2019-06-22,registered,4,IC-741822-61-62-14-UB
+745,Driving under the influence,2018-04-04,registered,4,RE-831119-08-03-13-KA
+746,Running a red light,2021-09-02,registered,4,GP-273007-53-56-68-LA
+747,Failure to yield,2021-10-29,registered,4,AN-216169-78-09-37-EL
+748,Failure to yield,2018-01-11,closed,4,NG-523855-30-02-71-RC
+749,Running a red light,2016-04-09,registered,4,PP-100535-80-11-90-EH
+750,Driving under the influence,2018-03-05,registered,4,UT-494024-87-72-23-VI
+751,Driving under the influence,2021-10-29,closed,4,MI-142224-72-97-28-JC
+752,Illegal parking,2015-07-10,closed,4,JF-132687-31-55-47-JF
+753,Illegal parking,2019-01-04,registered,4,SI-999039-68-52-93-YA
+754,Speeding,2022-10-23,registered,4,CK-856115-19-75-29-LD
+755,Speeding,2014-09-30,registered,4,FK-223724-11-18-64-WO
+756,Driving under the influence,2017-03-21,registered,4,ZS-424899-02-31-97-VJ
+757,Reckless driving,2021-10-13,registered,4,TW-254282-66-90-03-ZJ
+758,Reckless driving,2022-01-22,closed,4,YN-204889-83-40-51-MD
+759,Speeding,2022-07-07,registered,4,UG-549855-82-76-63-MV
+760,Illegal parking,2019-10-06,registered,4,KD-277338-51-09-77-MC
+761,Illegal parking,2017-01-21,registered,4,BA-566454-27-21-90-JG
+762,Reckless driving,2014-11-17,closed,4,WG-957435-81-61-45-VF
+763,Failure to yield,2016-06-21,closed,4,WF-637646-58-88-69-AN
+764,Reckless driving,2019-06-27,registered,4,MF-198694-16-98-46-PX
+765,Failure to yield,2015-07-02,registered,4,PY-601105-29-91-69-UO
+766,Illegal parking,2020-02-09,closed,4,LG-232700-85-96-16-XV
+767,Illegal parking,2021-03-02,closed,4,FC-698925-45-62-36-YU
+768,Driving under the influence,2015-04-13,registered,4,IX-268647-88-49-97-QK
+769,Reckless driving,2016-02-10,registered,4,BZ-641932-79-82-22-JY
+770,Failure to yield,2017-12-05,registered,4,NR-019495-69-02-25-WB
+771,Speeding,2015-07-22,registered,4,GW-972642-79-68-80-VQ
+772,Running a red light,2019-03-09,registered,4,PW-194357-07-23-43-HW
+773,Running a red light,2022-05-23,registered,4,DN-533403-38-83-75-KQ
+774,Reckless driving,2018-04-14,registered,4,AZ-496708-38-94-05-BB
+775,Speeding,2018-01-02,closed,4,BC-895440-09-79-86-FR
+776,Speeding,2023-10-04,registered,4,ZG-848544-91-35-60-CZ
+777,Reckless driving,2022-11-30,closed,4,IR-842501-05-47-70-JL
+778,Running a red light,2020-07-13,registered,4,OH-873862-85-57-84-MK
+779,Speeding,2016-04-10,registered,4,AF-096822-28-51-93-DL
+780,Reckless driving,2021-02-21,closed,4,QI-411116-30-55-42-VK
+781,Failure to yield,2015-12-01,registered,4,MQ-930646-75-84-52-EX
+782,Reckless driving,2015-03-21,registered,4,XW-884231-31-79-03-ZR
+783,Running a red light,2023-07-12,closed,4,LV-032518-69-22-94-SF
+784,Reckless driving,2014-10-07,registered,4,XV-691966-92-96-70-NS
+785,Illegal parking,2015-01-13,registered,4,WK-334055-10-28-81-QP
+786,Speeding,2021-06-30,closed,4,WP-650594-87-02-89-ZW
+787,Speeding,2023-11-21,closed,4,GD-833737-67-71-08-RG
+788,Illegal parking,2019-11-02,registered,4,AR-323727-31-53-44-WN
+789,Illegal parking,2014-12-15,closed,4,LS-846717-96-38-79-DQ
+790,Speeding,2014-11-26,registered,4,AS-777607-13-16-50-IE
+791,Running a red light,2020-10-07,registered,4,MC-762301-20-75-01-ZY
+792,Failure to yield,2018-02-23,registered,4,RY-278041-57-66-36-JN
+793,Speeding,2019-09-20,registered,4,NZ-017956-01-57-22-WB
+794,Illegal parking,2015-03-12,registered,4,YS-719556-05-76-92-IV
+795,Failure to yield,2020-04-16,closed,4,LT-979930-91-48-23-VY
+796,Reckless driving,2016-12-10,closed,4,RM-612283-36-81-24-ZK
+797,Running a red light,2016-10-16,registered,4,JU-933204-20-78-93-RU
+798,Driving under the influence,2017-10-09,registered,4,MN-217984-88-63-56-RN
+799,Failure to yield,2018-11-25,closed,4,IW-840735-54-87-75-LQ
+800,Illegal parking,2015-09-05,registered,4,TT-109277-53-02-61-ZP
+801,Illegal parking,2021-01-19,closed,4,NA-711036-10-66-75-GT
+802,Speeding,2016-08-09,registered,4,MR-132834-07-42-69-GA
+803,Driving under the influence,2020-02-23,registered,4,GM-658588-14-52-54-XG
+804,Driving under the influence,2015-09-11,closed,4,FB-590550-85-55-25-HN
+805,Running a red light,2022-05-09,closed,4,XL-318940-75-39-77-YP
+806,Driving under the influence,2016-03-13,closed,4,OS-921920-79-10-67-NC
+807,Failure to yield,2014-09-15,registered,4,RI-073291-86-65-26-EK
+808,Illegal parking,2018-11-13,registered,4,EL-653698-92-94-59-KG
+809,Running a red light,2018-12-17,registered,4,PA-529635-80-08-60-LC
+810,Reckless driving,2020-05-05,registered,4,VB-393980-04-17-35-RQ
+811,Driving under the influence,2018-06-09,closed,4,UL-450000-78-17-73-NT
+812,Reckless driving,2015-06-26,registered,4,NM-959052-67-40-08-AI
+813,Running a red light,2018-09-10,registered,4,SV-271513-73-35-08-GJ
+814,Driving under the influence,2022-06-24,closed,4,RZ-241187-25-58-77-MR
+815,Running a red light,2018-10-20,closed,4,TZ-445048-65-69-69-VC
+816,Running a red light,2023-07-16,closed,4,RB-707692-97-55-65-ZX
+817,Reckless driving,2022-03-09,registered,4,ZH-251976-91-54-83-ES
+818,Speeding,2023-10-25,registered,4,PA-156676-10-02-82-FK
+819,Speeding,2023-02-06,registered,4,NF-977068-13-99-67-EA
+820,Speeding,2018-08-17,registered,4,UL-464024-30-68-20-TM
+821,Failure to yield,2014-10-09,closed,4,AG-613136-89-30-54-CW
+822,Driving under the influence,2015-10-08,registered,4,OF-657846-83-86-23-TL
+823,Reckless driving,2023-12-02,closed,4,TC-132625-61-08-93-KW
+824,Reckless driving,2021-09-27,registered,4,LO-016121-94-85-70-QP
+825,Illegal parking,2020-08-01,closed,4,KG-363478-71-63-16-MY
+826,Running a red light,2020-10-13,registered,4,UG-858446-49-65-28-VD
+827,Reckless driving,2015-12-24,registered,4,MJ-352274-36-18-95-MR
+828,Reckless driving,2014-08-15,registered,4,QA-683208-52-96-87-QJ
+829,Illegal parking,2020-12-01,registered,4,EN-492112-07-12-17-PN
+830,Illegal parking,2019-08-21,registered,4,TK-872878-42-99-44-QB
+831,Reckless driving,2017-03-27,registered,4,WJ-783563-52-75-54-HZ
+832,Illegal parking,2018-04-23,registered,4,EI-707662-31-83-98-SY
+833,Illegal parking,2019-06-17,registered,4,SJ-868644-19-25-08-AN
+834,Illegal parking,2020-10-29,registered,4,BB-361921-91-53-24-UP
+835,Illegal parking,2020-06-17,registered,4,NC-559317-13-63-39-HV
+836,Driving under the influence,2017-11-24,closed,4,EM-475493-23-86-00-BY
+837,Failure to yield,2021-04-10,registered,4,UB-525773-21-63-07-QJ
+838,Reckless driving,2014-11-24,registered,4,CE-397094-12-94-12-IP
+839,Driving under the influence,2019-09-09,closed,4,PX-019412-68-49-37-RR
+840,Speeding,2020-01-23,closed,4,DY-599618-79-19-12-WM
+841,Speeding,2018-09-16,registered,4,TA-949937-26-07-96-MG
+842,Speeding,2016-08-28,closed,4,WO-779940-44-08-70-LH
+843,Illegal parking,2023-11-08,registered,4,VG-999851-16-79-13-HL
+844,Illegal parking,2018-10-22,closed,4,EP-913648-82-32-94-WI
+845,Illegal parking,2020-02-13,registered,4,RE-890425-93-73-99-OE
+846,Illegal parking,2022-01-31,registered,4,ES-191559-21-18-84-WW
+847,Running a red light,2020-03-16,closed,4,BW-205380-02-90-51-XI
+848,Driving under the influence,2019-03-01,registered,4,BZ-062694-32-36-38-SX
+849,Reckless driving,2018-03-08,closed,4,ZO-894470-62-33-71-LP
+850,Driving under the influence,2017-08-06,registered,4,CS-469372-11-78-23-FG
+851,Running a red light,2018-12-22,closed,4,SA-881763-57-04-37-HM
+852,Failure to yield,2022-12-08,registered,4,GT-113222-82-29-18-IB
+853,Speeding,2020-05-15,registered,4,HH-246251-07-93-35-AI
+854,Running a red light,2019-04-12,registered,4,IO-529715-68-34-74-RI
+855,Running a red light,2019-09-17,closed,4,PA-551009-95-68-84-MI
+856,Speeding,2017-09-10,closed,4,QS-095702-52-35-00-XB
+857,Running a red light,2022-07-09,registered,4,HN-809094-90-42-58-NN
+858,Driving under the influence,2018-07-07,registered,4,QW-719772-61-65-82-PD
+859,Failure to yield,2019-11-22,registered,4,QH-595051-46-43-96-UI
+860,Driving under the influence,2023-05-23,closed,4,DO-598303-41-79-44-GL
+861,Reckless driving,2023-01-13,registered,4,CR-543286-00-21-56-EW
+862,Driving under the influence,2019-02-12,registered,4,WE-502646-55-77-34-HC
+863,Failure to yield,2021-01-09,closed,4,XH-056558-54-94-58-QG
+864,Speeding,2015-03-27,registered,4,NT-070433-36-08-57-PW
+865,Illegal parking,2023-09-08,closed,4,UH-742244-87-56-34-QS
+866,Reckless driving,2021-01-01,registered,4,UW-723372-33-52-42-WE
+867,Reckless driving,2023-02-13,registered,4,TC-436741-34-81-34-BW
+868,Speeding,2020-02-04,registered,4,ZP-018318-36-26-41-OR
+869,Driving under the influence,2022-03-30,registered,4,QQ-166845-30-91-65-SV
+870,Reckless driving,2014-09-07,registered,4,MX-963012-30-01-87-WM
+871,Running a red light,2017-06-10,registered,4,KR-770692-46-49-11-XN
+872,Speeding,2020-03-03,registered,4,BK-511866-25-08-99-PQ
+873,Speeding,2016-02-26,registered,4,ZU-015217-09-38-80-LJ
+874,Illegal parking,2015-09-22,closed,4,DH-095681-07-66-70-CM
+875,Running a red light,2016-08-30,registered,4,SE-581223-52-15-07-GV
+876,Illegal parking,2018-12-06,registered,4,XQ-404532-32-66-08-QF
+877,Running a red light,2018-07-06,closed,4,NH-796545-50-06-11-PX
+878,Failure to yield,2020-07-16,registered,4,JG-085632-97-23-47-TJ
+879,Running a red light,2014-09-14,closed,4,DE-280524-92-17-35-BF
+880,Illegal parking,2021-05-29,closed,4,CA-300893-91-74-92-SS
+881,Illegal parking,2015-11-17,registered,4,OO-789305-64-09-63-TN
+882,Running a red light,2015-09-30,closed,4,OF-828634-49-27-36-JM
+883,Speeding,2022-10-01,registered,4,AT-726456-97-23-07-ZE
+884,Illegal parking,2015-05-09,registered,4,QU-871405-01-82-15-VT
+885,Failure to yield,2022-11-19,registered,4,SP-276311-27-41-24-QA
+886,Illegal parking,2022-10-26,closed,4,RX-115474-51-97-40-XH
+887,Running a red light,2021-11-29,registered,4,VC-595961-07-43-65-TA
+888,Speeding,2023-06-09,registered,4,EX-259646-68-23-35-ZN
+889,Failure to yield,2022-06-09,registered,4,DM-105180-56-60-42-BW
+890,Speeding,2023-08-06,closed,4,JJ-916312-68-05-50-DS
+891,Failure to yield,2018-11-24,registered,4,EL-332050-30-04-48-QI
+892,Speeding,2016-03-26,registered,4,CX-427700-54-66-34-NN
+893,Driving under the influence,2018-03-20,registered,4,NP-033799-59-51-07-DF
+894,Failure to yield,2015-05-21,registered,4,BS-698946-99-43-28-OF
+895,Driving under the influence,2023-09-23,registered,4,TQ-205699-12-80-63-UF
+896,Illegal parking,2022-09-14,closed,4,UM-063262-72-13-66-AU
+897,Illegal parking,2021-11-12,closed,4,CT-873546-70-79-78-EA
+898,Illegal parking,2017-12-13,closed,4,PV-044926-29-65-26-GG
+899,Reckless driving,2022-02-13,registered,4,LO-714803-32-02-85-TD
+900,Driving under the influence,2023-01-18,registered,4,JR-381518-49-34-71-XY
+901,Failure to yield,2016-01-14,closed,4,QY-322632-01-24-04-HZ
+902,Speeding,2021-04-04,registered,4,GZ-924522-68-24-72-CG
+903,Speeding,2015-11-29,registered,4,PX-329589-02-20-74-IU
+904,Running a red light,2020-08-10,registered,4,LT-923465-96-34-28-ON
+905,Speeding,2021-01-19,registered,4,SW-315457-06-82-02-GR
+906,Speeding,2015-03-15,registered,4,KF-412500-25-73-37-VA
+907,Speeding,2023-09-02,registered,4,MM-371655-58-80-07-WE
+908,Speeding,2022-06-17,registered,4,ZI-708169-91-69-95-PX
+909,Driving under the influence,2019-12-19,registered,4,UV-244919-97-21-73-UR
+910,Reckless driving,2015-12-10,registered,4,RE-259378-27-09-62-IP
+911,Speeding,2023-02-24,closed,4,MY-163760-12-71-90-WO
+912,Failure to yield,2020-02-03,closed,4,HG-648898-01-90-02-TF
+913,Reckless driving,2023-02-13,registered,4,CE-116120-71-30-76-SR
+914,Failure to yield,2018-01-09,closed,4,CZ-661335-07-19-29-MC
+915,Illegal parking,2020-10-30,closed,4,SF-649294-82-08-74-QG
+916,Speeding,2016-01-08,registered,4,SF-339562-10-45-73-TW
+917,Failure to yield,2021-07-25,registered,4,NF-318300-19-65-70-DH
+918,Running a red light,2019-05-20,closed,4,CB-187195-75-91-10-OJ
+919,Running a red light,2017-10-10,registered,4,TC-070385-61-20-58-AA
+920,Illegal parking,2016-07-17,closed,4,YE-542518-25-20-09-LD
+921,Speeding,2018-07-27,registered,4,KW-313089-60-66-77-UA
+922,Speeding,2020-11-24,closed,4,SU-263525-35-75-91-NE
+923,Illegal parking,2018-12-22,registered,4,VJ-316235-89-59-63-MF
+924,Running a red light,2018-04-15,registered,4,GX-213875-37-69-32-VL
+925,Illegal parking,2014-08-05,registered,4,YW-998928-97-79-34-RP
+926,Driving under the influence,2021-11-29,registered,4,WY-624244-22-69-16-FB
+927,Illegal parking,2016-08-12,closed,4,VK-662563-05-61-43-ZA
+928,Reckless driving,2015-06-02,registered,4,GE-566417-71-36-94-SS
+929,Illegal parking,2016-02-28,registered,4,RK-720967-29-09-18-RG
+930,Reckless driving,2020-03-01,registered,4,SK-526069-50-87-31-KR
+931,Speeding,2016-11-21,registered,4,ST-279256-16-31-08-AM
+932,Speeding,2015-11-19,closed,4,FM-621193-85-01-46-BF
+933,Running a red light,2017-11-08,registered,4,YA-194347-06-73-34-KK
+934,Illegal parking,2019-04-09,closed,4,PX-395697-04-87-62-SD
+935,Reckless driving,2017-04-20,registered,4,VG-295569-00-38-01-DH
+936,Speeding,2014-12-02,registered,4,RM-212808-55-39-56-WI
+937,Running a red light,2015-09-25,registered,4,DC-868801-45-46-95-CL
+938,Failure to yield,2021-07-06,closed,4,IM-439368-58-02-25-SL
+939,Illegal parking,2016-11-07,registered,4,SD-143593-28-18-31-IT
+940,Illegal parking,2017-03-31,registered,4,BM-043229-46-75-95-ST
+941,Illegal parking,2019-12-21,registered,4,DU-791010-24-77-12-PE
+942,Driving under the influence,2018-07-09,registered,4,NQ-630682-77-30-80-AJ
+943,Speeding,2021-03-15,closed,4,HG-370121-37-77-94-SS
+944,Running a red light,2019-03-19,closed,4,SP-132339-31-15-82-WQ
+945,Reckless driving,2022-05-03,registered,4,JU-183645-53-19-21-EZ
+946,Running a red light,2015-12-31,registered,4,EP-383753-34-88-35-UT
+947,Running a red light,2019-01-07,registered,4,SN-471131-82-94-14-OE
+948,Failure to yield,2023-11-06,closed,4,LC-163835-82-28-36-AC
+949,Illegal parking,2023-07-29,closed,4,LH-065783-19-74-25-FM
+950,Illegal parking,2019-03-31,registered,4,WD-757201-48-85-56-SW
+951,Driving under the influence,2016-10-03,registered,4,DA-808134-27-59-82-AY
+952,Failure to yield,2015-06-02,registered,4,NK-830965-11-07-69-JF
+953,Driving under the influence,2016-02-26,registered,4,FZ-098868-68-58-06-MN
+954,Failure to yield,2023-10-16,registered,4,JW-632584-43-04-48-TF
+955,Illegal parking,2014-11-07,registered,4,YP-379500-78-34-57-LD
+956,Failure to yield,2015-05-29,registered,4,AD-913275-67-63-18-KB
+957,Reckless driving,2019-06-21,registered,4,NY-742131-14-18-45-FJ
+958,Driving under the influence,2016-08-28,registered,4,TA-849881-51-99-46-CU
+959,Speeding,2021-07-26,registered,4,QH-301862-89-85-38-DY
+960,Illegal parking,2020-02-29,registered,4,GS-481183-35-64-28-LZ
+961,Failure to yield,2017-07-06,registered,4,WC-485318-90-19-80-TY
+962,Speeding,2018-12-03,registered,4,VB-661383-56-31-38-KL
+963,Failure to yield,2018-03-06,registered,4,JT-270088-15-18-32-OB
+964,Running a red light,2016-04-20,registered,4,JX-841031-59-03-22-XZ
+965,Illegal parking,2017-02-04,registered,4,QL-990902-17-59-34-NM
+966,Driving under the influence,2019-11-02,closed,4,EK-445401-41-86-82-KY
+967,Speeding,2020-05-04,closed,4,TC-573872-56-85-62-AR
+968,Speeding,2018-06-27,registered,4,YH-000249-34-76-74-DN
+969,Speeding,2017-04-05,closed,4,BT-582502-08-73-98-VA
+970,Reckless driving,2018-02-04,closed,4,AI-522623-14-95-73-WZ
+971,Failure to yield,2014-08-30,registered,4,TU-046289-35-89-77-YM
+972,Speeding,2016-02-27,registered,4,KU-969707-30-14-55-BZ
+973,Illegal parking,2014-10-05,registered,4,HV-754866-88-94-02-UF
+974,Running a red light,2023-03-30,registered,4,VX-032071-16-74-45-UE
+975,Illegal parking,2023-06-01,registered,4,JH-417315-53-62-46-GI
+976,Speeding,2023-09-20,registered,4,TO-037282-17-35-54-MD
+977,Running a red light,2017-09-10,registered,4,CP-542105-07-84-76-FJ
+978,Running a red light,2020-04-02,closed,4,AP-202639-87-25-71-NU
+979,Running a red light,2015-04-16,registered,4,UA-266590-40-36-69-QZ
+980,Running a red light,2016-01-19,registered,4,YS-182153-23-24-76-DK
+981,Reckless driving,2019-04-13,registered,4,VD-385516-63-21-79-ZE
+982,Running a red light,2021-03-09,registered,4,WL-632487-96-49-16-LL
+983,Speeding,2020-01-25,closed,4,RI-184797-62-20-92-UR
+984,Failure to yield,2022-04-25,registered,4,PZ-122515-98-77-63-WF
+985,Illegal parking,2014-12-14,registered,4,IS-797636-72-41-54-UY
+986,Driving under the influence,2023-03-20,closed,4,XC-499068-72-44-19-RU
+987,Speeding,2018-11-04,registered,4,HQ-989814-84-55-86-KP
+988,Speeding,2016-05-16,closed,4,JD-689418-62-03-26-ZE
+989,Failure to yield,2019-12-25,registered,4,CA-947320-53-05-15-CV
+990,Reckless driving,2017-06-11,closed,4,NI-851912-98-83-51-QE
+991,Speeding,2016-07-25,closed,4,BV-097306-37-26-63-JF
+992,Reckless driving,2020-01-24,registered,4,QX-255258-06-56-97-RA
+993,Failure to yield,2021-03-03,registered,4,CH-231655-85-67-92-VB
+994,Failure to yield,2022-06-19,registered,4,BO-505681-12-22-31-QG
+995,Speeding,2015-10-15,registered,4,ZR-673295-08-25-90-JA
+996,Illegal parking,2016-05-30,registered,4,FU-612549-10-76-12-TI
+997,Speeding,2022-03-11,closed,4,CA-720182-10-63-69-OT
+998,Driving under the influence,2022-11-08,registered,4,FD-937928-39-95-76-EM
+999,Reckless driving,2015-06-09,registered,4,WL-152920-75-90-44-QR
+1000,Driving under the influence,2017-06-10,registered,4,GT-509540-10-79-72-QA

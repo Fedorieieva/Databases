@@ -12,12 +12,12 @@ CREATE TABLE IF NOT EXISTS Vehicle(
     registration_number VARCHAR(10) NOT NULL,
     brand VARCHAR(25),
     model VARCHAR(60),
-    manufacture_year DATE,
+    manufacture_year VARCHAR(4),
     owner_id INT REFERENCES Vehicle_Owner(owner_id) ON DELETE CASCADE NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS Driver(
-    drivers_licence VARCHAR(20) PRIMARY KEY NOT NULL,
+    drivers_licence VARCHAR(22) PRIMARY KEY NOT NULL,
     name VARCHAR(25) NOT NULL,
     last_name VARCHAR(25) NOT NULL,
     address VARCHAR(255) NOT NULL,
@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS Violation_Category(
     description TEXT
 );
 
-CREATE TYPE VIOLATION_STATUS AS ENUM ('not registered', 'registered', 'closed');
+-- CREATE TYPE VIOLATION_STATUS AS ENUM ('not registered', 'registered', 'closed');
 
 CREATE TABLE IF NOT EXISTS Violation(
     violation_id SERIAL PRIMARY KEY NOT NULL,
@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS Violation(
     date_time TIMESTAMP NOT NULL,
     status VIOLATION_STATUS NOT NULL,
     violation_category_id INT REFERENCES Violation_Category(violation_category_id) ON DELETE CASCADE NOT NULL,
-    drivers_licence VARCHAR(20) REFERENCES Driver(drivers_licence) ON DELETE CASCADE NOT NULL
+    drivers_licence VARCHAR(22) REFERENCES Driver(drivers_licence) ON DELETE CASCADE NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS Police_Officer(
@@ -56,16 +56,16 @@ CREATE TABLE IF NOT EXISTS Violation_Location(
     building_number VARCHAR(5) NOT NULL
 );
 
-CREATE TYPE FINE_STATUS AS ENUM ('not payed', 'payed');
+-- CREATE TYPE FINE_STATUS AS ENUM ('not payed', 'payed');
 
 CREATE TABLE IF NOT EXISTS Fine(
     fine_id SERIAL PRIMARY KEY NOT NULL,
-    fine_amount SMALLINT NOT NULL,
+    fine_amount REAL NOT NULL,
     payment_term DATE NOT NULL,
     status FINE_STATUS NOT NULL
 );
 
-CREATE TYPE VIOLATION_ACT_STATUS AS ENUM ('active', 'closed');
+-- CREATE TYPE VIOLATION_ACT_STATUS AS ENUM ('active', 'closed');
 
 CREATE TABLE IF NOT EXISTS Violation_Act(
     violation_act_id SERIAL PRIMARY KEY NOT NULL,

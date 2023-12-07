@@ -7,8 +7,15 @@ ADD CONSTRAINT no_future_date CHECK (date_time <= CURRENT_TIMESTAMP);
 ALTER TABLE Fine
 ADD CONSTRAINT no_future_date CHECK (payment_term >= CURRENT_DATE);
 
+ALTER TABLE Fine
+DROP CONSTRAINT no_future_date;
+
+
 ALTER TABLE Violation_Act
 ADD CONSTRAINT no_future_date CHECK (date_time >= CURRENT_TIMESTAMP);
+
+ALTER TABLE Violation_Act
+DROP CONSTRAINT no_future_date;
 
 
 CREATE ROLE administrator LOGIN PASSWORD 'administrator_user_password';

@@ -1,0 +1,11 @@
+violation_category_id,name,description
+1,Driving without a license,Driving on the wrong side of the road
+2,Illegal parking,Driving under the influence
+3,Expired registration,Texting while driving
+4,Expired registration,Driving under the influence
+5,Failure to yield,Improper lane change
+6,Driving without a license,Driving in a carpool lane without passengers
+7,Illegal parking,Speeding over the limit
+8,Reckless driving,Tailgating
+9,Illegal parking,Failure to stop at a stop sign
+10,Expired registration,Failure to obey traffic signs

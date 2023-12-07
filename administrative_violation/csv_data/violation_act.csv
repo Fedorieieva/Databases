@@ -1,0 +1,1001 @@
+violation_act_id,violation_description,date_time,witness_testimony,status,location_id,violation_id,officer_id,fine_id
+1,Illegal parking,2019-06-08,I saw the driver run a red light.,closed,63,1,49,1
+2,Driving under the influence,2017-10-21,I witnessed the driver change lanes without signaling.,active,42,2,396,2
+3,Running a red light,2020-06-25,The vehicle was speeding excessively.,active,18,3,126,3
+4,Speeding,2018-11-21,I witnessed the driver change lanes without signaling.,closed,56,4,392,4
+5,Illegal parking,2015-12-05,The vehicle was speeding excessively.,active,10,5,296,5
+6,Illegal parking,2015-09-16,The vehicle was speeding excessively.,closed,41,6,89,6
+7,Illegal parking,2021-08-14,The vehicle was parked in a no-parking zone.,closed,98,7,94,7
+8,Speeding,2019-07-09,The driver was using their phone while driving.,closed,100,8,20,8
+9,Running a red light,2022-03-02,The vehicle was parked in a no-parking zone.,active,91,9,198,9
+10,Speeding,2022-05-19,I witnessed the driver change lanes without signaling.,active,87,10,339,10
+11,Reckless driving,2021-05-01,The vehicle was parked in a no-parking zone.,closed,42,11,10,11
+12,Driving under the influence,2021-07-10,The vehicle was parked in a no-parking zone.,closed,16,12,160,12
+13,Running a red light,2021-01-28,The vehicle was parked in a no-parking zone.,closed,35,13,291,13
+14,Driving under the influence,2018-05-25,I witnessed the driver change lanes without signaling.,closed,61,14,177,14
+15,Driving under the influence,2020-09-05,I saw the driver run a red light.,active,71,15,261,15
+16,Illegal parking,2018-12-20,The vehicle was parked in a no-parking zone.,active,11,16,88,16
+17,Speeding,2020-10-12,I saw the driver run a red light.,closed,97,17,220,17
+18,Driving under the influence,2017-11-23,I saw the driver run a red light.,active,38,18,122,18
+19,Reckless driving,2018-02-05,I witnessed the driver change lanes without signaling.,active,45,19,375,19
+20,Speeding,2016-10-15,The vehicle was parked in a no-parking zone.,closed,61,20,72,20
+21,Running a red light,2018-08-30,The driver was using their phone while driving.,active,28,21,327,21
+22,Speeding,2019-02-13,I saw the driver run a red light.,closed,41,22,147,22
+23,Reckless driving,2017-04-11,I witnessed the driver change lanes without signaling.,active,80,23,10,23
+24,Running a red light,2018-10-02,I saw the driver run a red light.,active,85,24,48,24
+25,Illegal parking,2018-04-04,The driver was using their phone while driving.,active,54,25,190,25
+26,Running a red light,2018-02-26,The driver was using their phone while driving.,active,22,26,134,26
+27,Speeding,2016-10-15,The vehicle was parked in a no-parking zone.,closed,36,27,217,27
+28,Running a red light,2019-03-27,The vehicle was parked in a no-parking zone.,closed,82,28,43,28
+29,Driving under the influence,2020-08-13,The vehicle was parked in a no-parking zone.,active,21,29,287,29
+30,Running a red light,2021-04-28,I saw the driver run a red light.,closed,83,30,16,30
+31,Illegal parking,2021-11-15,I saw the driver run a red light.,closed,48,31,173,31
+32,Running a red light,2023-04-26,The vehicle was speeding excessively.,active,68,32,32,32
+33,Driving under the influence,2021-02-01,The vehicle was parked in a no-parking zone.,active,78,33,38,33
+34,Driving under the influence,2015-11-05,The driver was using their phone while driving.,active,80,34,379,34
+35,Speeding,2016-06-05,The vehicle was parked in a no-parking zone.,active,76,35,314,35
+36,Driving under the influence,2020-05-06,The vehicle was parked in a no-parking zone.,active,28,36,349,36
+37,Speeding,2018-09-27,I witnessed the driver change lanes without signaling.,closed,13,37,158,37
+38,Driving under the influence,2021-06-10,I saw the driver run a red light.,active,88,38,351,38
+39,Speeding,2016-08-21,The vehicle was speeding excessively.,closed,22,39,234,39
+40,Reckless driving,2020-06-17,The vehicle was parked in a no-parking zone.,active,7,40,138,40
+41,Driving under the influence,2020-09-17,I witnessed the driver change lanes without signaling.,closed,75,41,29,41
+42,Reckless driving,2016-12-10,The driver was using their phone while driving.,closed,93,42,350,42
+43,Illegal parking,2022-08-07,The vehicle was speeding excessively.,closed,38,43,297,43
+44,Reckless driving,2023-05-20,I saw the driver run a red light.,closed,29,44,129,44
+45,Reckless driving,2015-08-18,The vehicle was speeding excessively.,active,85,45,312,45
+46,Illegal parking,2023-04-29,The vehicle was parked in a no-parking zone.,active,79,46,376,46
+47,Running a red light,2020-06-05,I saw the driver run a red light.,active,29,47,327,47
+48,Driving under the influence,2020-03-26,The vehicle was parked in a no-parking zone.,active,22,48,59,48
+49,Driving under the influence,2021-07-21,I saw the driver run a red light.,closed,27,49,115,49
+50,Running a red light,2021-10-26,The vehicle was parked in a no-parking zone.,active,57,50,320,50
+51,Speeding,2019-06-17,The vehicle was parked in a no-parking zone.,closed,28,51,345,51
+52,Driving under the influence,2017-10-28,I saw the driver run a red light.,active,39,52,256,52
+53,Speeding,2022-08-12,The driver was using their phone while driving.,closed,46,53,139,53
+54,Driving under the influence,2023-01-05,The vehicle was speeding excessively.,active,64,54,219,54
+55,Driving under the influence,2020-03-14,I saw the driver run a red light.,active,30,55,139,55
+56,Reckless driving,2019-04-15,The driver was using their phone while driving.,closed,34,56,59,56
+57,Illegal parking,2018-05-14,The driver was using their phone while driving.,closed,9,57,45,57
+58,Driving under the influence,2023-03-03,The driver was using their phone while driving.,closed,69,58,391,58
+59,Illegal parking,2016-03-12,I saw the driver run a red light.,active,3,59,228,59
+60,Speeding,2023-03-11,I witnessed the driver change lanes without signaling.,active,21,60,300,60
+61,Speeding,2019-06-18,The vehicle was parked in a no-parking zone.,closed,36,61,145,61
+62,Speeding,2022-10-04,The vehicle was parked in a no-parking zone.,active,22,62,188,62
+63,Illegal parking,2022-07-10,The driver was using their phone while driving.,active,12,63,390,63
+64,Illegal parking,2022-08-22,I saw the driver run a red light.,closed,77,64,377,64
+65,Running a red light,2017-05-15,The vehicle was speeding excessively.,closed,23,65,233,65
+66,Speeding,2016-04-02,The vehicle was speeding excessively.,active,77,66,226,66
+67,Running a red light,2022-05-10,I witnessed the driver change lanes without signaling.,closed,75,67,124,67
+68,Illegal parking,2016-11-23,I witnessed the driver change lanes without signaling.,active,81,68,81,68
+69,Reckless driving,2021-11-14,The driver was using their phone while driving.,active,77,69,117,69
+70,Speeding,2021-01-30,The vehicle was parked in a no-parking zone.,active,14,70,169,70
+71,Driving under the influence,2020-02-13,The vehicle was parked in a no-parking zone.,active,93,71,196,71
+72,Reckless driving,2022-06-26,I saw the driver run a red light.,closed,90,72,285,72
+73,Reckless driving,2016-08-12,I witnessed the driver change lanes without signaling.,active,12,73,383,73
+74,Driving under the influence,2015-12-20,The driver was using their phone while driving.,active,97,74,323,74
+75,Speeding,2016-10-11,The driver was using their phone while driving.,active,97,75,72,75
+76,Illegal parking,2015-06-21,The driver was using their phone while driving.,closed,77,76,7,76
+77,Running a red light,2020-03-23,The driver was using their phone while driving.,active,97,77,3,77
+78,Illegal parking,2018-04-05,I witnessed the driver change lanes without signaling.,closed,93,78,259,78
+79,Illegal parking,2019-06-16,I saw the driver run a red light.,closed,66,79,201,79
+80,Running a red light,2017-09-05,I witnessed the driver change lanes without signaling.,active,91,80,355,80
+81,Illegal parking,2021-05-14,I witnessed the driver change lanes without signaling.,closed,78,81,285,81
+82,Driving under the influence,2017-01-27,I saw the driver run a red light.,closed,45,82,132,82
+83,Speeding,2021-06-01,The driver was using their phone while driving.,active,94,83,155,83
+84,Reckless driving,2020-08-01,The vehicle was speeding excessively.,active,69,84,170,84
+85,Speeding,2023-10-17,The driver was using their phone while driving.,closed,2,85,128,85
+86,Speeding,2019-09-15,The vehicle was speeding excessively.,closed,52,86,126,86
+87,Illegal parking,2023-09-27,The driver was using their phone while driving.,closed,81,87,131,87
+88,Running a red light,2016-10-22,I saw the driver run a red light.,closed,31,88,79,88
+89,Running a red light,2023-04-25,The driver was using their phone while driving.,active,86,89,92,89
+90,Reckless driving,2020-10-06,I witnessed the driver change lanes without signaling.,active,95,90,182,90
+91,Running a red light,2018-12-02,The driver was using their phone while driving.,closed,46,91,326,91
+92,Driving under the influence,2017-01-02,The vehicle was parked in a no-parking zone.,active,69,92,81,92
+93,Reckless driving,2023-12-02,The driver was using their phone while driving.,active,92,93,345,93
+94,Running a red light,2015-11-18,The driver was using their phone while driving.,active,52,94,159,94
+95,Running a red light,2017-02-27,The vehicle was parked in a no-parking zone.,closed,96,95,398,95
+96,Speeding,2020-10-31,The driver was using their phone while driving.,active,11,96,44,96
+97,Speeding,2020-11-27,The vehicle was speeding excessively.,closed,23,97,106,97
+98,Reckless driving,2019-07-25,I saw the driver run a red light.,active,70,98,45,98
+99,Illegal parking,2018-09-30,I witnessed the driver change lanes without signaling.,closed,27,99,86,99
+100,Speeding,2022-03-01,The driver was using their phone while driving.,closed,10,100,249,100
+101,Speeding,2015-07-06,I witnessed the driver change lanes without signaling.,closed,58,101,317,101
+102,Running a red light,2023-05-28,The vehicle was parked in a no-parking zone.,closed,5,102,84,102
+103,Driving under the influence,2021-11-25,The vehicle was speeding excessively.,active,18,103,169,103
+104,Speeding,2022-11-05,The vehicle was speeding excessively.,closed,43,104,230,104
+105,Running a red light,2018-10-13,The vehicle was parked in a no-parking zone.,active,82,105,332,105
+106,Speeding,2023-10-10,I witnessed the driver change lanes without signaling.,active,29,106,173,106
+107,Reckless driving,2017-01-02,The driver was using their phone while driving.,active,60,107,199,107
+108,Running a red light,2016-11-16,The vehicle was speeding excessively.,active,10,108,336,108
+109,Driving under the influence,2017-05-01,The vehicle was parked in a no-parking zone.,active,15,109,398,109
+110,Driving under the influence,2015-12-31,I witnessed the driver change lanes without signaling.,active,81,110,114,110
+111,Illegal parking,2016-03-23,The vehicle was parked in a no-parking zone.,active,26,111,343,111
+112,Speeding,2019-07-10,The vehicle was parked in a no-parking zone.,active,51,112,112,112
+113,Driving under the influence,2023-06-24,The driver was using their phone while driving.,closed,29,113,278,113
+114,Speeding,2015-10-08,I witnessed the driver change lanes without signaling.,closed,100,114,343,114
+115,Running a red light,2019-03-18,I saw the driver run a red light.,closed,7,115,17,115
+116,Driving under the influence,2023-05-07,I witnessed the driver change lanes without signaling.,closed,85,116,15,116
+117,Driving under the influence,2017-09-06,The vehicle was parked in a no-parking zone.,closed,32,117,272,117
+118,Illegal parking,2017-09-22,The vehicle was parked in a no-parking zone.,closed,30,118,108,118
+119,Illegal parking,2020-03-08,The vehicle was speeding excessively.,active,64,119,321,119
+120,Reckless driving,2017-04-18,I witnessed the driver change lanes without signaling.,active,29,120,13,120
+121,Speeding,2017-06-03,The vehicle was speeding excessively.,closed,89,121,104,121
+122,Driving under the influence,2018-05-23,The vehicle was speeding excessively.,active,68,122,104,122
+123,Speeding,2022-06-21,The vehicle was speeding excessively.,active,22,123,275,123
+124,Running a red light,2015-11-20,The vehicle was parked in a no-parking zone.,closed,8,124,321,124
+125,Illegal parking,2017-10-26,I saw the driver run a red light.,active,1,125,162,125
+126,Speeding,2021-10-19,The driver was using their phone while driving.,active,78,126,54,126
+127,Driving under the influence,2016-07-31,The driver was using their phone while driving.,closed,21,127,288,127
+128,Speeding,2018-07-19,The driver was using their phone while driving.,closed,22,128,260,128
+129,Reckless driving,2022-07-18,I saw the driver run a red light.,closed,75,129,365,129
+130,Reckless driving,2022-11-07,The vehicle was parked in a no-parking zone.,active,82,130,344,130
+131,Speeding,2023-10-06,I saw the driver run a red light.,closed,48,131,194,131
+132,Reckless driving,2018-09-10,The vehicle was parked in a no-parking zone.,closed,7,132,207,132
+133,Reckless driving,2020-08-24,I saw the driver run a red light.,active,72,133,127,133
+134,Reckless driving,2022-02-16,The vehicle was speeding excessively.,closed,37,134,348,134
+135,Speeding,2020-10-02,The vehicle was parked in a no-parking zone.,closed,38,135,337,135
+136,Driving under the influence,2017-09-29,I witnessed the driver change lanes without signaling.,closed,59,136,295,136
+137,Driving under the influence,2015-08-01,I saw the driver run a red light.,closed,37,137,26,137
+138,Speeding,2022-05-02,The driver was using their phone while driving.,closed,14,138,109,138
+139,Driving under the influence,2019-07-06,The vehicle was parked in a no-parking zone.,active,76,139,245,139
+140,Driving under the influence,2018-09-11,The driver was using their phone while driving.,closed,46,140,224,140
+141,Speeding,2020-05-10,The vehicle was speeding excessively.,closed,22,141,268,141
+142,Driving under the influence,2023-02-03,The driver was using their phone while driving.,closed,96,142,99,142
+143,Driving under the influence,2018-04-26,The vehicle was parked in a no-parking zone.,active,14,143,260,143
+144,Running a red light,2022-07-02,The driver was using their phone while driving.,closed,61,144,294,144
+145,Illegal parking,2019-03-26,The driver was using their phone while driving.,active,95,145,394,145
+146,Driving under the influence,2021-07-29,The driver was using their phone while driving.,active,92,146,296,146
+147,Driving under the influence,2021-05-05,The driver was using their phone while driving.,closed,75,147,147,147
+148,Illegal parking,2021-08-01,I saw the driver run a red light.,closed,95,148,11,148
+149,Speeding,2020-12-27,I saw the driver run a red light.,closed,82,149,62,149
+150,Running a red light,2022-10-01,I saw the driver run a red light.,active,49,150,198,150
+151,Driving under the influence,2019-12-10,The vehicle was speeding excessively.,closed,67,151,339,151
+152,Driving under the influence,2021-09-16,The vehicle was parked in a no-parking zone.,active,19,152,230,152
+153,Running a red light,2019-09-17,The driver was using their phone while driving.,closed,81,153,364,153
+154,Driving under the influence,2020-05-01,The driver was using their phone while driving.,closed,89,154,121,154
+155,Driving under the influence,2018-10-22,The driver was using their phone while driving.,active,84,155,198,155
+156,Driving under the influence,2023-05-03,I saw the driver run a red light.,closed,45,156,311,156
+157,Reckless driving,2016-05-29,I saw the driver run a red light.,active,8,157,98,157
+158,Speeding,2016-06-11,The vehicle was speeding excessively.,closed,42,158,47,158
+159,Driving under the influence,2018-08-12,The vehicle was speeding excessively.,closed,92,159,394,159
+160,Running a red light,2018-06-13,The vehicle was speeding excessively.,active,69,160,239,160
+161,Illegal parking,2015-09-17,I witnessed the driver change lanes without signaling.,closed,96,161,162,161
+162,Reckless driving,2019-10-11,The vehicle was speeding excessively.,closed,89,162,42,162
+163,Running a red light,2021-04-22,The vehicle was speeding excessively.,closed,43,163,371,163
+164,Driving under the influence,2015-07-02,The vehicle was speeding excessively.,closed,5,164,348,164
+165,Running a red light,2020-02-06,The vehicle was speeding excessively.,closed,63,165,290,165
+166,Reckless driving,2018-06-22,I saw the driver run a red light.,active,20,166,152,166
+167,Running a red light,2018-11-14,I saw the driver run a red light.,active,9,167,142,167
+168,Running a red light,2022-09-26,The vehicle was parked in a no-parking zone.,active,71,168,365,168
+169,Driving under the influence,2017-01-15,I saw the driver run a red light.,active,79,169,7,169
+170,Driving under the influence,2022-05-14,I witnessed the driver change lanes without signaling.,closed,61,170,227,170
+171,Driving under the influence,2018-08-30,The vehicle was speeding excessively.,closed,1,171,217,171
+172,Speeding,2016-06-12,I witnessed the driver change lanes without signaling.,closed,40,172,372,172
+173,Illegal parking,2020-05-29,The vehicle was speeding excessively.,active,94,173,283,173
+174,Running a red light,2015-09-21,I witnessed the driver change lanes without signaling.,closed,73,174,165,174
+175,Illegal parking,2017-03-28,The vehicle was speeding excessively.,closed,59,175,14,175
+176,Driving under the influence,2015-11-16,The vehicle was parked in a no-parking zone.,active,22,176,329,176
+177,Running a red light,2017-03-12,I saw the driver run a red light.,closed,60,177,310,177
+178,Speeding,2019-11-15,The driver was using their phone while driving.,closed,85,178,322,178
+179,Running a red light,2022-08-31,I witnessed the driver change lanes without signaling.,active,25,179,285,179
+180,Reckless driving,2021-10-11,The driver was using their phone while driving.,active,43,180,387,180
+181,Reckless driving,2021-06-15,The driver was using their phone while driving.,closed,50,181,160,181
+182,Running a red light,2018-05-06,The driver was using their phone while driving.,closed,77,182,251,182
+183,Running a red light,2018-01-22,I saw the driver run a red light.,active,10,183,184,183
+184,Running a red light,2023-10-27,The vehicle was parked in a no-parking zone.,closed,28,184,3,184
+185,Reckless driving,2017-06-12,The driver was using their phone while driving.,closed,78,185,283,185
+186,Running a red light,2023-09-30,I witnessed the driver change lanes without signaling.,closed,92,186,134,186
+187,Speeding,2018-06-19,The driver was using their phone while driving.,active,53,187,91,187
+188,Running a red light,2023-05-21,The vehicle was speeding excessively.,active,10,188,108,188
+189,Illegal parking,2020-04-09,The vehicle was parked in a no-parking zone.,active,52,189,57,189
+190,Reckless driving,2017-11-18,I witnessed the driver change lanes without signaling.,closed,18,190,83,190
+191,Running a red light,2021-08-15,The vehicle was parked in a no-parking zone.,closed,45,191,332,191
+192,Illegal parking,2018-08-18,The vehicle was speeding excessively.,closed,56,192,42,192
+193,Speeding,2023-03-31,I witnessed the driver change lanes without signaling.,active,49,193,31,193
+194,Driving under the influence,2018-05-21,The vehicle was parked in a no-parking zone.,active,2,194,380,194
+195,Running a red light,2022-04-23,The vehicle was speeding excessively.,active,92,195,149,195
+196,Running a red light,2015-07-15,The driver was using their phone while driving.,active,68,196,37,196
+197,Illegal parking,2018-04-14,I witnessed the driver change lanes without signaling.,active,46,197,379,197
+198,Reckless driving,2017-06-03,I saw the driver run a red light.,active,90,198,102,198
+199,Running a red light,2020-08-10,The vehicle was speeding excessively.,closed,85,199,305,199
+200,Reckless driving,2016-10-20,The vehicle was speeding excessively.,active,85,200,11,200
+201,Illegal parking,2017-01-14,I witnessed the driver change lanes without signaling.,active,16,201,124,201
+202,Running a red light,2018-05-21,I witnessed the driver change lanes without signaling.,active,60,202,87,202
+203,Driving under the influence,2020-07-25,The vehicle was speeding excessively.,closed,34,203,223,203
+204,Driving under the influence,2018-12-23,The driver was using their phone while driving.,closed,12,204,381,204
+205,Reckless driving,2020-11-12,The vehicle was parked in a no-parking zone.,active,73,205,156,205
+206,Driving under the influence,2016-10-02,The vehicle was speeding excessively.,active,67,206,205,206
+207,Speeding,2019-02-04,The driver was using their phone while driving.,closed,65,207,254,207
+208,Driving under the influence,2020-01-17,I saw the driver run a red light.,closed,6,208,265,208
+209,Driving under the influence,2018-12-05,I saw the driver run a red light.,closed,50,209,27,209
+210,Speeding,2021-07-30,The driver was using their phone while driving.,closed,56,210,178,210
+211,Running a red light,2020-12-17,The vehicle was speeding excessively.,active,9,211,360,211
+212,Running a red light,2020-06-14,I saw the driver run a red light.,active,75,212,35,212
+213,Driving under the influence,2017-09-24,The vehicle was parked in a no-parking zone.,active,12,213,214,213
+214,Running a red light,2019-03-04,I saw the driver run a red light.,closed,67,214,57,214
+215,Illegal parking,2022-01-09,I witnessed the driver change lanes without signaling.,active,73,215,274,215
+216,Speeding,2020-06-26,I saw the driver run a red light.,active,86,216,116,216
+217,Illegal parking,2021-07-03,The vehicle was speeding excessively.,active,26,217,159,217
+218,Reckless driving,2016-12-11,I witnessed the driver change lanes without signaling.,active,14,218,41,218
+219,Running a red light,2022-03-19,The driver was using their phone while driving.,closed,33,219,138,219
+220,Reckless driving,2021-04-29,The vehicle was speeding excessively.,active,53,220,33,220
+221,Reckless driving,2016-07-12,I saw the driver run a red light.,active,16,221,113,221
+222,Running a red light,2020-12-07,The driver was using their phone while driving.,active,48,222,394,222
+223,Speeding,2020-03-08,I saw the driver run a red light.,active,39,223,233,223
+224,Driving under the influence,2019-05-13,I saw the driver run a red light.,active,14,224,354,224
+225,Driving under the influence,2023-06-09,The vehicle was speeding excessively.,active,84,225,256,225
+226,Driving under the influence,2016-08-21,The vehicle was parked in a no-parking zone.,active,77,226,361,226
+227,Running a red light,2017-08-28,I witnessed the driver change lanes without signaling.,active,98,227,21,227
+228,Reckless driving,2017-08-15,The vehicle was parked in a no-parking zone.,closed,92,228,231,228
+229,Speeding,2017-04-25,The vehicle was speeding excessively.,active,34,229,189,229
+230,Running a red light,2022-06-27,The driver was using their phone while driving.,active,27,230,90,230
+231,Reckless driving,2020-02-01,The vehicle was parked in a no-parking zone.,closed,13,231,274,231
+232,Running a red light,2018-01-14,The vehicle was speeding excessively.,active,3,232,378,232
+233,Driving under the influence,2020-11-26,The vehicle was parked in a no-parking zone.,active,41,233,55,233
+234,Driving under the influence,2017-05-16,I witnessed the driver change lanes without signaling.,active,96,234,290,234
+235,Illegal parking,2018-04-17,I saw the driver run a red light.,closed,77,235,239,235
+236,Running a red light,2016-09-30,The vehicle was parked in a no-parking zone.,closed,79,236,112,236
+237,Running a red light,2016-07-16,The vehicle was speeding excessively.,closed,72,237,150,237
+238,Illegal parking,2016-11-30,The vehicle was speeding excessively.,closed,100,238,338,238
+239,Illegal parking,2016-05-22,The vehicle was speeding excessively.,closed,97,239,141,239
+240,Running a red light,2021-05-17,The vehicle was speeding excessively.,active,67,240,177,240
+241,Illegal parking,2021-04-24,The vehicle was speeding excessively.,active,70,241,388,241
+242,Illegal parking,2017-05-03,I witnessed the driver change lanes without signaling.,closed,68,242,277,242
+243,Speeding,2021-06-19,The vehicle was speeding excessively.,active,43,243,372,243
+244,Running a red light,2016-02-11,The vehicle was parked in a no-parking zone.,active,98,244,131,244
+245,Running a red light,2023-08-29,The driver was using their phone while driving.,active,14,245,53,245
+246,Driving under the influence,2017-06-27,The driver was using their phone while driving.,closed,98,246,153,246
+247,Driving under the influence,2022-08-11,I saw the driver run a red light.,active,38,247,40,247
+248,Running a red light,2023-08-22,The driver was using their phone while driving.,active,22,248,267,248
+249,Running a red light,2017-08-01,The driver was using their phone while driving.,closed,52,249,330,249
+250,Driving under the influence,2020-02-10,I witnessed the driver change lanes without signaling.,closed,34,250,134,250
+251,Running a red light,2016-07-09,The vehicle was speeding excessively.,active,66,251,391,251
+252,Illegal parking,2019-07-17,I witnessed the driver change lanes without signaling.,closed,60,252,20,252
+253,Running a red light,2019-10-01,I witnessed the driver change lanes without signaling.,closed,8,253,226,253
+254,Driving under the influence,2019-12-30,The vehicle was parked in a no-parking zone.,active,72,254,196,254
+255,Illegal parking,2022-11-23,I saw the driver run a red light.,active,7,255,93,255
+256,Illegal parking,2019-08-14,I witnessed the driver change lanes without signaling.,active,65,256,138,256
+257,Driving under the influence,2020-01-15,I saw the driver run a red light.,active,25,257,207,257
+258,Illegal parking,2019-06-11,The driver was using their phone while driving.,closed,46,258,301,258
+259,Driving under the influence,2021-10-16,The vehicle was speeding excessively.,active,98,259,383,259
+260,Speeding,2016-02-06,I witnessed the driver change lanes without signaling.,active,52,260,188,260
+261,Speeding,2020-08-13,The vehicle was parked in a no-parking zone.,closed,51,261,106,261
+262,Running a red light,2019-06-25,The vehicle was speeding excessively.,closed,56,262,152,262
+263,Running a red light,2019-12-01,The driver was using their phone while driving.,active,41,263,126,263
+264,Illegal parking,2016-10-06,I saw the driver run a red light.,closed,39,264,311,264
+265,Driving under the influence,2019-06-12,The vehicle was parked in a no-parking zone.,active,73,265,149,265
+266,Running a red light,2021-01-05,I saw the driver run a red light.,active,18,266,210,266
+267,Reckless driving,2018-01-17,The driver was using their phone while driving.,active,13,267,86,267
+268,Running a red light,2018-06-10,I witnessed the driver change lanes without signaling.,closed,56,268,227,268
+269,Illegal parking,2022-09-20,I saw the driver run a red light.,active,56,269,384,269
+270,Reckless driving,2017-02-11,I witnessed the driver change lanes without signaling.,closed,52,270,208,270
+271,Illegal parking,2016-01-27,I witnessed the driver change lanes without signaling.,active,95,271,292,271
+272,Illegal parking,2023-06-18,I witnessed the driver change lanes without signaling.,active,64,272,253,272
+273,Reckless driving,2017-12-17,I saw the driver run a red light.,active,99,273,250,273
+274,Reckless driving,2017-11-15,The vehicle was speeding excessively.,active,86,274,151,274
+275,Illegal parking,2022-01-22,I witnessed the driver change lanes without signaling.,active,99,275,13,275
+276,Speeding,2019-02-08,I saw the driver run a red light.,closed,55,276,370,276
+277,Illegal parking,2022-07-29,The vehicle was parked in a no-parking zone.,active,37,277,81,277
+278,Illegal parking,2022-02-26,The driver was using their phone while driving.,closed,18,278,158,278
+279,Driving under the influence,2021-02-24,I witnessed the driver change lanes without signaling.,closed,2,279,372,279
+280,Illegal parking,2021-05-02,The vehicle was speeding excessively.,active,50,280,207,280
+281,Driving under the influence,2021-10-23,The vehicle was speeding excessively.,active,19,281,339,281
+282,Running a red light,2017-08-06,The vehicle was parked in a no-parking zone.,closed,76,282,62,282
+283,Speeding,2023-01-25,I witnessed the driver change lanes without signaling.,active,3,283,221,283
+284,Speeding,2021-02-10,The vehicle was speeding excessively.,closed,53,284,125,284
+285,Driving under the influence,2018-09-03,The driver was using their phone while driving.,active,19,285,349,285
+286,Driving under the influence,2018-09-09,The vehicle was parked in a no-parking zone.,closed,67,286,137,286
+287,Running a red light,2023-09-21,The driver was using their phone while driving.,active,20,287,161,287
+288,Speeding,2019-01-20,The vehicle was speeding excessively.,active,57,288,67,288
+289,Speeding,2018-05-02,The vehicle was speeding excessively.,active,46,289,98,289
+290,Illegal parking,2023-07-18,The vehicle was speeding excessively.,closed,87,290,317,290
+291,Speeding,2022-10-10,The vehicle was parked in a no-parking zone.,closed,26,291,182,291
+292,Running a red light,2018-07-27,The vehicle was parked in a no-parking zone.,closed,43,292,200,292
+293,Illegal parking,2020-09-08,The vehicle was parked in a no-parking zone.,active,91,293,39,293
+294,Illegal parking,2021-05-30,The vehicle was speeding excessively.,closed,89,294,349,294
+295,Running a red light,2021-07-29,The vehicle was speeding excessively.,active,56,295,379,295
+296,Driving under the influence,2023-06-23,I witnessed the driver change lanes without signaling.,active,29,296,218,296
+297,Running a red light,2017-08-02,The vehicle was speeding excessively.,active,33,297,136,297
+298,Driving under the influence,2020-12-11,The vehicle was speeding excessively.,closed,37,298,39,298
+299,Speeding,2019-08-16,The driver was using their phone while driving.,active,15,299,71,299
+300,Illegal parking,2016-08-23,The vehicle was parked in a no-parking zone.,closed,4,300,75,300
+301,Speeding,2023-12-04,The vehicle was speeding excessively.,closed,70,301,223,301
+302,Reckless driving,2018-02-06,The vehicle was parked in a no-parking zone.,closed,84,302,140,302
+303,Illegal parking,2018-08-29,I witnessed the driver change lanes without signaling.,closed,3,303,262,303
+304,Running a red light,2023-04-08,I witnessed the driver change lanes without signaling.,closed,63,304,105,304
+305,Driving under the influence,2015-08-11,I witnessed the driver change lanes without signaling.,closed,56,305,87,305
+306,Speeding,2018-06-26,The vehicle was parked in a no-parking zone.,closed,87,306,398,306
+307,Illegal parking,2015-11-18,I witnessed the driver change lanes without signaling.,closed,29,307,288,307
+308,Speeding,2017-11-29,The vehicle was speeding excessively.,closed,26,308,254,308
+309,Illegal parking,2021-04-23,I saw the driver run a red light.,closed,42,309,88,309
+310,Driving under the influence,2017-11-12,I saw the driver run a red light.,closed,81,310,202,310
+311,Reckless driving,2019-10-11,I saw the driver run a red light.,active,90,311,356,311
+312,Running a red light,2022-06-17,I saw the driver run a red light.,active,50,312,385,312
+313,Illegal parking,2017-08-07,I witnessed the driver change lanes without signaling.,active,2,313,34,313
+314,Illegal parking,2015-10-21,The vehicle was speeding excessively.,active,51,314,304,314
+315,Speeding,2018-08-13,I witnessed the driver change lanes without signaling.,active,6,315,260,315
+316,Driving under the influence,2020-08-09,I witnessed the driver change lanes without signaling.,closed,92,316,210,316
+317,Reckless driving,2020-01-29,I witnessed the driver change lanes without signaling.,closed,19,317,147,317
+318,Speeding,2016-02-16,I witnessed the driver change lanes without signaling.,active,18,318,354,318
+319,Driving under the influence,2016-09-11,I saw the driver run a red light.,active,21,319,352,319
+320,Running a red light,2020-09-22,I witnessed the driver change lanes without signaling.,closed,60,320,34,320
+321,Running a red light,2020-10-26,I witnessed the driver change lanes without signaling.,closed,83,321,127,321
+322,Running a red light,2017-05-21,The vehicle was speeding excessively.,active,37,322,31,322
+323,Reckless driving,2020-03-18,I witnessed the driver change lanes without signaling.,closed,80,323,63,323
+324,Driving under the influence,2016-08-26,The vehicle was speeding excessively.,closed,47,324,69,324
+325,Illegal parking,2016-02-26,The vehicle was speeding excessively.,closed,11,325,210,325
+326,Driving under the influence,2017-05-20,I witnessed the driver change lanes without signaling.,closed,72,326,199,326
+327,Running a red light,2018-02-25,The vehicle was parked in a no-parking zone.,closed,71,327,49,327
+328,Reckless driving,2019-08-28,I saw the driver run a red light.,active,56,328,176,328
+329,Illegal parking,2023-05-31,The driver was using their phone while driving.,closed,31,329,117,329
+330,Reckless driving,2023-04-17,The driver was using their phone while driving.,closed,46,330,17,330
+331,Reckless driving,2022-04-24,I saw the driver run a red light.,active,93,331,309,331
+332,Reckless driving,2022-02-18,I saw the driver run a red light.,closed,17,332,47,332
+333,Reckless driving,2017-03-07,The vehicle was parked in a no-parking zone.,closed,32,333,356,333
+334,Running a red light,2015-07-19,The driver was using their phone while driving.,closed,30,334,281,334
+335,Speeding,2020-06-08,The driver was using their phone while driving.,active,66,335,48,335
+336,Driving under the influence,2020-12-30,The vehicle was parked in a no-parking zone.,closed,24,336,67,336
+337,Running a red light,2023-06-28,The vehicle was speeding excessively.,active,9,337,152,337
+338,Reckless driving,2019-04-24,The vehicle was parked in a no-parking zone.,closed,21,338,316,338
+339,Speeding,2020-12-10,The vehicle was speeding excessively.,active,95,339,312,339
+340,Speeding,2015-10-14,I witnessed the driver change lanes without signaling.,closed,40,340,293,340
+341,Driving under the influence,2020-01-11,I saw the driver run a red light.,closed,7,341,134,341
+342,Illegal parking,2020-04-27,I saw the driver run a red light.,active,91,342,334,342
+343,Running a red light,2020-06-17,I saw the driver run a red light.,closed,24,343,52,343
+344,Running a red light,2017-10-16,The driver was using their phone while driving.,closed,36,344,270,344
+345,Speeding,2019-05-02,I saw the driver run a red light.,closed,23,345,372,345
+346,Running a red light,2018-08-11,The vehicle was parked in a no-parking zone.,closed,1,346,334,346
+347,Reckless driving,2015-12-16,The vehicle was parked in a no-parking zone.,closed,36,347,102,347
+348,Driving under the influence,2020-02-24,I witnessed the driver change lanes without signaling.,closed,90,348,250,348
+349,Reckless driving,2023-06-10,The driver was using their phone while driving.,closed,51,349,126,349
+350,Illegal parking,2023-11-30,I witnessed the driver change lanes without signaling.,closed,52,350,312,350
+351,Driving under the influence,2020-10-27,I saw the driver run a red light.,active,54,351,263,351
+352,Speeding,2017-09-24,The vehicle was parked in a no-parking zone.,closed,88,352,341,352
+353,Illegal parking,2017-10-13,I saw the driver run a red light.,active,22,353,171,353
+354,Driving under the influence,2023-04-29,I witnessed the driver change lanes without signaling.,active,3,354,122,354
+355,Running a red light,2019-10-31,I witnessed the driver change lanes without signaling.,active,65,355,79,355
+356,Illegal parking,2020-12-14,The vehicle was speeding excessively.,closed,15,356,341,356
+357,Driving under the influence,2021-09-02,The vehicle was parked in a no-parking zone.,closed,30,357,329,357
+358,Running a red light,2023-11-05,The vehicle was parked in a no-parking zone.,active,22,358,344,358
+359,Speeding,2022-11-23,The driver was using their phone while driving.,active,16,359,252,359
+360,Illegal parking,2018-09-29,I saw the driver run a red light.,closed,31,360,386,360
+361,Illegal parking,2019-11-23,I saw the driver run a red light.,active,93,361,315,361
+362,Illegal parking,2017-11-21,The vehicle was parked in a no-parking zone.,active,15,362,92,362
+363,Reckless driving,2016-05-13,The vehicle was parked in a no-parking zone.,active,76,363,114,363
+364,Illegal parking,2018-09-24,I saw the driver run a red light.,closed,29,364,129,364
+365,Illegal parking,2017-05-01,I saw the driver run a red light.,closed,48,365,163,365
+366,Driving under the influence,2018-07-20,The driver was using their phone while driving.,closed,6,366,102,366
+367,Reckless driving,2018-01-30,The driver was using their phone while driving.,closed,43,367,7,367
+368,Illegal parking,2023-02-22,The vehicle was parked in a no-parking zone.,active,35,368,349,368
+369,Speeding,2021-07-03,The driver was using their phone while driving.,closed,59,369,105,369
+370,Running a red light,2021-08-12,I saw the driver run a red light.,closed,22,370,14,370
+371,Illegal parking,2016-07-17,The driver was using their phone while driving.,closed,79,371,194,371
+372,Driving under the influence,2016-02-04,I witnessed the driver change lanes without signaling.,active,60,372,11,372
+373,Illegal parking,2015-07-27,The vehicle was parked in a no-parking zone.,active,42,373,250,373
+374,Reckless driving,2016-06-01,The vehicle was parked in a no-parking zone.,closed,76,374,382,374
+375,Speeding,2019-05-23,The vehicle was speeding excessively.,active,94,375,62,375
+376,Driving under the influence,2015-08-26,I witnessed the driver change lanes without signaling.,active,85,376,349,376
+377,Running a red light,2016-10-06,I saw the driver run a red light.,active,32,377,64,377
+378,Reckless driving,2017-01-31,The driver was using their phone while driving.,active,82,378,90,378
+379,Illegal parking,2022-09-22,I saw the driver run a red light.,active,30,379,204,379
+380,Driving under the influence,2016-04-05,The vehicle was speeding excessively.,closed,96,380,120,380
+381,Running a red light,2023-10-20,The driver was using their phone while driving.,closed,3,381,23,381
+382,Reckless driving,2020-09-21,I witnessed the driver change lanes without signaling.,closed,98,382,155,382
+383,Speeding,2023-02-17,I saw the driver run a red light.,active,10,383,203,383
+384,Illegal parking,2017-03-22,The vehicle was parked in a no-parking zone.,closed,16,384,200,384
+385,Illegal parking,2019-05-14,The driver was using their phone while driving.,active,22,385,189,385
+386,Reckless driving,2019-12-07,The driver was using their phone while driving.,closed,47,386,74,386
+387,Speeding,2021-03-27,I saw the driver run a red light.,closed,4,387,310,387
+388,Driving under the influence,2018-04-22,The driver was using their phone while driving.,active,9,388,108,388
+389,Reckless driving,2015-12-30,I saw the driver run a red light.,closed,93,389,199,389
+390,Driving under the influence,2020-07-19,I saw the driver run a red light.,active,22,390,107,390
+391,Reckless driving,2017-04-12,The vehicle was speeding excessively.,closed,65,391,274,391
+392,Driving under the influence,2020-02-18,The vehicle was parked in a no-parking zone.,active,32,392,315,392
+393,Speeding,2021-09-19,I witnessed the driver change lanes without signaling.,closed,5,393,56,393
+394,Speeding,2022-06-05,The driver was using their phone while driving.,closed,96,394,56,394
+395,Reckless driving,2021-02-05,The vehicle was parked in a no-parking zone.,closed,34,395,140,395
+396,Speeding,2018-11-16,The driver was using their phone while driving.,active,30,396,6,396
+397,Reckless driving,2017-01-18,The driver was using their phone while driving.,active,46,397,317,397
+398,Illegal parking,2020-06-10,The driver was using their phone while driving.,active,29,398,342,398
+399,Speeding,2016-06-29,The driver was using their phone while driving.,active,95,399,45,399
+400,Speeding,2016-09-08,The vehicle was parked in a no-parking zone.,closed,27,400,202,400
+401,Running a red light,2023-04-30,I witnessed the driver change lanes without signaling.,active,63,401,13,401
+402,Driving under the influence,2020-01-28,The vehicle was parked in a no-parking zone.,closed,69,402,273,402
+403,Reckless driving,2016-02-26,The vehicle was parked in a no-parking zone.,closed,66,403,396,403
+404,Speeding,2019-11-27,I witnessed the driver change lanes without signaling.,active,12,404,285,404
+405,Reckless driving,2017-07-06,The vehicle was speeding excessively.,closed,41,405,208,405
+406,Running a red light,2023-01-31,The vehicle was parked in a no-parking zone.,active,55,406,345,406
+407,Reckless driving,2016-05-06,The driver was using their phone while driving.,active,13,407,26,407
+408,Illegal parking,2021-02-20,I witnessed the driver change lanes without signaling.,closed,90,408,142,408
+409,Running a red light,2017-12-16,The vehicle was speeding excessively.,active,85,409,278,409
+410,Driving under the influence,2017-11-20,I saw the driver run a red light.,closed,19,410,186,410
+411,Reckless driving,2016-01-11,I saw the driver run a red light.,active,57,411,289,411
+412,Reckless driving,2019-12-03,I saw the driver run a red light.,closed,5,412,177,412
+413,Illegal parking,2022-07-07,The driver was using their phone while driving.,active,45,413,46,413
+414,Driving under the influence,2018-03-20,The vehicle was speeding excessively.,active,68,414,374,414
+415,Illegal parking,2016-07-27,I witnessed the driver change lanes without signaling.,closed,83,415,145,415
+416,Running a red light,2022-05-15,I witnessed the driver change lanes without signaling.,closed,32,416,323,416
+417,Driving under the influence,2015-08-30,I witnessed the driver change lanes without signaling.,active,77,417,135,417
+418,Speeding,2015-10-14,I witnessed the driver change lanes without signaling.,active,100,418,374,418
+419,Running a red light,2020-10-07,I witnessed the driver change lanes without signaling.,closed,6,419,301,419
+420,Speeding,2017-10-19,I saw the driver run a red light.,active,16,420,223,420
+421,Driving under the influence,2017-01-19,I witnessed the driver change lanes without signaling.,closed,11,421,78,421
+422,Illegal parking,2019-01-18,The driver was using their phone while driving.,active,59,422,319,422
+423,Driving under the influence,2020-10-06,The driver was using their phone while driving.,closed,53,423,167,423
+424,Running a red light,2021-12-30,The driver was using their phone while driving.,closed,92,424,89,424
+425,Reckless driving,2018-06-21,The driver was using their phone while driving.,closed,88,425,210,425
+426,Running a red light,2023-05-13,I witnessed the driver change lanes without signaling.,closed,3,426,326,426
+427,Reckless driving,2022-12-14,The driver was using their phone while driving.,closed,45,427,199,427
+428,Reckless driving,2018-05-20,The vehicle was parked in a no-parking zone.,closed,30,428,46,428
+429,Reckless driving,2018-09-07,The vehicle was speeding excessively.,active,99,429,143,429
+430,Illegal parking,2019-02-21,I saw the driver run a red light.,closed,45,430,180,430
+431,Driving under the influence,2019-04-24,The vehicle was speeding excessively.,active,1,431,23,431
+432,Illegal parking,2016-05-29,The vehicle was speeding excessively.,active,97,432,219,432
+433,Driving under the influence,2020-12-08,The vehicle was speeding excessively.,active,55,433,375,433
+434,Speeding,2023-01-04,I saw the driver run a red light.,closed,27,434,257,434
+435,Running a red light,2019-04-17,The driver was using their phone while driving.,active,63,435,286,435
+436,Speeding,2015-09-02,I saw the driver run a red light.,active,94,436,90,436
+437,Running a red light,2022-02-24,The vehicle was speeding excessively.,closed,89,437,87,437
+438,Speeding,2020-11-20,The driver was using their phone while driving.,closed,84,438,216,438
+439,Driving under the influence,2020-09-07,I witnessed the driver change lanes without signaling.,closed,85,439,320,439
+440,Reckless driving,2019-08-19,I saw the driver run a red light.,closed,68,440,101,440
+441,Driving under the influence,2015-06-13,I saw the driver run a red light.,closed,36,441,337,441
+442,Running a red light,2023-06-29,I witnessed the driver change lanes without signaling.,active,34,442,250,442
+443,Driving under the influence,2023-11-08,The vehicle was parked in a no-parking zone.,closed,47,443,184,443
+444,Running a red light,2023-01-17,The vehicle was parked in a no-parking zone.,closed,64,444,378,444
+445,Driving under the influence,2022-11-03,The vehicle was parked in a no-parking zone.,active,59,445,108,445
+446,Speeding,2017-07-08,The vehicle was speeding excessively.,closed,49,446,291,446
+447,Driving under the influence,2022-11-01,The driver was using their phone while driving.,active,37,447,363,447
+448,Illegal parking,2021-01-30,I witnessed the driver change lanes without signaling.,active,3,448,216,448
+449,Running a red light,2016-11-06,The driver was using their phone while driving.,closed,30,449,386,449
+450,Driving under the influence,2015-08-02,I saw the driver run a red light.,closed,95,450,288,450
+451,Speeding,2022-08-05,The driver was using their phone while driving.,closed,15,451,142,451
+452,Illegal parking,2015-07-16,The vehicle was parked in a no-parking zone.,active,26,452,291,452
+453,Speeding,2015-08-09,The vehicle was parked in a no-parking zone.,closed,43,453,322,453
+454,Reckless driving,2021-08-21,The driver was using their phone while driving.,closed,71,454,337,454
+455,Reckless driving,2016-03-23,The driver was using their phone while driving.,active,27,455,254,455
+456,Reckless driving,2020-03-07,I saw the driver run a red light.,closed,95,456,236,456
+457,Reckless driving,2016-01-07,The vehicle was parked in a no-parking zone.,active,66,457,122,457
+458,Illegal parking,2021-01-16,I saw the driver run a red light.,closed,11,458,13,458
+459,Running a red light,2022-12-01,The driver was using their phone while driving.,closed,19,459,20,459
+460,Running a red light,2021-06-11,The vehicle was speeding excessively.,active,24,460,259,460
+461,Reckless driving,2022-05-09,The vehicle was parked in a no-parking zone.,closed,15,461,5,461
+462,Running a red light,2016-03-31,The vehicle was parked in a no-parking zone.,active,86,462,366,462
+463,Reckless driving,2017-11-29,I saw the driver run a red light.,closed,44,463,7,463
+464,Driving under the influence,2016-02-15,The vehicle was speeding excessively.,active,80,464,357,464
+465,Illegal parking,2019-01-17,The vehicle was speeding excessively.,active,86,465,288,465
+466,Driving under the influence,2019-05-08,I saw the driver run a red light.,closed,37,466,135,466
+467,Reckless driving,2019-09-14,I witnessed the driver change lanes without signaling.,active,42,467,92,467
+468,Illegal parking,2018-11-12,The vehicle was parked in a no-parking zone.,active,98,468,353,468
+469,Speeding,2017-08-20,The vehicle was speeding excessively.,closed,50,469,380,469
+470,Running a red light,2019-03-14,The vehicle was speeding excessively.,active,95,470,155,470
+471,Illegal parking,2022-05-31,The driver was using their phone while driving.,active,27,471,212,471
+472,Running a red light,2019-06-08,I saw the driver run a red light.,active,29,472,131,472
+473,Reckless driving,2016-02-17,The vehicle was parked in a no-parking zone.,closed,19,473,49,473
+474,Reckless driving,2018-07-19,I witnessed the driver change lanes without signaling.,active,88,474,199,474
+475,Reckless driving,2023-10-16,The driver was using their phone while driving.,active,18,475,146,475
+476,Running a red light,2015-11-30,I witnessed the driver change lanes without signaling.,closed,19,476,128,476
+477,Driving under the influence,2017-06-15,I witnessed the driver change lanes without signaling.,active,56,477,94,477
+478,Speeding,2015-10-04,I saw the driver run a red light.,active,36,478,64,478
+479,Speeding,2022-01-26,I witnessed the driver change lanes without signaling.,active,16,479,225,479
+480,Reckless driving,2018-05-18,I saw the driver run a red light.,closed,84,480,13,480
+481,Running a red light,2018-12-12,The vehicle was speeding excessively.,closed,36,481,243,481
+482,Reckless driving,2015-09-22,I saw the driver run a red light.,active,48,482,392,482
+483,Illegal parking,2021-06-12,I saw the driver run a red light.,active,89,483,349,483
+484,Speeding,2020-01-04,I witnessed the driver change lanes without signaling.,closed,76,484,230,484
+485,Running a red light,2016-01-09,The vehicle was speeding excessively.,active,28,485,356,485
+486,Speeding,2023-01-09,The vehicle was parked in a no-parking zone.,active,30,486,188,486
+487,Speeding,2021-01-04,The vehicle was parked in a no-parking zone.,active,38,487,281,487
+488,Reckless driving,2019-06-30,I saw the driver run a red light.,closed,89,488,199,488
+489,Reckless driving,2020-08-01,I saw the driver run a red light.,closed,46,489,302,489
+490,Running a red light,2021-06-22,I saw the driver run a red light.,active,38,490,72,490
+491,Illegal parking,2016-10-27,I witnessed the driver change lanes without signaling.,active,26,491,77,491
+492,Illegal parking,2020-01-18,The vehicle was parked in a no-parking zone.,closed,50,492,327,492
+493,Running a red light,2023-10-25,I witnessed the driver change lanes without signaling.,active,36,493,90,493
+494,Running a red light,2023-12-05,The driver was using their phone while driving.,closed,95,494,299,494
+495,Illegal parking,2019-09-15,The vehicle was speeding excessively.,closed,100,495,192,495
+496,Speeding,2017-03-22,I witnessed the driver change lanes without signaling.,closed,7,496,129,496
+497,Driving under the influence,2017-09-18,The vehicle was parked in a no-parking zone.,closed,32,497,355,497
+498,Running a red light,2018-04-26,I witnessed the driver change lanes without signaling.,closed,79,498,103,498
+499,Running a red light,2018-10-28,The vehicle was parked in a no-parking zone.,active,58,499,73,499
+500,Speeding,2017-08-23,The vehicle was parked in a no-parking zone.,active,13,500,171,500
+501,Driving under the influence,2021-03-18,The vehicle was parked in a no-parking zone.,closed,92,501,167,501
+502,Speeding,2019-05-02,The vehicle was speeding excessively.,active,66,502,393,502
+503,Reckless driving,2015-07-13,The vehicle was parked in a no-parking zone.,active,3,503,84,503
+504,Driving under the influence,2022-10-14,The driver was using their phone while driving.,closed,59,504,135,504
+505,Running a red light,2021-06-04,The driver was using their phone while driving.,closed,19,505,233,505
+506,Driving under the influence,2023-07-15,I witnessed the driver change lanes without signaling.,closed,47,506,112,506
+507,Reckless driving,2018-04-18,The driver was using their phone while driving.,active,94,507,84,507
+508,Reckless driving,2022-10-17,I saw the driver run a red light.,closed,25,508,132,508
+509,Running a red light,2023-10-16,The vehicle was parked in a no-parking zone.,closed,17,509,344,509
+510,Reckless driving,2017-10-10,The vehicle was speeding excessively.,closed,90,510,173,510
+511,Speeding,2016-02-02,The vehicle was parked in a no-parking zone.,active,93,511,19,511
+512,Reckless driving,2020-08-26,The driver was using their phone while driving.,closed,73,512,310,512
+513,Driving under the influence,2019-03-29,I saw the driver run a red light.,closed,28,513,398,513
+514,Illegal parking,2017-07-21,The vehicle was parked in a no-parking zone.,closed,22,514,3,514
+515,Speeding,2022-04-06,I witnessed the driver change lanes without signaling.,active,66,515,264,515
+516,Reckless driving,2019-06-28,The vehicle was parked in a no-parking zone.,closed,93,516,231,516
+517,Reckless driving,2022-09-18,The driver was using their phone while driving.,closed,45,517,373,517
+518,Running a red light,2021-09-18,I saw the driver run a red light.,active,93,518,40,518
+519,Running a red light,2023-04-20,I saw the driver run a red light.,closed,49,519,271,519
+520,Illegal parking,2019-06-06,I witnessed the driver change lanes without signaling.,closed,19,520,42,520
+521,Running a red light,2017-12-05,The driver was using their phone while driving.,active,54,521,104,521
+522,Speeding,2018-02-11,The driver was using their phone while driving.,closed,90,522,202,522
+523,Illegal parking,2016-08-08,The driver was using their phone while driving.,active,81,523,12,523
+524,Speeding,2017-05-23,The vehicle was parked in a no-parking zone.,active,28,524,87,524
+525,Illegal parking,2016-07-17,The vehicle was parked in a no-parking zone.,active,95,525,146,525
+526,Driving under the influence,2017-07-31,I witnessed the driver change lanes without signaling.,closed,64,526,301,526
+527,Running a red light,2017-11-22,The driver was using their phone while driving.,active,88,527,368,527
+528,Illegal parking,2017-01-23,I saw the driver run a red light.,active,61,528,249,528
+529,Running a red light,2017-01-28,I saw the driver run a red light.,closed,90,529,34,529
+530,Illegal parking,2015-08-09,The vehicle was parked in a no-parking zone.,active,2,530,238,530
+531,Illegal parking,2023-02-15,I witnessed the driver change lanes without signaling.,closed,59,531,334,531
+532,Illegal parking,2017-07-22,The vehicle was parked in a no-parking zone.,closed,16,532,219,532
+533,Reckless driving,2021-04-14,I witnessed the driver change lanes without signaling.,closed,79,533,249,533
+534,Reckless driving,2016-12-03,The vehicle was parked in a no-parking zone.,closed,48,534,123,534
+535,Speeding,2022-08-05,The vehicle was speeding excessively.,active,10,535,104,535
+536,Driving under the influence,2022-08-30,The vehicle was parked in a no-parking zone.,active,45,536,239,536
+537,Running a red light,2020-03-28,The vehicle was parked in a no-parking zone.,active,88,537,100,537
+538,Illegal parking,2023-09-21,The driver was using their phone while driving.,active,69,538,338,538
+539,Running a red light,2019-08-31,I saw the driver run a red light.,active,35,539,62,539
+540,Running a red light,2016-09-03,I saw the driver run a red light.,closed,58,540,115,540
+541,Reckless driving,2015-12-06,I witnessed the driver change lanes without signaling.,closed,27,541,194,541
+542,Speeding,2023-02-08,The driver was using their phone while driving.,active,22,542,10,542
+543,Driving under the influence,2017-04-26,The vehicle was parked in a no-parking zone.,active,30,543,108,543
+544,Running a red light,2021-07-16,I witnessed the driver change lanes without signaling.,active,75,544,358,544
+545,Speeding,2020-08-05,The vehicle was speeding excessively.,closed,44,545,371,545
+546,Speeding,2018-07-20,The vehicle was speeding excessively.,active,35,546,228,546
+547,Running a red light,2021-08-23,I witnessed the driver change lanes without signaling.,closed,62,547,192,547
+548,Running a red light,2017-06-20,The vehicle was speeding excessively.,active,87,548,109,548
+549,Illegal parking,2019-05-29,The vehicle was parked in a no-parking zone.,active,73,549,162,549
+550,Reckless driving,2023-07-14,The driver was using their phone while driving.,closed,43,550,83,550
+551,Illegal parking,2022-02-10,I witnessed the driver change lanes without signaling.,closed,56,551,99,551
+552,Illegal parking,2016-01-05,The vehicle was parked in a no-parking zone.,closed,5,552,7,552
+553,Speeding,2021-03-21,The vehicle was parked in a no-parking zone.,active,78,553,117,553
+554,Reckless driving,2019-08-09,The vehicle was parked in a no-parking zone.,closed,50,554,62,554
+555,Illegal parking,2019-03-03,The vehicle was speeding excessively.,active,72,555,7,555
+556,Illegal parking,2021-08-22,The vehicle was parked in a no-parking zone.,active,85,556,78,556
+557,Illegal parking,2022-09-18,The driver was using their phone while driving.,active,95,557,145,557
+558,Illegal parking,2018-05-07,The vehicle was speeding excessively.,closed,97,558,133,558
+559,Running a red light,2018-01-06,I witnessed the driver change lanes without signaling.,closed,44,559,119,559
+560,Illegal parking,2015-07-20,I saw the driver run a red light.,active,20,560,164,560
+561,Running a red light,2023-10-20,I saw the driver run a red light.,closed,55,561,235,561
+562,Driving under the influence,2018-08-11,The vehicle was parked in a no-parking zone.,active,85,562,8,562
+563,Illegal parking,2023-07-19,The vehicle was parked in a no-parking zone.,active,27,563,297,563
+564,Illegal parking,2018-07-15,I saw the driver run a red light.,active,87,564,94,564
+565,Speeding,2017-02-09,The vehicle was speeding excessively.,closed,68,565,170,565
+566,Illegal parking,2015-08-29,The driver was using their phone while driving.,closed,68,566,254,566
+567,Speeding,2019-03-05,I witnessed the driver change lanes without signaling.,closed,74,567,353,567
+568,Illegal parking,2019-11-04,The vehicle was speeding excessively.,closed,78,568,290,568
+569,Reckless driving,2023-01-17,I saw the driver run a red light.,closed,63,569,218,569
+570,Running a red light,2016-10-22,The vehicle was speeding excessively.,active,88,570,121,570
+571,Reckless driving,2016-04-07,I saw the driver run a red light.,closed,30,571,191,571
+572,Illegal parking,2023-05-20,The driver was using their phone while driving.,active,45,572,16,572
+573,Reckless driving,2019-02-12,I saw the driver run a red light.,active,40,573,282,573
+574,Reckless driving,2018-07-13,The vehicle was speeding excessively.,closed,60,574,311,574
+575,Reckless driving,2018-08-01,The vehicle was parked in a no-parking zone.,active,76,575,161,575
+576,Running a red light,2018-10-18,The driver was using their phone while driving.,closed,44,576,240,576
+577,Running a red light,2017-05-12,I saw the driver run a red light.,closed,36,577,373,577
+578,Driving under the influence,2016-12-28,The vehicle was speeding excessively.,active,60,578,288,578
+579,Illegal parking,2019-12-06,I saw the driver run a red light.,active,70,579,367,579
+580,Reckless driving,2022-04-15,I witnessed the driver change lanes without signaling.,active,76,580,289,580
+581,Illegal parking,2021-06-04,The vehicle was speeding excessively.,active,78,581,6,581
+582,Running a red light,2016-12-22,The vehicle was parked in a no-parking zone.,closed,49,582,311,582
+583,Speeding,2017-05-02,I saw the driver run a red light.,closed,58,583,292,583
+584,Reckless driving,2021-12-25,The vehicle was parked in a no-parking zone.,closed,51,584,397,584
+585,Running a red light,2019-02-14,I saw the driver run a red light.,closed,15,585,276,585
+586,Reckless driving,2021-10-07,The driver was using their phone while driving.,active,99,586,130,586
+587,Speeding,2016-06-29,The vehicle was speeding excessively.,active,18,587,273,587
+588,Driving under the influence,2017-04-11,I witnessed the driver change lanes without signaling.,active,59,588,300,588
+589,Speeding,2023-09-15,The driver was using their phone while driving.,active,13,589,125,589
+590,Reckless driving,2018-12-05,I saw the driver run a red light.,closed,100,590,387,590
+591,Driving under the influence,2016-06-21,I witnessed the driver change lanes without signaling.,active,40,591,126,591
+592,Reckless driving,2017-01-13,I saw the driver run a red light.,active,77,592,74,592
+593,Running a red light,2022-05-12,The vehicle was parked in a no-parking zone.,closed,84,593,25,593
+594,Reckless driving,2022-09-08,The driver was using their phone while driving.,active,60,594,81,594
+595,Speeding,2015-11-26,I witnessed the driver change lanes without signaling.,closed,19,595,175,595
+596,Running a red light,2023-08-16,The vehicle was parked in a no-parking zone.,closed,32,596,142,596
+597,Illegal parking,2018-07-14,I witnessed the driver change lanes without signaling.,closed,34,597,331,597
+598,Illegal parking,2022-07-06,I saw the driver run a red light.,active,6,598,115,598
+599,Running a red light,2017-02-22,The driver was using their phone while driving.,closed,25,599,276,599
+600,Driving under the influence,2016-12-22,The driver was using their phone while driving.,active,69,600,311,600
+601,Running a red light,2020-02-07,I saw the driver run a red light.,active,93,601,339,601
+602,Illegal parking,2023-10-14,The vehicle was parked in a no-parking zone.,active,100,602,268,602
+603,Driving under the influence,2019-11-16,The driver was using their phone while driving.,closed,53,603,36,603
+604,Driving under the influence,2022-05-29,The driver was using their phone while driving.,closed,100,604,145,604
+605,Running a red light,2018-05-26,I saw the driver run a red light.,active,80,605,49,605
+606,Driving under the influence,2018-04-12,I saw the driver run a red light.,closed,73,606,112,606
+607,Illegal parking,2018-08-26,The driver was using their phone while driving.,closed,43,607,78,607
+608,Driving under the influence,2021-03-28,I witnessed the driver change lanes without signaling.,active,51,608,328,608
+609,Driving under the influence,2020-05-02,The vehicle was parked in a no-parking zone.,active,64,609,284,609
+610,Speeding,2016-12-11,The driver was using their phone while driving.,active,49,610,44,610
+611,Running a red light,2016-06-26,The vehicle was parked in a no-parking zone.,active,51,611,394,611
+612,Speeding,2018-12-14,The vehicle was speeding excessively.,closed,63,612,47,612
+613,Illegal parking,2021-09-10,The vehicle was speeding excessively.,closed,60,613,133,613
+614,Illegal parking,2016-03-08,The vehicle was speeding excessively.,active,71,614,385,614
+615,Speeding,2019-08-21,I saw the driver run a red light.,closed,23,615,135,615
+616,Reckless driving,2019-03-05,I saw the driver run a red light.,closed,17,616,102,616
+617,Running a red light,2020-06-12,I saw the driver run a red light.,closed,57,617,302,617
+618,Speeding,2020-04-01,The vehicle was speeding excessively.,active,28,618,374,618
+619,Driving under the influence,2021-05-07,The driver was using their phone while driving.,active,75,619,312,619
+620,Driving under the influence,2018-07-24,The vehicle was speeding excessively.,active,73,620,358,620
+621,Speeding,2018-01-28,The driver was using their phone while driving.,active,22,621,113,621
+622,Driving under the influence,2020-08-28,I saw the driver run a red light.,closed,78,622,20,622
+623,Reckless driving,2021-07-28,The vehicle was speeding excessively.,closed,67,623,38,623
+624,Speeding,2021-10-22,The vehicle was parked in a no-parking zone.,closed,82,624,311,624
+625,Running a red light,2020-02-29,The driver was using their phone while driving.,closed,35,625,358,625
+626,Reckless driving,2020-02-05,The vehicle was parked in a no-parking zone.,active,19,626,9,626
+627,Running a red light,2017-02-15,The driver was using their phone while driving.,active,21,627,155,627
+628,Speeding,2019-07-28,The vehicle was parked in a no-parking zone.,active,45,628,56,628
+629,Illegal parking,2015-11-28,The vehicle was parked in a no-parking zone.,closed,60,629,226,629
+630,Speeding,2018-10-29,I witnessed the driver change lanes without signaling.,closed,79,630,110,630
+631,Illegal parking,2023-11-10,I saw the driver run a red light.,closed,58,631,330,631
+632,Reckless driving,2018-07-24,The driver was using their phone while driving.,closed,60,632,396,632
+633,Speeding,2018-08-06,The vehicle was speeding excessively.,closed,32,633,293,633
+634,Speeding,2016-10-15,The vehicle was parked in a no-parking zone.,closed,12,634,31,634
+635,Illegal parking,2020-11-01,The vehicle was speeding excessively.,active,94,635,181,635
+636,Reckless driving,2022-07-14,The vehicle was speeding excessively.,closed,44,636,269,636
+637,Driving under the influence,2017-01-05,The vehicle was speeding excessively.,active,67,637,108,637
+638,Driving under the influence,2020-10-24,I witnessed the driver change lanes without signaling.,active,55,638,348,638
+639,Reckless driving,2016-11-21,The driver was using their phone while driving.,active,83,639,358,639
+640,Speeding,2016-06-11,The vehicle was speeding excessively.,closed,45,640,51,640
+641,Reckless driving,2017-04-30,I witnessed the driver change lanes without signaling.,active,70,641,281,641
+642,Illegal parking,2019-12-27,The vehicle was speeding excessively.,closed,95,642,20,642
+643,Illegal parking,2019-02-27,The driver was using their phone while driving.,active,17,643,357,643
+644,Illegal parking,2021-12-11,I witnessed the driver change lanes without signaling.,closed,32,644,194,644
+645,Illegal parking,2016-07-09,I witnessed the driver change lanes without signaling.,active,97,645,322,645
+646,Illegal parking,2018-02-20,The vehicle was parked in a no-parking zone.,active,1,646,155,646
+647,Running a red light,2021-05-02,I witnessed the driver change lanes without signaling.,active,32,647,304,647
+648,Speeding,2020-07-02,The vehicle was speeding excessively.,closed,54,648,258,648
+649,Driving under the influence,2020-01-03,I witnessed the driver change lanes without signaling.,closed,10,649,152,649
+650,Speeding,2022-04-05,The driver was using their phone while driving.,active,51,650,53,650
+651,Speeding,2023-02-13,The vehicle was parked in a no-parking zone.,active,14,651,31,651
+652,Illegal parking,2018-05-29,The driver was using their phone while driving.,active,30,652,79,652
+653,Reckless driving,2018-02-28,The driver was using their phone while driving.,closed,83,653,243,653
+654,Speeding,2017-07-15,The vehicle was speeding excessively.,closed,25,654,347,654
+655,Speeding,2019-12-14,I witnessed the driver change lanes without signaling.,closed,53,655,279,655
+656,Running a red light,2023-08-16,I witnessed the driver change lanes without signaling.,active,16,656,185,656
+657,Running a red light,2020-08-25,The vehicle was parked in a no-parking zone.,closed,63,657,97,657
+658,Driving under the influence,2023-10-12,I saw the driver run a red light.,active,81,658,32,658
+659,Reckless driving,2021-03-06,The vehicle was speeding excessively.,closed,47,659,142,659
+660,Reckless driving,2021-11-02,The vehicle was parked in a no-parking zone.,active,30,660,168,660
+661,Reckless driving,2016-01-23,The driver was using their phone while driving.,active,12,661,92,661
+662,Reckless driving,2019-09-21,The vehicle was parked in a no-parking zone.,closed,48,662,204,662
+663,Driving under the influence,2019-01-08,The vehicle was speeding excessively.,active,53,663,20,663
+664,Driving under the influence,2021-03-13,I saw the driver run a red light.,closed,4,664,267,664
+665,Speeding,2018-10-10,The driver was using their phone while driving.,active,57,665,40,665
+666,Running a red light,2023-10-20,The vehicle was speeding excessively.,closed,39,666,286,666
+667,Reckless driving,2016-04-20,I witnessed the driver change lanes without signaling.,closed,94,667,345,667
+668,Illegal parking,2020-11-17,I saw the driver run a red light.,active,84,668,36,668
+669,Reckless driving,2021-05-15,I witnessed the driver change lanes without signaling.,closed,75,669,363,669
+670,Running a red light,2015-06-11,The vehicle was speeding excessively.,closed,25,670,327,670
+671,Illegal parking,2020-12-30,The vehicle was parked in a no-parking zone.,closed,57,671,295,671
+672,Illegal parking,2016-06-09,The vehicle was speeding excessively.,closed,70,672,2,672
+673,Speeding,2019-10-28,I saw the driver run a red light.,active,33,673,388,673
+674,Illegal parking,2018-11-26,The driver was using their phone while driving.,closed,27,674,303,674
+675,Illegal parking,2016-12-16,The vehicle was parked in a no-parking zone.,closed,7,675,205,675
+676,Running a red light,2023-05-04,I saw the driver run a red light.,active,60,676,285,676
+677,Speeding,2016-11-10,I witnessed the driver change lanes without signaling.,active,75,677,155,677
+678,Running a red light,2016-11-14,The vehicle was parked in a no-parking zone.,active,83,678,215,678
+679,Speeding,2022-07-29,The driver was using their phone while driving.,active,26,679,67,679
+680,Speeding,2016-06-27,I witnessed the driver change lanes without signaling.,active,94,680,174,680
+681,Illegal parking,2019-01-09,The vehicle was parked in a no-parking zone.,active,100,681,314,681
+682,Running a red light,2022-01-30,I witnessed the driver change lanes without signaling.,active,93,682,303,682
+683,Running a red light,2019-09-13,The vehicle was speeding excessively.,active,2,683,42,683
+684,Illegal parking,2018-05-22,The driver was using their phone while driving.,closed,78,684,152,684
+685,Running a red light,2022-01-08,The vehicle was speeding excessively.,active,19,685,255,685
+686,Driving under the influence,2021-06-22,The driver was using their phone while driving.,closed,45,686,255,686
+687,Driving under the influence,2017-04-06,I witnessed the driver change lanes without signaling.,closed,45,687,189,687
+688,Driving under the influence,2019-04-09,I witnessed the driver change lanes without signaling.,closed,78,688,181,688
+689,Reckless driving,2018-06-08,The vehicle was parked in a no-parking zone.,closed,28,689,350,689
+690,Illegal parking,2023-07-20,The driver was using their phone while driving.,active,79,690,212,690
+691,Driving under the influence,2020-03-04,I witnessed the driver change lanes without signaling.,closed,67,691,172,691
+692,Speeding,2017-11-02,The vehicle was speeding excessively.,closed,32,692,192,692
+693,Driving under the influence,2017-01-09,The vehicle was speeding excessively.,active,53,693,375,693
+694,Illegal parking,2023-08-16,I saw the driver run a red light.,active,53,694,123,694
+695,Illegal parking,2022-06-21,The vehicle was speeding excessively.,active,62,695,227,695
+696,Speeding,2017-05-15,I witnessed the driver change lanes without signaling.,closed,83,696,167,696
+697,Driving under the influence,2017-08-21,I witnessed the driver change lanes without signaling.,active,93,697,216,697
+698,Speeding,2019-10-10,The vehicle was speeding excessively.,active,82,698,164,698
+699,Driving under the influence,2015-11-30,The vehicle was parked in a no-parking zone.,closed,68,699,345,699
+700,Illegal parking,2021-04-07,I witnessed the driver change lanes without signaling.,active,6,700,354,700
+701,Illegal parking,2018-03-11,The vehicle was speeding excessively.,closed,6,701,63,701
+702,Speeding,2019-09-11,I witnessed the driver change lanes without signaling.,closed,18,702,139,702
+703,Reckless driving,2022-10-28,The vehicle was parked in a no-parking zone.,closed,2,703,241,703
+704,Driving under the influence,2020-05-01,The vehicle was parked in a no-parking zone.,active,14,704,379,704
+705,Illegal parking,2020-03-03,The vehicle was parked in a no-parking zone.,active,28,705,51,705
+706,Reckless driving,2023-04-25,The vehicle was parked in a no-parking zone.,active,52,706,122,706
+707,Reckless driving,2023-02-10,I saw the driver run a red light.,active,57,707,339,707
+708,Speeding,2018-07-05,I witnessed the driver change lanes without signaling.,closed,59,708,205,708
+709,Speeding,2022-06-14,The vehicle was speeding excessively.,active,25,709,168,709
+710,Speeding,2022-02-22,I witnessed the driver change lanes without signaling.,closed,61,710,370,710
+711,Illegal parking,2020-09-16,The vehicle was speeding excessively.,closed,67,711,231,711
+712,Reckless driving,2017-08-21,The vehicle was parked in a no-parking zone.,active,46,712,284,712
+713,Running a red light,2019-01-13,I saw the driver run a red light.,active,34,713,333,713
+714,Driving under the influence,2016-10-04,The vehicle was parked in a no-parking zone.,active,24,714,20,714
+715,Running a red light,2019-08-17,I saw the driver run a red light.,active,88,715,288,715
+716,Reckless driving,2019-09-04,I saw the driver run a red light.,active,25,716,252,716
+717,Illegal parking,2018-09-02,The driver was using their phone while driving.,closed,76,717,84,717
+718,Driving under the influence,2022-03-09,I saw the driver run a red light.,closed,37,718,90,718
+719,Driving under the influence,2023-07-25,I witnessed the driver change lanes without signaling.,closed,68,719,287,719
+720,Illegal parking,2019-09-15,I witnessed the driver change lanes without signaling.,closed,10,720,289,720
+721,Reckless driving,2023-05-15,I witnessed the driver change lanes without signaling.,active,26,721,245,721
+722,Speeding,2020-03-11,The vehicle was parked in a no-parking zone.,closed,94,722,268,722
+723,Speeding,2018-10-08,The vehicle was parked in a no-parking zone.,active,97,723,90,723
+724,Illegal parking,2023-05-17,I saw the driver run a red light.,closed,94,724,293,724
+725,Speeding,2022-06-15,I witnessed the driver change lanes without signaling.,active,6,725,328,725
+726,Driving under the influence,2018-10-15,The vehicle was parked in a no-parking zone.,active,89,726,174,726
+727,Running a red light,2023-04-16,The driver was using their phone while driving.,active,84,727,211,727
+728,Running a red light,2019-08-26,I witnessed the driver change lanes without signaling.,closed,6,728,14,728
+729,Running a red light,2020-11-17,I saw the driver run a red light.,active,75,729,372,729
+730,Illegal parking,2020-07-02,I saw the driver run a red light.,closed,11,730,120,730
+731,Speeding,2021-04-21,The vehicle was parked in a no-parking zone.,active,6,731,271,731
+732,Running a red light,2021-03-10,I saw the driver run a red light.,closed,7,732,53,732
+733,Running a red light,2020-11-25,I witnessed the driver change lanes without signaling.,active,34,733,72,733
+734,Illegal parking,2016-06-27,The driver was using their phone while driving.,active,20,734,343,734
+735,Speeding,2017-01-03,I saw the driver run a red light.,active,27,735,355,735
+736,Illegal parking,2017-09-03,The driver was using their phone while driving.,closed,70,736,155,736
+737,Speeding,2015-10-08,The vehicle was speeding excessively.,active,31,737,290,737
+738,Illegal parking,2021-12-30,I saw the driver run a red light.,active,15,738,119,738
+739,Illegal parking,2022-04-01,The driver was using their phone while driving.,closed,56,739,274,739
+740,Driving under the influence,2017-10-25,I saw the driver run a red light.,active,2,740,390,740
+741,Running a red light,2016-07-22,The vehicle was speeding excessively.,active,41,741,235,741
+742,Reckless driving,2022-05-27,The vehicle was speeding excessively.,active,67,742,331,742
+743,Reckless driving,2016-01-25,I saw the driver run a red light.,closed,64,743,305,743
+744,Reckless driving,2017-12-24,The vehicle was speeding excessively.,closed,33,744,153,744
+745,Speeding,2020-06-01,The vehicle was speeding excessively.,active,27,745,113,745
+746,Speeding,2016-07-19,The vehicle was speeding excessively.,active,71,746,132,746
+747,Reckless driving,2018-06-04,The vehicle was parked in a no-parking zone.,active,87,747,9,747
+748,Reckless driving,2019-02-17,The driver was using their phone while driving.,closed,36,748,41,748
+749,Speeding,2018-02-07,The vehicle was parked in a no-parking zone.,active,23,749,241,749
+750,Running a red light,2015-06-22,I witnessed the driver change lanes without signaling.,active,52,750,380,750
+751,Reckless driving,2022-06-03,I saw the driver run a red light.,active,55,751,317,751
+752,Illegal parking,2017-07-22,The vehicle was speeding excessively.,closed,70,752,328,752
+753,Speeding,2019-04-29,The vehicle was speeding excessively.,active,29,753,4,753
+754,Running a red light,2021-08-03,I saw the driver run a red light.,active,38,754,13,754
+755,Running a red light,2020-06-24,I saw the driver run a red light.,closed,16,755,257,755
+756,Running a red light,2018-04-04,The vehicle was speeding excessively.,active,69,756,182,756
+757,Speeding,2018-08-18,I witnessed the driver change lanes without signaling.,active,20,757,75,757
+758,Reckless driving,2023-04-15,I saw the driver run a red light.,active,4,758,175,758
+759,Speeding,2018-08-30,I saw the driver run a red light.,closed,95,759,340,759
+760,Reckless driving,2022-10-24,I saw the driver run a red light.,active,15,760,112,760
+761,Speeding,2019-05-18,The vehicle was parked in a no-parking zone.,closed,26,761,345,761
+762,Reckless driving,2022-08-05,I witnessed the driver change lanes without signaling.,closed,62,762,253,762
+763,Illegal parking,2023-09-22,I saw the driver run a red light.,closed,28,763,230,763
+764,Illegal parking,2021-02-20,The vehicle was parked in a no-parking zone.,active,44,764,58,764
+765,Driving under the influence,2023-01-26,I witnessed the driver change lanes without signaling.,active,3,765,199,765
+766,Driving under the influence,2018-06-25,The vehicle was speeding excessively.,active,37,766,237,766
+767,Driving under the influence,2023-10-07,The vehicle was parked in a no-parking zone.,active,73,767,219,767
+768,Illegal parking,2022-12-24,I saw the driver run a red light.,closed,85,768,113,768
+769,Reckless driving,2021-02-27,The vehicle was parked in a no-parking zone.,closed,52,769,213,769
+770,Speeding,2018-12-09,I witnessed the driver change lanes without signaling.,closed,90,770,325,770
+771,Speeding,2017-03-21,I saw the driver run a red light.,closed,60,771,352,771
+772,Speeding,2022-12-17,I saw the driver run a red light.,active,56,772,137,772
+773,Speeding,2015-11-04,I saw the driver run a red light.,closed,1,773,164,773
+774,Running a red light,2023-10-30,The driver was using their phone while driving.,active,54,774,241,774
+775,Illegal parking,2023-06-19,The vehicle was parked in a no-parking zone.,closed,39,775,318,775
+776,Driving under the influence,2017-11-11,I witnessed the driver change lanes without signaling.,closed,42,776,280,776
+777,Speeding,2022-07-25,I witnessed the driver change lanes without signaling.,active,3,777,97,777
+778,Running a red light,2016-02-11,I witnessed the driver change lanes without signaling.,active,23,778,267,778
+779,Driving under the influence,2015-10-26,The vehicle was parked in a no-parking zone.,closed,10,779,247,779
+780,Running a red light,2022-06-01,The driver was using their phone while driving.,closed,76,780,313,780
+781,Running a red light,2016-12-02,I witnessed the driver change lanes without signaling.,closed,23,781,219,781
+782,Driving under the influence,2017-09-10,I witnessed the driver change lanes without signaling.,closed,38,782,90,782
+783,Driving under the influence,2022-11-20,I witnessed the driver change lanes without signaling.,active,39,783,189,783
+784,Running a red light,2017-08-27,I saw the driver run a red light.,closed,11,784,222,784
+785,Driving under the influence,2023-02-01,The vehicle was parked in a no-parking zone.,active,42,785,374,785
+786,Driving under the influence,2016-07-31,I witnessed the driver change lanes without signaling.,closed,24,786,177,786
+787,Reckless driving,2015-08-03,The vehicle was speeding excessively.,active,65,787,349,787
+788,Speeding,2016-10-04,The vehicle was parked in a no-parking zone.,closed,14,788,201,788
+789,Running a red light,2017-10-13,I saw the driver run a red light.,closed,51,789,113,789
+790,Running a red light,2023-06-29,The vehicle was speeding excessively.,active,11,790,242,790
+791,Running a red light,2022-05-24,I saw the driver run a red light.,active,4,791,71,791
+792,Reckless driving,2016-09-12,The vehicle was parked in a no-parking zone.,closed,70,792,179,792
+793,Speeding,2017-10-10,The vehicle was parked in a no-parking zone.,active,29,793,246,793
+794,Driving under the influence,2019-03-02,I witnessed the driver change lanes without signaling.,active,59,794,177,794
+795,Speeding,2017-03-14,The vehicle was speeding excessively.,closed,98,795,35,795
+796,Illegal parking,2023-10-27,The vehicle was speeding excessively.,active,80,796,121,796
+797,Illegal parking,2019-11-29,The driver was using their phone while driving.,active,47,797,112,797
+798,Driving under the influence,2022-01-01,The vehicle was parked in a no-parking zone.,closed,9,798,320,798
+799,Speeding,2023-06-03,The driver was using their phone while driving.,closed,32,799,37,799
+800,Reckless driving,2020-08-28,The driver was using their phone while driving.,closed,54,800,336,800
+801,Speeding,2023-08-31,I witnessed the driver change lanes without signaling.,active,34,801,154,801
+802,Reckless driving,2023-02-08,The driver was using their phone while driving.,closed,16,802,61,802
+803,Running a red light,2023-11-10,The driver was using their phone while driving.,active,18,803,227,803
+804,Driving under the influence,2016-12-23,The vehicle was parked in a no-parking zone.,active,98,804,43,804
+805,Driving under the influence,2015-06-14,The driver was using their phone while driving.,active,49,805,318,805
+806,Speeding,2020-10-09,The vehicle was speeding excessively.,closed,94,806,93,806
+807,Illegal parking,2018-02-27,The driver was using their phone while driving.,closed,61,807,205,807
+808,Running a red light,2020-10-18,I saw the driver run a red light.,closed,8,808,114,808
+809,Speeding,2020-01-15,The vehicle was speeding excessively.,closed,63,809,64,809
+810,Speeding,2018-09-19,I saw the driver run a red light.,closed,17,810,306,810
+811,Reckless driving,2021-10-15,The vehicle was speeding excessively.,closed,30,811,67,811
+812,Driving under the influence,2017-08-22,The driver was using their phone while driving.,active,98,812,86,812
+813,Driving under the influence,2018-09-22,I saw the driver run a red light.,active,76,813,280,813
+814,Speeding,2021-03-15,I witnessed the driver change lanes without signaling.,active,83,814,352,814
+815,Reckless driving,2019-01-19,I saw the driver run a red light.,active,96,815,123,815
+816,Reckless driving,2019-02-24,I witnessed the driver change lanes without signaling.,active,21,816,243,816
+817,Running a red light,2019-09-11,I witnessed the driver change lanes without signaling.,closed,73,817,354,817
+818,Speeding,2020-11-01,The vehicle was speeding excessively.,active,11,818,100,818
+819,Speeding,2018-09-08,I witnessed the driver change lanes without signaling.,active,75,819,256,819
+820,Illegal parking,2018-08-09,I witnessed the driver change lanes without signaling.,active,34,820,219,820
+821,Reckless driving,2022-03-28,The driver was using their phone while driving.,closed,49,821,252,821
+822,Illegal parking,2020-11-17,The vehicle was parked in a no-parking zone.,closed,17,822,91,822
+823,Running a red light,2021-01-05,I witnessed the driver change lanes without signaling.,active,54,823,222,823
+824,Driving under the influence,2019-12-24,The driver was using their phone while driving.,active,42,824,62,824
+825,Reckless driving,2017-08-09,I saw the driver run a red light.,active,89,825,379,825
+826,Driving under the influence,2016-09-23,I witnessed the driver change lanes without signaling.,closed,6,826,33,826
+827,Illegal parking,2020-06-15,I saw the driver run a red light.,closed,34,827,86,827
+828,Illegal parking,2018-06-19,The driver was using their phone while driving.,closed,72,828,60,828
+829,Speeding,2023-09-15,I witnessed the driver change lanes without signaling.,active,50,829,150,829
+830,Reckless driving,2022-10-09,I witnessed the driver change lanes without signaling.,active,1,830,14,830
+831,Illegal parking,2018-10-25,The driver was using their phone while driving.,active,25,831,290,831
+832,Illegal parking,2018-07-31,The vehicle was speeding excessively.,closed,82,832,76,832
+833,Driving under the influence,2022-07-15,The driver was using their phone while driving.,active,9,833,78,833
+834,Speeding,2016-10-29,The driver was using their phone while driving.,active,67,834,25,834
+835,Driving under the influence,2021-01-30,I saw the driver run a red light.,active,65,835,394,835
+836,Running a red light,2020-12-18,The vehicle was speeding excessively.,closed,28,836,382,836
+837,Running a red light,2021-03-09,I witnessed the driver change lanes without signaling.,closed,39,837,40,837
+838,Driving under the influence,2023-05-29,I witnessed the driver change lanes without signaling.,active,63,838,253,838
+839,Illegal parking,2016-09-30,I saw the driver run a red light.,active,86,839,254,839
+840,Driving under the influence,2022-06-13,I witnessed the driver change lanes without signaling.,closed,91,840,310,840
+841,Driving under the influence,2023-11-09,The vehicle was parked in a no-parking zone.,active,31,841,82,841
+842,Reckless driving,2018-03-30,The vehicle was speeding excessively.,closed,5,842,370,842
+843,Running a red light,2023-09-04,I witnessed the driver change lanes without signaling.,closed,77,843,212,843
+844,Driving under the influence,2020-01-07,The vehicle was speeding excessively.,closed,91,844,235,844
+845,Reckless driving,2023-03-01,The vehicle was parked in a no-parking zone.,closed,92,845,62,845
+846,Running a red light,2016-05-28,The driver was using their phone while driving.,active,10,846,22,846
+847,Driving under the influence,2017-09-09,The vehicle was parked in a no-parking zone.,active,27,847,85,847
+848,Driving under the influence,2020-11-01,I witnessed the driver change lanes without signaling.,closed,72,848,7,848
+849,Driving under the influence,2016-04-02,I saw the driver run a red light.,closed,67,849,110,849
+850,Running a red light,2020-06-11,I saw the driver run a red light.,closed,26,850,304,850
+851,Reckless driving,2016-05-11,The vehicle was speeding excessively.,closed,40,851,222,851
+852,Driving under the influence,2023-11-18,The driver was using their phone while driving.,closed,93,852,345,852
+853,Reckless driving,2017-01-16,The vehicle was speeding excessively.,active,75,853,285,853
+854,Running a red light,2020-02-16,The vehicle was speeding excessively.,closed,32,854,374,854
+855,Speeding,2022-10-21,The vehicle was speeding excessively.,closed,23,855,273,855
+856,Speeding,2018-01-03,The vehicle was speeding excessively.,active,4,856,249,856
+857,Driving under the influence,2019-05-08,The vehicle was parked in a no-parking zone.,closed,72,857,342,857
+858,Illegal parking,2015-06-20,I witnessed the driver change lanes without signaling.,active,23,858,375,858
+859,Driving under the influence,2017-02-14,The vehicle was speeding excessively.,closed,53,859,48,859
+860,Illegal parking,2023-09-11,The vehicle was speeding excessively.,closed,74,860,397,860
+861,Reckless driving,2023-04-03,I witnessed the driver change lanes without signaling.,active,17,861,279,861
+862,Driving under the influence,2018-05-21,I saw the driver run a red light.,active,31,862,123,862
+863,Speeding,2016-09-16,The driver was using their phone while driving.,active,27,863,186,863
+864,Speeding,2020-06-26,The vehicle was parked in a no-parking zone.,active,96,864,392,864
+865,Running a red light,2017-03-16,I witnessed the driver change lanes without signaling.,closed,23,865,55,865
+866,Driving under the influence,2022-07-15,I saw the driver run a red light.,closed,78,866,210,866
+867,Illegal parking,2023-11-19,The vehicle was speeding excessively.,active,11,867,374,867
+868,Illegal parking,2019-12-28,I saw the driver run a red light.,closed,40,868,273,868
+869,Reckless driving,2016-06-15,The vehicle was speeding excessively.,closed,26,869,132,869
+870,Reckless driving,2023-11-24,The vehicle was speeding excessively.,active,83,870,275,870
+871,Driving under the influence,2016-08-01,I saw the driver run a red light.,closed,65,871,131,871
+872,Speeding,2017-04-17,I saw the driver run a red light.,closed,45,872,220,872
+873,Driving under the influence,2023-09-18,The driver was using their phone while driving.,active,91,873,159,873
+874,Running a red light,2018-01-15,The driver was using their phone while driving.,active,45,874,355,874
+875,Driving under the influence,2018-01-20,The driver was using their phone while driving.,active,28,875,43,875
+876,Illegal parking,2017-09-11,I saw the driver run a red light.,active,70,876,126,876
+877,Speeding,2018-03-05,The vehicle was parked in a no-parking zone.,active,16,877,281,877
+878,Speeding,2018-09-21,The driver was using their phone while driving.,closed,78,878,113,878
+879,Reckless driving,2022-08-20,The vehicle was parked in a no-parking zone.,active,31,879,297,879
+880,Illegal parking,2022-11-30,The vehicle was speeding excessively.,active,40,880,172,880
+881,Illegal parking,2020-10-25,I witnessed the driver change lanes without signaling.,closed,65,881,122,881
+882,Reckless driving,2019-06-30,The vehicle was parked in a no-parking zone.,active,47,882,6,882
+883,Speeding,2023-01-06,The vehicle was parked in a no-parking zone.,closed,32,883,79,883
+884,Illegal parking,2019-07-14,I witnessed the driver change lanes without signaling.,active,97,884,158,884
+885,Driving under the influence,2018-05-26,The vehicle was speeding excessively.,closed,58,885,188,885
+886,Reckless driving,2023-10-01,The driver was using their phone while driving.,active,18,886,368,886
+887,Speeding,2015-12-31,I witnessed the driver change lanes without signaling.,active,11,887,363,887
+888,Driving under the influence,2021-09-29,I saw the driver run a red light.,closed,87,888,55,888
+889,Speeding,2021-02-08,I witnessed the driver change lanes without signaling.,active,54,889,257,889
+890,Reckless driving,2017-01-21,The vehicle was speeding excessively.,active,99,890,269,890
+891,Illegal parking,2021-02-21,The vehicle was parked in a no-parking zone.,active,93,891,222,891
+892,Illegal parking,2018-09-15,The vehicle was parked in a no-parking zone.,active,60,892,363,892
+893,Illegal parking,2018-07-06,The vehicle was parked in a no-parking zone.,closed,15,893,94,893
+894,Reckless driving,2020-12-09,I witnessed the driver change lanes without signaling.,closed,73,894,359,894
+895,Running a red light,2016-05-06,I witnessed the driver change lanes without signaling.,closed,2,895,33,895
+896,Running a red light,2017-05-13,The vehicle was speeding excessively.,active,73,896,41,896
+897,Reckless driving,2023-11-13,I witnessed the driver change lanes without signaling.,active,5,897,111,897
+898,Reckless driving,2023-01-10,I saw the driver run a red light.,active,1,898,109,898
+899,Running a red light,2019-11-13,The vehicle was parked in a no-parking zone.,closed,84,899,354,899
+900,Illegal parking,2018-01-16,The vehicle was parked in a no-parking zone.,closed,51,900,76,900
+901,Reckless driving,2022-03-28,The vehicle was parked in a no-parking zone.,active,33,901,21,901
+902,Driving under the influence,2016-04-26,The vehicle was parked in a no-parking zone.,closed,24,902,56,902
+903,Illegal parking,2022-10-09,The driver was using their phone while driving.,closed,75,903,359,903
+904,Reckless driving,2015-06-29,The vehicle was speeding excessively.,closed,55,904,316,904
+905,Speeding,2023-05-17,I witnessed the driver change lanes without signaling.,active,84,905,265,905
+906,Reckless driving,2018-02-01,I witnessed the driver change lanes without signaling.,active,92,906,87,906
+907,Speeding,2019-04-21,The driver was using their phone while driving.,active,91,907,326,907
+908,Illegal parking,2016-06-29,I saw the driver run a red light.,active,35,908,271,908
+909,Driving under the influence,2016-02-13,I saw the driver run a red light.,active,65,909,347,909
+910,Running a red light,2015-07-15,The vehicle was parked in a no-parking zone.,closed,96,910,183,910
+911,Driving under the influence,2018-04-08,The vehicle was speeding excessively.,closed,8,911,83,911
+912,Driving under the influence,2017-10-07,The driver was using their phone while driving.,closed,45,912,313,912
+913,Reckless driving,2016-06-28,The vehicle was parked in a no-parking zone.,active,12,913,243,913
+914,Running a red light,2020-09-30,The vehicle was parked in a no-parking zone.,closed,15,914,156,914
+915,Illegal parking,2017-12-05,The driver was using their phone while driving.,active,5,915,19,915
+916,Reckless driving,2018-05-15,The vehicle was parked in a no-parking zone.,active,43,916,320,916
+917,Speeding,2020-10-20,The vehicle was speeding excessively.,closed,92,917,134,917
+918,Reckless driving,2016-03-19,I saw the driver run a red light.,closed,61,918,304,918
+919,Illegal parking,2022-10-16,I witnessed the driver change lanes without signaling.,closed,9,919,114,919
+920,Illegal parking,2022-01-02,The driver was using their phone while driving.,active,8,920,209,920
+921,Speeding,2020-05-02,I witnessed the driver change lanes without signaling.,closed,59,921,231,921
+922,Reckless driving,2023-08-18,The vehicle was speeding excessively.,active,64,922,330,922
+923,Running a red light,2023-05-19,The vehicle was parked in a no-parking zone.,active,2,923,157,923
+924,Reckless driving,2019-08-16,I witnessed the driver change lanes without signaling.,closed,30,924,327,924
+925,Speeding,2021-04-07,I witnessed the driver change lanes without signaling.,closed,1,925,76,925
+926,Running a red light,2022-04-25,I witnessed the driver change lanes without signaling.,closed,2,926,3,926
+927,Driving under the influence,2018-02-02,The driver was using their phone while driving.,closed,28,927,25,927
+928,Illegal parking,2017-10-19,The vehicle was parked in a no-parking zone.,closed,39,928,207,928
+929,Illegal parking,2019-04-08,I witnessed the driver change lanes without signaling.,active,26,929,45,929
+930,Speeding,2020-01-17,The vehicle was parked in a no-parking zone.,active,75,930,102,930
+931,Illegal parking,2019-06-13,The vehicle was parked in a no-parking zone.,closed,17,931,98,931
+932,Driving under the influence,2016-01-24,I witnessed the driver change lanes without signaling.,closed,25,932,176,932
+933,Illegal parking,2017-11-21,The vehicle was speeding excessively.,closed,8,933,127,933
+934,Reckless driving,2023-06-10,I saw the driver run a red light.,closed,61,934,49,934
+935,Reckless driving,2021-12-04,The vehicle was speeding excessively.,closed,5,935,6,935
+936,Running a red light,2021-08-30,I witnessed the driver change lanes without signaling.,closed,46,936,179,936
+937,Running a red light,2017-03-19,The vehicle was parked in a no-parking zone.,closed,73,937,379,937
+938,Illegal parking,2021-10-25,The vehicle was speeding excessively.,active,98,938,253,938
+939,Illegal parking,2017-09-16,The vehicle was parked in a no-parking zone.,active,56,939,323,939
+940,Reckless driving,2019-03-12,I witnessed the driver change lanes without signaling.,active,72,940,187,940
+941,Reckless driving,2022-08-28,The vehicle was speeding excessively.,closed,56,941,353,941
+942,Illegal parking,2023-06-28,I witnessed the driver change lanes without signaling.,closed,27,942,257,942
+943,Running a red light,2021-03-02,I saw the driver run a red light.,closed,23,943,360,943
+944,Running a red light,2020-11-19,The vehicle was parked in a no-parking zone.,active,90,944,114,944
+945,Running a red light,2017-11-05,The vehicle was parked in a no-parking zone.,closed,49,945,389,945
+946,Driving under the influence,2021-05-31,The vehicle was parked in a no-parking zone.,closed,63,946,22,946
+947,Speeding,2019-04-28,The vehicle was parked in a no-parking zone.,closed,90,947,197,947
+948,Reckless driving,2022-10-12,I saw the driver run a red light.,active,35,948,87,948
+949,Reckless driving,2020-09-03,The driver was using their phone while driving.,closed,10,949,281,949
+950,Reckless driving,2021-10-17,The driver was using their phone while driving.,active,12,950,170,950
+951,Illegal parking,2023-12-05,I witnessed the driver change lanes without signaling.,closed,48,951,346,951
+952,Illegal parking,2016-05-12,The vehicle was speeding excessively.,active,87,952,176,952
+953,Running a red light,2016-06-25,The vehicle was parked in a no-parking zone.,closed,29,953,188,953
+954,Illegal parking,2016-12-03,I witnessed the driver change lanes without signaling.,active,62,954,2,954
+955,Speeding,2015-08-01,The vehicle was parked in a no-parking zone.,closed,37,955,24,955
+956,Illegal parking,2016-06-18,I saw the driver run a red light.,closed,34,956,261,956
+957,Speeding,2019-05-25,I witnessed the driver change lanes without signaling.,closed,44,957,275,957
+958,Illegal parking,2020-11-05,I witnessed the driver change lanes without signaling.,closed,24,958,160,958
+959,Illegal parking,2022-09-09,The vehicle was parked in a no-parking zone.,active,90,959,134,959
+960,Illegal parking,2020-12-08,I witnessed the driver change lanes without signaling.,active,42,960,361,960
+961,Driving under the influence,2018-05-14,I witnessed the driver change lanes without signaling.,closed,89,961,100,961
+962,Driving under the influence,2018-03-22,I witnessed the driver change lanes without signaling.,closed,6,962,140,962
+963,Speeding,2021-12-24,The vehicle was speeding excessively.,closed,36,963,114,963
+964,Driving under the influence,2016-08-06,I witnessed the driver change lanes without signaling.,closed,6,964,216,964
+965,Reckless driving,2017-02-12,I witnessed the driver change lanes without signaling.,active,29,965,157,965
+966,Running a red light,2023-01-05,I witnessed the driver change lanes without signaling.,active,77,966,341,966
+967,Illegal parking,2022-04-28,The driver was using their phone while driving.,active,43,967,96,967
+968,Reckless driving,2020-04-25,I witnessed the driver change lanes without signaling.,closed,89,968,177,968
+969,Illegal parking,2015-12-08,The driver was using their phone while driving.,active,62,969,202,969
+970,Illegal parking,2019-03-02,The driver was using their phone while driving.,active,98,970,184,970
+971,Running a red light,2023-05-08,I saw the driver run a red light.,active,11,971,157,971
+972,Illegal parking,2017-04-10,I witnessed the driver change lanes without signaling.,closed,30,972,23,972
+973,Reckless driving,2020-06-25,I witnessed the driver change lanes without signaling.,closed,85,973,20,973
+974,Illegal parking,2018-06-26,The driver was using their phone while driving.,active,68,974,68,974
+975,Illegal parking,2023-03-28,The vehicle was speeding excessively.,active,45,975,182,975
+976,Reckless driving,2017-01-02,The vehicle was parked in a no-parking zone.,closed,2,976,339,976
+977,Speeding,2015-08-29,The driver was using their phone while driving.,closed,7,977,37,977
+978,Running a red light,2020-06-06,I saw the driver run a red light.,closed,36,978,347,978
+979,Illegal parking,2023-04-08,The driver was using their phone while driving.,active,19,979,240,979
+980,Illegal parking,2017-02-19,I saw the driver run a red light.,closed,2,980,115,980
+981,Illegal parking,2020-08-05,The driver was using their phone while driving.,active,4,981,276,981
+982,Speeding,2019-03-18,The vehicle was speeding excessively.,closed,62,982,363,982
+983,Speeding,2017-08-16,The driver was using their phone while driving.,active,51,983,2,983
+984,Running a red light,2023-10-31,The vehicle was speeding excessively.,closed,99,984,170,984
+985,Speeding,2019-04-01,The driver was using their phone while driving.,active,95,985,247,985
+986,Driving under the influence,2023-10-20,I saw the driver run a red light.,closed,28,986,227,986
+987,Speeding,2020-11-24,The driver was using their phone while driving.,active,49,987,97,987
+988,Speeding,2022-11-30,The vehicle was parked in a no-parking zone.,active,83,988,4,988
+989,Driving under the influence,2017-11-04,The vehicle was parked in a no-parking zone.,active,71,989,295,989
+990,Running a red light,2015-09-13,I witnessed the driver change lanes without signaling.,active,86,990,232,990
+991,Illegal parking,2018-09-13,The vehicle was speeding excessively.,closed,30,991,80,991
+992,Driving under the influence,2022-01-17,The driver was using their phone while driving.,closed,41,992,31,992
+993,Driving under the influence,2019-01-05,I witnessed the driver change lanes without signaling.,active,31,993,155,993
+994,Illegal parking,2019-11-01,I witnessed the driver change lanes without signaling.,active,2,994,11,994
+995,Reckless driving,2016-07-28,The driver was using their phone while driving.,active,48,995,327,995
+996,Speeding,2016-09-16,I saw the driver run a red light.,active,91,996,226,996
+997,Reckless driving,2021-09-08,The driver was using their phone while driving.,closed,12,997,348,997
+998,Reckless driving,2015-06-28,I saw the driver run a red light.,active,66,998,393,998
+999,Reckless driving,2021-12-20,The vehicle was parked in a no-parking zone.,active,3,999,35,999
+1000,Illegal parking,2022-05-20,The vehicle was parked in a no-parking zone.,closed,72,1000,303,1000
