@@ -18,13 +18,4 @@
 
 \COPY Witness FROM 'C:\Users\Admin\DataGripProjects\administrative_violation\csv_data\witness.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
 
-SELECT * FROM Vehicle_Owner;
-SELECT * FROM Vehicle;
-SELECT * FROM Driver;
-SELECT * FROM Violation_Category;
-SELECT * FROM Violation;
-SELECT * FROM Police_Officer;
-SELECT * FROM Violation_Location;
-SELECT * FROM Fine;
-SELECT * FROM Violation_Act;
-SELECT * FROM Witness;
+

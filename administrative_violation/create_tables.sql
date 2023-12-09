@@ -80,8 +80,11 @@ CREATE TABLE IF NOT EXISTS Violation_Act(
 );
 
 CREATE TABLE IF NOT EXISTS Witness(
+--     witness id!!!
+--     witness_id SERIAL PRIMARY KEY NOT NULL,
     name VARCHAR(25) NOT NULL,
     last_name VARCHAR(25) NOT NULL,
     phone_number VARCHAR(12) NOT NULL,
     violation_act_id INT REFERENCES Violation_Act(violation_act_id) ON DELETE CASCADE NOT NULL
 );
+
