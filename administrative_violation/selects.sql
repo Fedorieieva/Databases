@@ -1,64 +1,52 @@
--- 1 total number of vehicles per owner and owner data
-CREATE OR REPLACE VIEW owner_data AS
-SELECT CONCAT(name, ' ', last_name) AS full_name,
-       phone_number,
-       address,
-       ipn_code,
-       COUNT(v.vin) AS total_vehicles
-FROM vehicle_owner
-INNER JOIN vehicle v ON vehicle_owner.owner_id = v.owner_id
-GROUP BY full_name, phone_number, address, ipn_code;
-
-SELECT * FROM owner_data;
-
-
--- 2 driver violation and vehicle data
-CREATE OR REPLACE VIEW request_driver_data AS
-SELECT CONCAT(name, ' ', last_name) AS full_name,
-    vi.drivers_licence,
-    phone_number,
-    address,
-    v.vin,
-    v.registration_number,
-    v.brand,
-    v.model,
-    v.manufacture_year,
-    vi.violation_type
-FROM driver
-INNER JOIN vehicle v ON v.vin = driver.vin
-INNER JOIN violation vi ON driver.drivers_licence = vi.drivers_licence;
-
-SELECT * FROM request_driver_data;
+-- 1 selecting all vehicle owners with at least two registered
+-- violations and with their fine amount
+SELECT vo.name, vo.last_name, SUM(f.fine_amount) AS total_fine_amount
+FROM Vehicle_Owner vo
+INNER JOIN vehicle ch ON vo.owner_id = ch.owner_id
+INNER JOIN Driver d ON ch.vin = d.vin
+INNER JOIN Violation v ON d.drivers_licence = v.drivers_licence
+INNER JOIN Violation_Act va ON v.violation_id = va.violation_id
+INNER JOIN Fine f ON va.fine_id = f.fine_id
+WHERE v.status = 'registered'
+GROUP BY vo.owner_id, vo.name, vo.last_name
+HAVING COUNT(*) >= 2;
 
 
--- 3 violation act description, driver information and fine for violation
-CREATE OR REPLACE VIEW violation_act_information AS
-SELECT va.violation_description,
-    CONCAT(d.name, ' ', d.last_name) AS driver_name,
-    d.drivers_licence,
-    f.fine_amount,
-    f.status AS fine_status
-FROM violation_act va
-INNER JOIN fine f ON f.fine_id = va.fine_id
-INNER JOIN violation v ON v.violation_id = va.violation_id
-INNER JOIN driver d ON v.drivers_licence = d.drivers_licence;
-
-SELECT * FROM violation_act_information;
+-- 2 information about witnesses for a violation act with a
+-- specific ID, including the vehicle owner's name
+SELECT CONCAT(w.name, ' ', w.last_name) AS witness_name,
+       CONCAT(vo.name, ' ', vo.last_name) AS owner_name
+FROM Witness w
+INNER JOIN Violation_Act va ON w.violation_act_id = va.violation_act_id
+INNER JOIN Violation v ON va.violation_id = v.violation_id
+INNER JOIN Driver d ON v.drivers_licence = d.drivers_licence
+INNER JOIN vehicle vh ON d.vin = vh.vin
+INNER JOIN Vehicle_Owner vo ON vh.owner_id = vo.owner_id
+WHERE va.violation_act_id = ?;
 
 
--- 4 selecting speeding drivers and their vehicles
-CREATE OR REPLACE VIEW speeding_drivers_and_vehicles AS
-SELECT CONCAT(d.name, ' ', d.last_name) AS driver_name,
-    d.drivers_licence,
-    v.vin,
-    v.registration_number,
-    vio.violation_type
-FROM driver d
-INNER JOIN vehicle v ON v.vin = d.vin
-INNER JOIN violation vio ON vio.drivers_licence = d.drivers_licence
-WHERE vio.violation_type = 'Speeding';
+-- 3 selecting vehicle details with names of their owners
+SELECT v.vin,
+       v.registration_number,
+       v.brand,
+       v.model,
+       v.manufacture_year,
+       CONCAT(vo.name, ' ', vo.last_name) AS owner_name
+FROM Vehicle v
+JOIN Vehicle_Owner vo ON v.owner_id = vo.owner_id;
 
-SELECT * FROM speeding_drivers_and_vehicles;
+
+-- 4 selecting details of vehicles, their owners,
+-- and the corresponding violation information
+SELECT v.vin,
+       v.registration_number,
+       CONCAT(vo.name, ' ', vo.last_name) AS owner_name,
+       vio.violation_type,
+       vio.date_time
+FROM Vehicle v
+JOIN Vehicle_Owner vo ON v.owner_id = vo.owner_id
+JOIN driver d ON v.vin = d.vin
+LEFT JOIN Violation vio ON d.drivers_licence = vio.drivers_licence;
 
 
 -- 5 selecting drivers who didn't pay their fine
@@ -72,7 +60,7 @@ INNER JOIN fine f ON va.fine_id = f.fine_id
 WHERE f.status = 'not payed';
 
 
--- 6 selecting all closed violation acts with their description
+-- 6 selecting all closed violation acts with their description and driver name
 SELECT CONCAT(d.name, ' ', d.last_name) AS driver_name,
     d.drivers_licence,
     va.violation_description,
@@ -98,8 +86,8 @@ INNER JOIN driver d ON v.drivers_licence = d.drivers_licence
 WHERE va.status = 'active';
 
 
--- 8 counting how many description types there are for each
--- violation and counting average fine amount
+-- 8 counting number of violations and average fines
+-- for each violation description
 SELECT va.violation_description,
     COUNT(*) AS num_violations,
     AVG(f.fine_amount) AS avg_fine_amount
@@ -183,20 +171,8 @@ GROUP BY v.brand
 ORDER BY num_locations_seen DESC;
 
 
--- 15 select drivers and their licence, who drove during curfew
-SELECT CONCAT(d.name, ' ', d.last_name) AS driver_name,
-       d.drivers_licence
-FROM driver d
-WHERE d.drivers_licence IN (
-    SELECT DISTINCT v.drivers_licence
-    FROM violation v
-    JOIN violation_act va ON v.violation_id = va.violation_id
-    WHERE EXTRACT(HOUR FROM v.date_time) >= 0 AND EXTRACT(HOUR FROM v.date_time) < 5
-);
-
-
 --
--- 16 counting total number of violations in each town
+-- 15 counting total number of violations in each town
 SELECT vl.town,
     COUNT(v.violation_id) AS num_violations
 FROM violation_location vl
@@ -206,7 +182,7 @@ GROUP BY town
 ORDER BY num_violations DESC;
 
 
--- 17 counting number of fines and their sum for each year
+-- 16 counting number of fines and their sum for each year
 SELECT EXTRACT(YEAR FROM va.date_time) AS year,
     COUNT(*) AS num_fines,
     SUM(f.fine_amount) AS total_fine_amount
@@ -214,6 +190,18 @@ FROM Violation_Act va
 JOIN Fine f ON va.fine_id = f.fine_id
 GROUP BY year
 ORDER BY year;
+
+
+-- 17 select drivers and their licence, who drove during curfew
+SELECT CONCAT(d.name, ' ', d.last_name) AS driver_name,
+       d.drivers_licence
+FROM driver d
+WHERE d.drivers_licence IN (
+    SELECT DISTINCT v.drivers_licence
+    FROM violation v
+    JOIN violation_act va ON v.violation_id = va.violation_id
+    WHERE EXTRACT(HOUR FROM v.date_time) >= 0 AND EXTRACT(HOUR FROM v.date_time) < 5
+);
 
 
 -- 18 selecting drivers and their drivers licence whose violation
