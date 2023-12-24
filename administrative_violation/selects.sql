@@ -1,6 +1,8 @@
 -- 1 selecting all vehicle owners with at least two registered
 -- violations and with their fine amount
-SELECT vo.name, vo.last_name, SUM(f.fine_amount) AS total_fine_amount
+SELECT vo.name,
+       vo.last_name,
+       SUM(f.fine_amount) AS total_fine_amount
 FROM Vehicle_Owner vo
 INNER JOIN vehicle ch ON vo.owner_id = ch.owner_id
 INNER JOIN Driver d ON ch.vin = d.vin
