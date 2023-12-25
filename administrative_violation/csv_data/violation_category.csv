@@ -1,11 +1,12 @@
 violation_category_id,name,description
-1,Driving without a license,Driving on the wrong side of the road
-2,Illegal parking,Driving under the influence
-3,Expired registration,Texting while driving
-4,Expired registration,Driving under the influence
-5,Failure to yield,Improper lane change
-6,Driving without a license,Driving in a carpool lane without passengers
-7,Illegal parking,Speeding over the limit
-8,Reckless driving,Tailgating
-9,Illegal parking,Failure to stop at a stop sign
-10,Expired registration,Failure to obey traffic signs
+1,Illegal Parking,Parking in restricted areas; blocking driveways; or parking in no-parking zones can result in fines and towing.
+2,Using a Mobile Phone While Driving,Texting or talking on a mobile phone without a hands-free device while driving is a common violation aimed at reducing distracted driving.
+3,Failure to Wear a Seatbelt,Failure to wear seatbelts while a vehicle is in motion.
+4,Driving Under the Influence (DUI),Operating a vehicle while under the influence of alcohol or drugs is a severe violation with serious legal consequences; including license suspension and fines.
+5,Speeding,Driving over the posted speed limit is a common administrative violation and can result in fines or other penalties.
+6,Driving Without a Valid License,Operating a vehicle without a valid driver's license is a serious offense and can lead to legal consequences.
+7,Running a Red Light,Disregarding traffic signals and running red lights poses a serious risk to both the driver and others on the road.
+8,Failure to Yield,Not giving the right of way when required; such as at intersections or crosswalks; can lead to accidents and is considered an administrative violation.
+9,Driving Without Insurance,Operating a vehicle without the necessary insurance coverage is a violation that can result in fines and other penalties.
+10,Failure to Signal,Not using turn signals or indicators appropriately when turning or changing lanes is an administrative violation.
+11,Reckless Driving,Reckless driving refers to the operation of a vehicle in a manner that demonstrates a willful and wanton disregard for the safety of others or property. It typically involves driving with a blatant disregard for traffic laws; road conditions; and the potential consequences of one's actions.
