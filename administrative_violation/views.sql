@@ -31,7 +31,7 @@ INNER JOIN violation vi ON driver.drivers_licence = vi.drivers_licence;
 SELECT * FROM request_driver_data;
 
 
--- 3 violation act description, driver information and fine for violation
+-- 3 violation act description, driver information and fine for their violation
 CREATE OR REPLACE VIEW violation_act_information AS
 SELECT va.violation_description,
     CONCAT(d.name, ' ', d.last_name) AS driver_name,

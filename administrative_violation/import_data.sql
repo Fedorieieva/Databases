@@ -16,14 +16,4 @@
 
 \COPY Violation_Act FROM 'C:\Users\Admin\DataGripProjects\administrative_violation\csv_data\violation_act.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
 
-\COPY Witness FROM 'C:\Users\Admin\DataGripProjects\administrative_violation\csv_data\witness.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
 
-select * from vehicle;
-select * from Vehicle_Owner;
-select * from Driver;
-select * from Violation_Category;
-select * from Police_Officer;
-select * from Violation_Location;
-select * from Fine;
-select * from Violation;
-select * from Witness;

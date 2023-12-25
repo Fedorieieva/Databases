@@ -8,12 +8,13 @@ BEGIN
     SELECT AVG(f.fine_amount) INTO avg_fine_amount
     FROM fine f
     INNER JOIN violation_act va ON f.fine_id = va.fine_id
-    WHERE va.violation_description = violation;
+    INNER JOIN violation v ON va.violation_id = v.violation_id
+    WHERE v.violation_type = violation;
     RETURN avg_fine_amount;
 END;
 $$ LANGUAGE plpgsql;
 
-SELECT average_fine_by_violation('Illegal parking');
+SELECT average_fine_by_violation('Speeding');
 
 
 -- 2 selecting all officers and their total penalty sum
@@ -136,7 +137,8 @@ BEGIN
     SELECT CONCAT(w.name, ' ', w.last_name) AS witness_name
     FROM witness w
     JOIN violation_act va ON w.violation_act_id = va.violation_act_id
-    WHERE va.violation_description = violation_description_param;
+    JOIN violation v ON va.violation_id = v.violation_id
+    WHERE v.violation_type = violation_description_param;
 END;
 $$ LANGUAGE plpgsql;
 
@@ -176,7 +178,7 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
-SELECT * FROM get_violations_by_license('NM-720679-18-46-57-KO');
+SELECT * FROM get_violations_by_license('NU-016804-91-22');
 
 
 -- 10 get vehicle owners from violation location

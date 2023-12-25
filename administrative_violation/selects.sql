@@ -90,12 +90,13 @@ WHERE va.status = 'active';
 
 -- 8 counting number of violations and average fines
 -- for each violation description
-SELECT va.violation_description,
+SELECT v.violation_type,
     COUNT(*) AS num_violations,
     AVG(f.fine_amount) AS avg_fine_amount
-FROM violation_act va
+FROM violation v
+INNER JOIN violation_act va on v.violation_id = va.violation_id
 INNER JOIN fine f ON va.fine_id = f.fine_id
-GROUP BY violation_description
+GROUP BY violation_type
 ORDER BY num_violations DESC;
 
 
@@ -103,12 +104,13 @@ ORDER BY num_violations DESC;
 -- how many active violations they registered of each type
 SELECT p.officer_id,
        CONCAT(p.name, ' ', p.last_name) AS police_officer_name,
-       va.violation_description,
+       v.violation_type,
        COUNT(*) AS num_violations
 FROM police_officer p
 INNER JOIN violation_act va ON va.officer_id = p.officer_id
+INNER JOIN violation v ON va.violation_id = v.violation_id
 WHERE va.status = 'active'
-GROUP BY p.officer_id, va.violation_description
+GROUP BY p.officer_id, v.violation_type
 ORDER BY police_officer_name;
 
 
@@ -137,17 +139,16 @@ WHERE f.status = 'not payed'
 AND f.payment_term BETWEEN (NOW() - INTERVAL '1 year') AND NOW();
 
 
---
 -- 12 count how much money is supposed to be payed for each violation description
-SELECT va.violation_description,
+SELECT v.violation_type,
     SUM(f.fine_amount) AS sum_fine_amount
-FROM violation_act va
+FROM violation v
+INNER JOIN violation_act va on v.violation_id = va.violation_id
 INNER JOIN fine f ON va.fine_id = f.fine_id
 WHERE f.status = 'not payed'
-GROUP BY violation_description;
+GROUP BY violation_type;
 
 
---
 -- 13 selecting officers and number of witnesses that gave testimony to them
 SELECT p.officer_id,
     CONCAT(p.name, ' ', p.last_name) AS police_officer_name,
@@ -159,7 +160,6 @@ GROUP BY p.officer_id, police_officer_name
 ORDER BY num_witness_occurrences DESC;
 
 
---
 -- 14 selecting all car brands ad counting how many times they occurred in a violation
 SELECT v.brand,
     COUNT(DISTINCT vl.location_id) AS num_locations_seen
@@ -173,7 +173,6 @@ GROUP BY v.brand
 ORDER BY num_locations_seen DESC;
 
 
---
 -- 15 counting total number of violations in each town
 SELECT vl.town,
     COUNT(v.violation_id) AS num_violations
@@ -207,7 +206,7 @@ WHERE d.drivers_licence IN (
 
 
 -- 18 selecting drivers and their drivers licence whose violation
--- act is active and fine amount is less than 20
+-- act is active and fine amount is less than 1200
 SELECT CONCAT(d.name, ' ', d.last_name) AS driver_name,
        d.drivers_licence
 FROM driver d
@@ -218,7 +217,7 @@ WHERE d.drivers_licence IN (
          fine f
     WHERE va.violation_id = v.violation_id
     AND va.fine_id = f.fine_id
-    AND f.fine_amount < 40
+    AND f.fine_amount < 1200
     AND va.status = 'active'
 );
 
@@ -226,17 +225,18 @@ WHERE d.drivers_licence IN (
 -- 19 selecting officer id and name with most violation acts for each violation description
 SELECT officer_id,
     police_officer_name,
-    violation_description,
+    violation_type,
     num_violation_acts
 FROM (
     SELECT p.officer_id,
            CONCAT(p.name, ' ', p.last_name) AS police_officer_name,
-           va.violation_description,
+           v.violation_type,
            COUNT(va.violation_act_id) AS num_violation_acts,
-           ROW_NUMBER() OVER (PARTITION BY va.violation_description ORDER BY COUNT(va.violation_act_id) DESC) AS rank
-    FROM Police_Officer p
-    INNER JOIN Violation_Act va ON p.officer_id = va.officer_id
-    GROUP BY p.officer_id, police_officer_name, va.violation_description
+           ROW_NUMBER() OVER (PARTITION BY v.violation_type ORDER BY COUNT(va.violation_act_id) DESC) AS rank
+    FROM police_Officer p
+    INNER JOIN violation_Act va ON p.officer_id = va.officer_id
+    INNER JOIN violation v ON va.violation_id = v.violation_id
+    GROUP BY p.officer_id, CONCAT(p.name, ' ', p.last_name), v.violation_type
 ) AS RankedOfficers
 WHERE rank = 1
 ORDER BY num_violation_acts DESC;

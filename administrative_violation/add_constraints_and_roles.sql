@@ -1,9 +1,7 @@
--- add more constraints
-
-ALTER TABLE Vehicle
-ADD CONSTRAINT no_future_date CHECK (manufacture_year <= CURRENT_DATE);
-
 ALTER TABLE Violation
+ADD CONSTRAINT no_future_date CHECK (date_time <= CURRENT_TIMESTAMP);
+
+ALTER TABLE Violation_Act
 ADD CONSTRAINT no_future_date CHECK (date_time <= CURRENT_TIMESTAMP);
 
 
