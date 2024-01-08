@@ -18,3 +18,15 @@ CREATE INDEX violation_act_idx ON violation_act(violation_description,date_time,
 
 CREATE INDEX witness_idx ON witness(name,last_name,phone_number);
 
+EXPLAIN ANALYZE SELECT vo.name,
+       vo.last_name,
+       SUM(f.fine_amount) AS total_fine_amount
+FROM vehicle_owner vo
+INNER JOIN vehicle ch ON vo.owner_id = ch.owner_id
+INNER JOIN driver d ON ch.vin = d.vin
+INNER JOIN violation v ON d.drivers_licence = v.drivers_licence
+INNER JOIN violation_act va ON v.violation_id = va.violation_id
+INNER JOIN fine f ON va.fine_id = f.fine_id
+WHERE v.status = 'registered'
+GROUP BY vo.owner_id, vo.name, vo.last_name
+HAVING COUNT(*) >= 2;

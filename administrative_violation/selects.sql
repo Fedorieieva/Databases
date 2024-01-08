@@ -1,14 +1,14 @@
 -- 1 selecting all vehicle owners with at least two registered
--- violations and with their fine amount
+-- violations with their fine amount
 SELECT vo.name,
        vo.last_name,
        SUM(f.fine_amount) AS total_fine_amount
-FROM Vehicle_Owner vo
+FROM vehicle_owner vo
 INNER JOIN vehicle ch ON vo.owner_id = ch.owner_id
-INNER JOIN Driver d ON ch.vin = d.vin
-INNER JOIN Violation v ON d.drivers_licence = v.drivers_licence
-INNER JOIN Violation_Act va ON v.violation_id = va.violation_id
-INNER JOIN Fine f ON va.fine_id = f.fine_id
+INNER JOIN driver d ON ch.vin = d.vin
+INNER JOIN violation v ON d.drivers_licence = v.drivers_licence
+INNER JOIN violation_act va ON v.violation_id = va.violation_id
+INNER JOIN fine f ON va.fine_id = f.fine_id
 WHERE v.status = 'registered'
 GROUP BY vo.owner_id, vo.name, vo.last_name
 HAVING COUNT(*) >= 2;
@@ -18,12 +18,12 @@ HAVING COUNT(*) >= 2;
 -- specific ID, including the vehicle owner's name
 SELECT CONCAT(w.name, ' ', w.last_name) AS witness_name,
        CONCAT(vo.name, ' ', vo.last_name) AS owner_name
-FROM Witness w
-INNER JOIN Violation_Act va ON w.violation_act_id = va.violation_act_id
-INNER JOIN Violation v ON va.violation_id = v.violation_id
-INNER JOIN Driver d ON v.drivers_licence = d.drivers_licence
+FROM witness w
+INNER JOIN violation_act va ON w.violation_act_id = va.violation_act_id
+INNER JOIN violation v ON va.violation_id = v.violation_id
+INNER JOIN driver d ON v.drivers_licence = d.drivers_licence
 INNER JOIN vehicle vh ON d.vin = vh.vin
-INNER JOIN Vehicle_Owner vo ON vh.owner_id = vo.owner_id
+INNER JOIN vehicle_owner vo ON vh.owner_id = vo.owner_id
 WHERE va.violation_act_id = ?;
 
 
@@ -34,8 +34,9 @@ SELECT v.vin,
        v.model,
        v.manufacture_year,
        CONCAT(vo.name, ' ', vo.last_name) AS owner_name
-FROM Vehicle v
-JOIN Vehicle_Owner vo ON v.owner_id = vo.owner_id;
+FROM vehicle v
+JOIN vehicle_owner vo ON v.owner_id = vo.owner_id
+ORDER BY owner_name;
 
 
 -- 4 selecting details of vehicles, their owners,
@@ -45,10 +46,10 @@ SELECT v.vin,
        CONCAT(vo.name, ' ', vo.last_name) AS owner_name,
        vio.violation_type,
        vio.date_time
-FROM Vehicle v
-JOIN Vehicle_Owner vo ON v.owner_id = vo.owner_id
+FROM vehicle v
+JOIN vehicle_owner vo ON v.owner_id = vo.owner_id
 JOIN driver d ON v.vin = d.vin
-LEFT JOIN Violation vio ON d.drivers_licence = vio.drivers_licence;
+LEFT JOIN violation vio ON d.drivers_licence = vio.drivers_licence;
 
 
 -- 5 selecting drivers who didn't pay their fine
@@ -73,8 +74,8 @@ INNER JOIN violation_act va ON v.violation_id = va.violation_id
 WHERE va.status = 'closed';
 
 
--- 7 selecting active violation act id's with witness name
--- and testimony and driver information
+-- 7 selecting active violation act id's with witness name,
+-- testimony and driver information
 SELECT va.violation_act_id,
     CONCAT(w.name, ' ', w.last_name) AS witness_name,
     va.witness_testimony,
@@ -202,6 +203,7 @@ WHERE d.drivers_licence IN (
     FROM violation v
     JOIN violation_act va ON v.violation_id = va.violation_id
     WHERE EXTRACT(HOUR FROM v.date_time) >= 0 AND EXTRACT(HOUR FROM v.date_time) < 5
+    AND EXTRACT(YEAR FROM v.date_time) >= 2022
 );
 
 
@@ -232,7 +234,9 @@ FROM (
            CONCAT(p.name, ' ', p.last_name) AS police_officer_name,
            v.violation_type,
            COUNT(va.violation_act_id) AS num_violation_acts,
-           ROW_NUMBER() OVER (PARTITION BY v.violation_type ORDER BY COUNT(va.violation_act_id) DESC) AS rank
+           ROW_NUMBER() OVER
+               (PARTITION BY v.violation_type
+               ORDER BY COUNT(va.violation_act_id) DESC) AS rank
     FROM police_Officer p
     INNER JOIN violation_Act va ON p.officer_id = va.officer_id
     INNER JOIN violation v ON va.violation_id = v.violation_id

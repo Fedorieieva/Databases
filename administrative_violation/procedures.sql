@@ -91,15 +91,15 @@ SELECT * FROM avg_violations_by_vehicle_make();
 
 -- 5 selecting violation descriptions and number of violations for the past month
 CREATE OR REPLACE FUNCTION violation_count_for_the_last_month()
-RETURNS TABLE (violation_description TEXT, violation_count INT)
+RETURNS TABLE (violation_type VARCHAR(255), violation_count INT)
 AS $$
 BEGIN
     RETURN QUERY
-    SELECT va.violation_description,
+    SELECT v.violation_type,
            COUNT(*)::INT AS violation_count
-    FROM violation_act va
-    WHERE va.date_time >= NOW() - INTERVAL '1 month'
-    GROUP BY va.violation_description
+    FROM violation v
+    WHERE v.date_time >= NOW() - INTERVAL '1 month'
+    GROUP BY v.violation_type
     ORDER BY violation_count DESC;
 END;
 $$ LANGUAGE plpgsql;
@@ -199,5 +199,20 @@ END;
 $$ LANGUAGE plpgsql;
 
 SELECT * FROM get_vehicle_owners_by_location('Las Vegas');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
